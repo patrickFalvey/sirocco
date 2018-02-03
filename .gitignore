@@ -28,3 +28,7 @@ hs_err_pid*.log
 # Ignore MacOSX files.
 .DS_Store
 
+# IntelliJ Files
+.idea
+.idea/*
+*.iml

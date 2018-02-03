@@ -1,0 +1,114 @@
+----------- TASK [1] --------------
+TEXT STATS Length [1392] Paragraphs [10] Unique Entities [37] Index [147] ms Chunk [107] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+4.1 "cult-classic sci-fi television program" [Good Topic]
+3.7 "crew quarter" [Good Topic]
+3.6 "spacecraft iconic mess hall" [Good Topic]
+3.4 "engine room" [Good Topic]
+3.4 "Serenity" [Good Topic]
+3.2 "virtual reality thanks" [Good Topic]
+3.2 "cargo hold" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Serenity
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Indie developer recreates the {{Serenity}} spacecraft from ' Firefly ' in VR.
+Sentiment {0} Serialized Representation: V2|1|Serenity|36|43|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: 
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: I don't need any of that <<junk>> in virtual reality.
+Sentiment {1} Serialized Representation: V2|0|1|25|28|1|n
+Sentiment {1} Signals: ZFC8S94o
+Sentiment {2} Tags: cult-classic sci-fi television program, Serenity, virtual reality thanks
+Sentiment {2} Dominant Valence: positive
+Sentiment {2} Total Sentiment Score: 10.0
+Sentiment {2} Annotated Text: <<Fans>> of the {{cult-classic sci-fi television program}} Firefly can now explore the show's {{Serenity}} vessel in {{virtual reality thanks}} to the work of indie developer Kaveh Tabar.
+Sentiment {2} Serialized Representation: V2|3|cult-classic sci-fi television program|12|49|1|eSerenity|86|93|1|evirtual reality thanks|105|126|1|e1|0|3|1|p
+Sentiment {2} Signals: MYy0ZKIZ
+Sentiment {3} Tags: spacecraft iconic mess hall
+Sentiment {3} Dominant Valence: negative
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: He has spent the last several years piecing together the {{spacecraft's iconic <<mess>> hall}}, hallway, and cockpit.
+Sentiment {3} Serialized Representation: V2|1|spacecraft iconic mess hall|57|85|1|e1|77|80|1|n
+Sentiment {3} Signals: TZOZCTdS
+Sentiment {4} Tags: crew quarter, engine room, cargo hold
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: All that's <<missing>> are some toy dinosaurs on the dashboard … and the {{engine room}}, {{crew quarters}}, {{cargo hold}}, and infirmary.
+Sentiment {4} Serialized Representation: V2|3|crew quarter|82|94|1|eengine room|69|79|1|ecargo hold|97|106|1|e1|11|17|1|s
+Sentiment {4} Signals: FwvQEzbY
+Sentiment {5} Tags: 
+Sentiment {5} Dominant Valence: negative
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: Tabar is building this in Unity, which means that once he finishes it and decides to distribute it, you can explore the <<outlaw>> Malcolm Reynolds' boat for yourself in the HTC Vive or Oculus Rift.
+Sentiment {5} Serialized Representation: V2|0|1|120|125|1|n
+Sentiment {5} Signals: T3igfRTn
+Sentiment {6} Tags: 
+Sentiment {6} Dominant Valence: positive
+Sentiment {6} Total Sentiment Score: 10.0
+Sentiment {6} Annotated Text: Tabar recently posted an update on his blog about the <<progress>> he has made, and he even tweeted out a video of the cockpit:
+Sentiment {6} Serialized Representation: V2|0|1|54|61|1|p
+Sentiment {6} Signals: 3D5OtewK, 1yWgbqyR
+Sentiment {7} Tags: 
+Sentiment {7} Dominant Valence: positive
+Sentiment {7} Total Sentiment Score: 20.399998
+Sentiment {7} Annotated Text: "As for the other areas of the ship, the <<mess>> and hallway are <<pretty>> <<much>> done, " he wrote.
+Sentiment {7} Serialized Representation: V2|0|3|62|67|1|p41|44|1|n69|72|1|p
+Sentiment {7} Signals: TZOZCTdS, BuXztsZ_, KFsquLxb
+Sentiment {8} Tags: crew quarter, engine room, cargo hold
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: "Next, I'll be working on updating the {{cargo hold}} and infirmary area and then adding the {{engine room}} and {{crew quarters}}. "
+Sentiment {8} Serialized Representation: V2|3|crew quarter|105|117|1|eengine room|89|99|1|ecargo hold|39|48|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: Serenity
+Sentiment {9} Dominant Valence: zero
+Sentiment {9} Total Sentiment Score: 0.0
+Sentiment {9} Annotated Text: He's also working on including interactivity for the Vive controllers so that {{Serenity}} doesn't come across as a sterile museum.
+Sentiment {9} Serialized Representation: V2|1|Serenity|78|85|1|e0|
+Sentiment {9} Signals: 
+
+LINKS Begin:
+http://venturebeat.com/2016/10/15/indie-developer-re-creates-the-serenity-spacecraft-from-firefly-in-vr/
+
+FULL ANNOTATED TEXT Begin:
+Title=Indie developer recreates the [e]{{Serenity}} spacecraft from ' Firefly ' in VR. 
+Author=JEFF GRUBB. 
+PubTime=2016-10-15 20:15:00. 
+http://venturebeat.com/2016/10/15/indie-developer-re-creates-the-serenity-spacecraft-from-firefly-in-vr/ -vr/ 
+Language=EN. 
+Burn the land. Boil the sea. I don't need any of that [n]<<junk>> in virtual reality. 
+[p]<<Fans>> of the [e]{{cult-classic sci-fi television program}} Firefly can now explore the show's [e]{{Serenity}} vessel in [e]{{virtual reality thanks}} to the work of indie developer Kaveh Tabar. He has spent the last several years piecing together the [e]{{spacecraft's iconic [n]<<mess>> hall}}, hallway, and cockpit. All that's [s]<<missing>> are some toy dinosaurs on the dashboard … and the [e]{{engine room}}, [e]{{crew quarters}}, [e]{{cargo hold}}, and infirmary. Tabar is building this in Unity, which means that once he finishes it and decides to distribute it, you can explore the [n]<<outlaw>> Malcolm Reynolds' boat for yourself in the HTC Vive or Oculus Rift. 
+Tabar recently posted an update on his blog about the [p]<<progress>> he has made, and he even tweeted out a video of the cockpit: 
+"As for the other areas of the ship, the [n]<<mess>> and hallway are [p]<<pretty>> [p]<<much>> done, " he wrote. "Next, I'll be working on updating the [e]{{cargo hold}} and infirmary area and then adding the [e]{{engine room}} and [e]{{crew quarters}}. " 
+He's also working on including interactivity for the Vive controllers so that [e]{{Serenity}} doesn't come across as a sterile museum. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Indie developer recreates the Serenity spacecraft from ‘Firefly’ in VR
+Author=JEFF GRUBB
+PubTime=2016-10-15 20:15:00
+Url=http://venturebeat.com/2016/10/15/indie-developer-re-creates-the-serenity-spacecraft-from-firefly-in-vr/
+Language=EN
+
+Burn the land. Boil the sea. I don’t need any of that junk in virtual reality.
+
+Fans of the cult-classic sci-fi television program Firefly can now explore the show’s Serenity vessel in virtual reality thanks to the work of indie developer Kaveh Tabar. He has spent the last several years piecing together the spacecraft’s iconic mess hall, hallway, and cockpit. All that’s missing are some toy dinosaurs on the dashboard … and the engine room, crew quarters, cargo hold, and infirmary. Tabar is building this in Unity, which means that once he finishes it and decides to distribute it, you can explore the outlaw Malcolm Reynolds’ boat for yourself in the HTC Vive or Oculus Rift.
+
+Tabar recently posted an update on his blog about the progress he has made, and he even tweeted out a video of the cockpit:
+
+“As for the other areas of the ship, the mess and hallway are pretty much done,” he wrote. “Next, I’ll be working on updating the cargo hold and infirmary area and then adding the engine room and crew quarters.”
+
+He’s also working on including interactivity for the Vive controllers so that Serenity doesn’t come across as a sterile museum.

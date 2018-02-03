@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 
 if [ $# -eq 0 ]
@@ -23,7 +24,7 @@ for f in $(find $INPUT_DIR -name '[^.]*.txt'); do
     #echo $FILENAME $UPPER_DIR $NEWNAME
     mvn exec:java \
         -Dexec.mainClass=sirocco.cmdline.CLI \
-        -Dexec.args="Indexer -inputFile \"$f\" -outputFile \"$NEWNAME\" -indexingType \"$INDEXINGTYPE\""
+        -Dexec.args="Indexer -inputFile \"$f\" -outputFile \"$NEWNAME\" -indexingType FULLINDEX"
 
 done
 

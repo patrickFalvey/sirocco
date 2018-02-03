@@ -1,0 +1,290 @@
+----------- TASK [1] --------------
+TEXT STATS Length [4871] Paragraphs [34] Unique Entities [151] Index [285] ms Chunk [214] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+14.0 "Afghanistan" [Good Topic]
+10.6 "Bagram Airfield" [Good Topic]
+7.4 "Taliban" [Good Topic]
+7.3 "statement" [Undetermined Topic]
+6.8 "responsibility" [Undetermined Topic]
+6.1 "Saturday" [Good Topic]
+5.8 "Afghan President Mohammad Ashraf Ghani" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Bagram Airfield
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Afghanistan: 4 Americans dead in blast at {{Bagram Airfield}}.
+Sentiment {0} Serialized Representation: V2|1|Bagram Airfield|48|62|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: Afghanistan, Bagram Airfield, Saturday
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 30.0
+Sentiment {1} Annotated Text: Four Americans were <<killed>> in an apparent suicide <<bomb>> <<attack>> early {{Saturday}} at {{Bagram Airfield}}, the largest US base in {{Afghanistan}}, US Defense Secretary Ash Carter said.
+Sentiment {1} Serialized Representation: V2|3|Afghanistan|120|130|1|eBagram Airfield|80|94|1|eSaturday|68|75|1|e3|55|60|1|n20|25|1|n50|53|1|n
+Sentiment {1} Signals: YlGMsVUM, 670J2993, HuxHrMQN
+Sentiment {2} Tags: 
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 10.0
+Sentiment {2} Annotated Text: Two of those <<killed>> were service members, and two were contractors, he said, adding he was "deeply saddened" by the news.
+Sentiment {2} Serialized Representation: V2|0|1|13|18|1|n
+Sentiment {2} Signals: YlGMsVUM
+Sentiment {3} Tags: statement
+Sentiment {3} Dominant Valence: negative
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: The explosion also <<wounded>> 16 other US service members and one Polish soldier participating in the NATO mission, Carter said in a {{statement}}.
+Sentiment {3} Serialized Representation: V2|1|statement|130|138|1|e1|19|25|1|a
+Sentiment {3} Signals: JroHhLgs
+Sentiment {4} Tags: Bagram Airfield, Taliban, responsibility
+Sentiment {4} Dominant Valence: positive
+Sentiment {4} Total Sentiment Score: 30.0
+Sentiment {4} Annotated Text: The {{Taliban}} claimed <{responsibility}> in a tweet <<praising>> the "strong <<attack">> on {{Bagram Airfield}}.
+Sentiment {4} Serialized Representation: V2|3|Bagram Airfield|78|92|1|eTaliban|4|10|1|eresponsibility|20|33|1|e3|67|73|1|n20|33|1|p46|53|1|p
+Sentiment {4} Signals: Rcp_UbyS, aFWF7QsH, HuxHrMQN
+Sentiment {5} Tags: Taliban, statement
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: In a {{statement}}, {{Taliban}} spokesman Zabihullah Mujahid said a suicide bomber had targeted "a sports ground where more than 100 military officers, <<important>> people and soldiers were busy exercising. "
+Sentiment {5} Serialized Representation: V2|2|Taliban|16|22|1|estatement|5|13|1|e1|144|152|1|p
+Sentiment {5} Signals: dXd5F_tR
+Sentiment {6} Tags: 
+Sentiment {6} Dominant Valence: negative
+Sentiment {6} Total Sentiment Score: 10.0
+Sentiment {6} Annotated Text: The <<attack>> on the airfield had been planned for four months, he said.
+Sentiment {6} Serialized Representation: V2|0|1|4|9|1|n
+Sentiment {6} Signals: HuxHrMQN
+Sentiment {7} Tags: 
+Sentiment {7} Dominant Valence: negative
+Sentiment {7} Total Sentiment Score: 10.0
+Sentiment {7} Annotated Text: A NATO coalition official told CNN that the bomber, who is presumed dead, detonated the suicide <<bomb>> vest on a sidewalk near where people were preparing for a run.
+Sentiment {7} Serialized Representation: V2|0|1|96|99|1|n
+Sentiment {7} Signals: 670J2993
+Sentiment {8} Tags: Afghanistan
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: The base was under lockdown, and additional security measures were instituted at all other locations in {{Afghanistan}} for the United States and coalition allies, the official said.
+Sentiment {8} Serialized Representation: V2|1|Afghanistan|104|114|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: 
+Sentiment {9} Dominant Valence: negative
+Sentiment {9} Total Sentiment Score: 30.0
+Sentiment {9} Annotated Text: The US Embassy in Kabul will be closed Sunday, except for <<emergency>> consular services, as a precautionary measure, the State Department said. In a tweet, the department cited the "serious <<threat>> <<violence>>, kidnapping and hostage taking. "
+Sentiment {9} Serialized Representation: V2|0|3|58|66|1|n188|193|1|n195|202|1|a
+Sentiment {9} Signals: Qqg9YSD_, xE7czvGM, 6Kn8aWu5
+Sentiment {10} Tags: 
+Sentiment {10} Dominant Valence: negative
+Sentiment {10} Total Sentiment Score: 34.0
+Sentiment {10} Annotated Text: Carter offered his condolences to the families of those <<killed>> and said the <<injured>> were getting the <<best>> possible care.
+Sentiment {10} Serialized Representation: V2|0|3|76|82|1|n101|104|1|p56|61|1|n
+Sentiment {10} Signals: YlGMsVUM, 8aRSAk8P, jClGFk5P, rjp03N1r
+Sentiment {11} Tags: Afghanistan
+Sentiment {11} Dominant Valence: positive
+Sentiment {11} Total Sentiment Score: 30.0
+Sentiment {11} Annotated Text: "Force <<protection>> is always a top priority for us in {{Afghanistan}}, and we will investigate this <<tragedy>> to determine any steps we can take to <<improve>> it, " he said.
+Sentiment {11} Serialized Representation: V2|1|Afghanistan|53|63|1|e3|95|101|1|s7|16|1|p141|147|1|p
+Sentiment {11} Signals: NvCHirVC, n17NLs9c, iTgJNQmc
+Sentiment {12} Tags: 
+Sentiment {12} Dominant Valence: negative
+Sentiment {12} Total Sentiment Score: 10.0
+Sentiment {12} Annotated Text: "For those who carried out this <<attack>>, my message is simple.
+Sentiment {12} Serialized Representation: V2|0|1|32|37|1|n
+Sentiment {12} Signals: HuxHrMQN
+Sentiment {13} Tags: Afghanistan
+Sentiment {13} Dominant Valence: ambiguous
+Sentiment {13} Total Sentiment Score: 20.0
+Sentiment {13} Annotated Text: We will <<not>> be <<deterred>> in our mission to <<protect>> our homeland and help {{Afghanistan}} secure its own future. "
+Sentiment {13} Serialized Representation: V2|1|Afghanistan|72|82|1|e3|15|22|1|m42|48|1|p8|10|1|m
+Sentiment {13} Signals: tbFFv2GF, 0xTRvfjz, hHM6Z6gF
+Sentiment {14} Tags: 
+Sentiment {14} Dominant Valence: negative
+Sentiment {14} Total Sentiment Score: 10.0
+Sentiment {14} Annotated Text: NATO earlier said 14 people were <<injured>> in the blast, which happened shortly after 5:30 a.m.
+Sentiment {14} Serialized Representation: V2|0|1|33|39|1|n
+Sentiment {14} Signals: 8aRSAk8P
+Sentiment {15} Tags: 
+Sentiment {15} Dominant Valence: positive
+Sentiment {15} Total Sentiment Score: 10.0
+Sentiment {15} Annotated Text: Its force <<protection>> and medical teams responded.
+Sentiment {15} Serialized Representation: V2|0|1|10|19|1|p
+Sentiment {15} Signals: NvCHirVC
+Sentiment {16} Tags: 
+Sentiment {16} Dominant Valence: negative
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: NATO Secretary General Jens Stoltenberg offered his support on Twitter to those affected by the <<attack>>.
+Sentiment {16} Serialized Representation: V2|0|1|96|101|1|n
+Sentiment {16} Signals: HuxHrMQN
+Sentiment {17} Tags: 
+Sentiment {17} Dominant Valence: positive
+Sentiment {17} Total Sentiment Score: 10.0
+Sentiment {17} Annotated Text: "NATO remains committed to our mission to train and <<support>> the Afghan forces.
+Sentiment {17} Serialized Representation: V2|0|1|52|58|1|p
+Sentiment {17} Signals: 9s55Z8Uy
+Sentiment {18} Tags: statement
+Sentiment {18} Dominant Valence: negative
+Sentiment {18} Total Sentiment Score: 20.0
+Sentiment {18} Annotated Text: We all stand united in the <<fight>> against <<terrorism>>, " he said in a {{statement}}.
+Sentiment {18} Serialized Representation: V2|1|statement|67|75|1|e2|27|31|1|a41|49|1|n
+Sentiment {18} Signals: 5GNc-Ebi, kI6rWkht
+Sentiment {19} Tags: Afghanistan, statement, Saturday, Afghan President Mohammad Ashraf Ghani
+Sentiment {19} Dominant Valence: negative
+Sentiment {19} Total Sentiment Score: 30.0
+Sentiment {19} Annotated Text: {{Afghan President Mohammad Ashraf Ghani}} <<condemned>> the <<attack>> in a {{statement}} {{Saturday}}, calling it a "cowardly" act by terrorists "who have <<no>> <<regard>> for Islam, human life or the future of {{Afghanistan}}. "
+Sentiment {19} Serialized Representation: V2|4|Afghanistan|186|196|1|estatement|65|73|1|eSaturday|75|82|1|eAfghan President Mohammad Ashraf Ghani|0|37|1|e4|140|145|1|m53|58|1|n137|138|1|m39|47|1|n
+Sentiment {19} Signals: D0Soviny, HuxHrMQN, crWkoiBc, NKEVZoFW
+Sentiment {20} Tags: 
+Sentiment {20} Dominant Valence: negative
+Sentiment {20} Total Sentiment Score: 20.0
+Sentiment {20} Annotated Text: He reiterated his intention to <<"destroy>> the <<enemies">> of his country and its allies, and vowed to bring the perpetrators to justice.
+Sentiment {20} Serialized Representation: V2|0|2|44|51|1|n31|38|1|n
+Sentiment {20} Signals: 5znxMoxl, IInP3kS8
+Sentiment {21} Tags: Afghanistan, Bagram Airfield
+Sentiment {21} Dominant Valence: zero
+Sentiment {21} Total Sentiment Score: 0.0
+Sentiment {21} Annotated Text: {{Bagram Airfield}} is the largest US military base in {{Afghanistan}}.
+Sentiment {21} Serialized Representation: V2|2|Afghanistan|51|61|1|eBagram Airfield|0|14|1|e0|
+Sentiment {21} Signals: 
+Sentiment {22} Tags: 
+Sentiment {22} Dominant Valence: positive
+Sentiment {22} Total Sentiment Score: 26.0
+Sentiment {22} Annotated Text: … If you come in a vehicle, you are stopped <<well>> before the outside gate. Vehicles are searched, people are searched, people must have ID— so it's <<very>> <<difficult>> to understand right now how this happened. "
+Sentiment {22} Serialized Representation: V2|0|3|44|47|1|p152|160|1|g147|150|1|g
+Sentiment {22} Signals: YXGw5rF6, i1GFJMlY, e0ofDjtK
+Sentiment {23} Tags: 
+Sentiment {23} Dominant Valence: general
+Sentiment {23} Total Sentiment Score: 10.0
+Sentiment {23} Annotated Text: Locals <<move>> <<on>> and off the base in some contractor roles, she said.
+Sentiment {23} Serialized Representation: V2|0|2|7|10|1|g12|13|1|g
+Sentiment {23} Signals: gtyt-N4f
+Sentiment {24} Tags: Afghanistan
+Sentiment {24} Dominant Valence: zero
+Sentiment {24} Total Sentiment Score: 0.0
+Sentiment {24} Annotated Text: Security breaches at coalition bases in {{Afghanistan}} have occurred but are rare, she added.
+Sentiment {24} Serialized Representation: V2|1|Afghanistan|40|50|1|e0|
+Sentiment {24} Signals: 
+Sentiment {25} Tags: Saturday
+Sentiment {25} Dominant Valence: negative
+Sentiment {25} Total Sentiment Score: 10.0
+Sentiment {25} Annotated Text: {{Saturday}}'s blast follows a spate of recent <<attacks>>.
+Sentiment {25} Serialized Representation: V2|1|Saturday|0|7|1|e1|43|49|1|n
+Sentiment {25} Signals: HuxHrMQN
+Sentiment {26} Tags: Afghanistan
+Sentiment {26} Dominant Valence: negative
+Sentiment {26} Total Sentiment Score: 10.0
+Sentiment {26} Annotated Text: A suicide car <<bomb>> targeted the German Consulate in {{Afghanistan}}'s northern Balkh province on Thursday, according to local police and officials.
+Sentiment {26} Serialized Representation: V2|1|Afghanistan|52|62|1|e1|14|17|1|n
+Sentiment {26} Signals: 670J2993
+Sentiment {27} Tags: 
+Sentiment {27} Dominant Valence: negative
+Sentiment {27} Total Sentiment Score: 39.999996
+Sentiment {27} Annotated Text: Monir Ahmad Farhad, a provincial spokesman, said four people were <<killed>> and more 100 people were <<injured>> in the <<attack>> in Mazar-e-Sharif, the provincial capital. No German diplomats were <<hurt>>.
+Sentiment {27} Serialized Representation: V2|0|4|113|118|1|n66|71|1|n98|104|1|n188|191|1|f
+Sentiment {27} Signals: YlGMsVUM, 8aRSAk8P, HuxHrMQN, 9nL1heRh
+Sentiment {28} Tags: Taliban, responsibility
+Sentiment {28} Dominant Valence: ambiguous
+Sentiment {28} Total Sentiment Score: 20.0
+Sentiment {28} Annotated Text: The {{Taliban}} claimed <{responsibility}> for the <<attack>>.
+Sentiment {28} Serialized Representation: V2|2|Taliban|4|10|1|eresponsibility|20|33|1|e2|20|33|1|p43|48|1|n
+Sentiment {28} Signals: Rcp_UbyS, HuxHrMQN
+Sentiment {29} Tags: Taliban
+Sentiment {29} Dominant Valence: negative
+Sentiment {29} Total Sentiment Score: 10.0
+Sentiment {29} Annotated Text: Last week, a joint Afghan-US battle against the {{Taliban}} in the northern district of Kunduz <<killed>> 30 civilians as well as two US soldiers and 26 militants.
+Sentiment {29} Serialized Representation: V2|1|Taliban|48|54|1|e1|91|96|1|n
+Sentiment {29} Signals: YlGMsVUM
+Sentiment {30} Tags: Afghanistan, Taliban
+Sentiment {30} Dominant Valence: negative
+Sentiment {30} Total Sentiment Score: 34.0
+Sentiment {30} Annotated Text: Those deaths happened the same day {{Taliban}} mortars <<killed>> at least seven people at a wedding party in Faryab province in northern {{Afghanistan}}, police spokesman Kareem Youresh said. <<At>> <<least>> 13 people were <<wounded>>.
+Sentiment {30} Serialized Representation: V2|2|Afghanistan|130|140|1|eTaliban|35|41|1|e4|51|56|1|n205|211|1|a184|188|1|g181|182|1|g
+Sentiment {30} Signals: YlGMsVUM, rjp03N1r, e0ofDjtK, JroHhLgs
+Sentiment {31} Tags: 
+Sentiment {31} Dominant Valence: negative
+Sentiment {31} Total Sentiment Score: 10.0
+Sentiment {31} Annotated Text: An Australian woman was <<kidnapped>> November 5 by unknown gunmen in Kabul, Afghan police said.
+Sentiment {31} Serialized Representation: V2|0|1|24|32|1|n
+Sentiment {31} Signals: AYaiUq9z
+
+LINKS Begin:
+http://www.cnn.com/2016/11/11/asia/afghanistan-bagram-blast/
+
+FULL ANNOTATED TEXT Begin:
+Title=Afghanistan: 4 Americans dead in blast at [e]{{Bagram Airfield}}. 
+Author=Laura Smith-Spark, Joe Sterling and Ehsan Popalzai, CNN. 
+PubTime=2016-11-12 15:11:00. 
+http://www.cnn.com/2016/11/11/asia/afghanistan-bagram-blast/ ast/ 
+Language=EN. 
+Four Americans were [n]<<killed>> in an apparent suicide [n]<<bomb>> [n]<<attack>> early [e]{{Saturday}} at [e]{{Bagram Airfield}}, the largest US base in [e]{{Afghanistan}}, US Defense Secretary Ash Carter said. 
+Two of those [n]<<killed>> were service members, and two were contractors, he said, adding he was "deeply saddened" by the news. 
+The explosion also [a]<<wounded>> 16 other US service members and one Polish soldier participating in the NATO mission, Carter said in a [e]{{statement}}. 
+The [e]{{Taliban}} claimed [e,p]<{responsibility}> in a tweet [p]<<praising>> the "strong [n]<<attack">> on [e]{{Bagram Airfield}}. 
+In a [e]{{statement}}, [e]{{Taliban}} spokesman Zabihullah Mujahid said a suicide bomber had targeted "a sports ground where more than 100 military officers, [p]<<important>> people and soldiers were busy exercising. " 
+The ancient city of Bagram is more than 30 miles north of the Afghan capital, Kabul. 
+The [n]<<attack>> on the airfield had been planned for four months, he said. 
+A NATO coalition official told CNN that the bomber, who is presumed dead, detonated the suicide [n]<<bomb>> vest on a sidewalk near where people were preparing for a run. 
+The base was under lockdown, and additional security measures were instituted at all other locations in [e]{{Afghanistan}} for the United States and coalition allies, the official said. 
+The US Embassy in Kabul will be closed Sunday, except for [n]<<emergency>> consular services, as a precautionary measure, the State Department said. In a tweet, the department cited the "serious [n]<<threat>> [a]<<violence>>, kidnapping and hostage taking. " 
+Carter offered his condolences to the families of those [n]<<killed>> and said the [n]<<injured>> were getting the [p]<<best>> possible care. 
+"Force [p]<<protection>> is always a top priority for us in [e]{{Afghanistan}}, and we will investigate this [s]<<tragedy>> to determine any steps we can take to [p]<<improve>> it, " he said. 
+"For those who carried out this [n]<<attack>>, my message is simple. We will [m]<<not>> be [m]<<deterred>> in our mission to [p]<<protect>> our homeland and help [e]{{Afghanistan}} secure its own future. " 
+NATO earlier said 14 people were [n]<<injured>> in the blast, which happened shortly after 5:30 a.m. local time. Its force [p]<<protection>> and medical teams responded. 
+NATO Secretary General Jens Stoltenberg offered his support on Twitter to those affected by the [n]<<attack>>. 
+"NATO remains committed to our mission to train and [p]<<support>> the Afghan forces. We all stand united in the [a]<<fight>> against [n]<<terrorism>>, " he said in a [e]{{statement}}. 
+The airfield is next to the ancient city of Bagram, southeast of Charikar in Parwan province. Bagram is more than 30 miles (48 kilometers) north of Kabul, the Afghan capital. 
+[e]{{Afghan President Mohammad Ashraf Ghani}} [n]<<condemned>> the [n]<<attack>> in a [e]{{statement}} [e]{{Saturday}}, calling it a "cowardly" act by terrorists "who have [m]<<no>> [m]<<regard>> for Islam, human life or the future of [e]{{Afghanistan}}. " He reiterated his intention to [n]<<"destroy>> the [n]<<enemies">> of his country and its allies, and vowed to bring the perpetrators to justice. 
+Urgent investigations are being carried out at the base, and security has been tightened, according to CNN Pentagon correspondent Barbara Starr. The military will want to ensure that anyone tied to the blast is found before people are allowed to leave the base. 
+[e]{{Bagram Airfield}} is the largest US military base in [e]{{Afghanistan}}. 
+"The question now is, how did someone get inside? " she said. " There's very strict security at these bases. … If you come in a vehicle, you are stopped [p]<<well>> before the outside gate. Vehicles are searched, people are searched, people must have ID— so it's [g]<<very>> [g]<<difficult>> to understand right now how this happened. " 
+There are about 14,000 people on the Bagram base, with about 60% contractors, according to Starr. Locals [g]<<move>> [g]<<on>> and off the base in some contractor roles, she said. 
+Security breaches at coalition bases in [e]{{Afghanistan}} have occurred but are rare, she added. 
+[e]{{Saturday}}'s blast follows a spate of recent [n]<<attacks>>. 
+A suicide car [n]<<bomb>> targeted the German Consulate in [e]{{Afghanistan}}'s northern Balkh province on Thursday, according to local police and officials. 
+Monir Ahmad Farhad, a provincial spokesman, said four people were [n]<<killed>> and more 100 people were [n]<<injured>> in the [n]<<attack>> in Mazar-e-Sharif, the provincial capital. No German diplomats were [f]<<hurt>>. The [e]{{Taliban}} claimed [e,p]<{responsibility}> for the [n]<<attack>>. 
+Last week, a joint Afghan-US battle against the [e]{{Taliban}} in the northern district of Kunduz [n]<<killed>> 30 civilians as well as two US soldiers and 26 militants. 
+Those deaths happened the same day [e]{{Taliban}} mortars [n]<<killed>> at least seven people at a wedding party in Faryab province in northern [e]{{Afghanistan}}, police spokesman Kareem Youresh said. [g]<<At>> [g]<<least>> 13 people were [a]<<wounded>>. 
+An Australian woman was [n]<<kidnapped>> November 5 by unknown gunmen in Kabul, Afghan police said. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Afghanistan: 4 Americans dead in blast at Bagram Airfield
+Author=Laura Smith-Spark, Joe Sterling and Ehsan Popalzai, CNN
+PubTime=2016-11-12 15:11:00
+Url=http://www.cnn.com/2016/11/11/asia/afghanistan-bagram-blast/
+Language=EN
+
+Four Americans were killed in an apparent suicide bomb attack early Saturday at Bagram Airfield, the largest US base in Afghanistan, US Defense Secretary Ash Carter said.
+Two of those killed were service members, and two were contractors, he said, adding he was “deeply saddened” by the news.
+The explosion also wounded 16 other US service members and one Polish soldier participating in the NATO mission, Carter said in a statement.
+The Taliban claimed responsibility in a tweet praising the “strong attack” on Bagram Airfield.
+In a statement, Taliban spokesman Zabihullah Mujahid said a suicide bomber had targeted “a sports ground where more than 100 military officers, important people and soldiers were busy exercising.”
+The ancient city of Bagram is more than 30 miles north of the Afghan capital, Kabul.
+The attack on the airfield had been planned for four months, he said.
+A NATO coalition official told CNN that the bomber, who is presumed dead, detonated the suicide bomb vest on a sidewalk near where people were preparing for a run.
+The base was under lockdown, and additional security measures were instituted at all other locations in Afghanistan for the United States and coalition allies, the official said.
+The US Embassy in Kabul will be closed Sunday, except for emergency consular services, as a precautionary measure, the State Department said. In a tweet, the department cited the “serious threat violence, kidnapping and hostage taking.”
+Carter offered his condolences to the families of those killed and said the injured were getting the best possible care.
+“Force protection is always a top priority for us in Afghanistan, and we will investigate this tragedy to determine any steps we can take to improve it,” he said.
+“For those who carried out this attack, my message is simple. We will not be deterred in our mission to protect our homeland and help Afghanistan secure its own future.”
+NATO earlier said 14 people were injured in the blast, which happened shortly after 5:30 a.m. local time. Its force protection and medical teams responded.
+NATO Secretary General Jens Stoltenberg offered his support on Twitter to those affected by the attack.
+“NATO remains committed to our mission to train and support the Afghan forces. We all stand united in the fight against terrorism,” he said in a statement.
+The airfield is next to the ancient city of Bagram, southeast of Charikar in Parwan province. Bagram is more than 30 miles (48 kilometers) north of Kabul, the Afghan capital.
+Afghan President Mohammad Ashraf Ghani condemned the attack in a statement Saturday, calling it a “cowardly” act by terrorists “who have no regard for Islam, human life or the future of Afghanistan.” He reiterated his intention to “destroy the enemies” of his country and its allies, and vowed to bring the perpetrators to justice.
+Urgent investigations are being carried out at the base, and security has been tightened, according to CNN Pentagon correspondent Barbara Starr. The military will want to ensure that anyone tied to the blast is found before people are allowed to leave the base.
+Bagram Airfield is the largest US military base in Afghanistan.
+“The question now is, how did someone get inside?” she said. “There’s very strict security at these bases. … If you come in a vehicle, you are stopped well before the outside gate. Vehicles are searched, people are searched, people must have ID — so it’s very difficult to understand right now how this happened.”
+There are about 14,000 people on the Bagram base, with about 60% contractors, according to Starr. Locals move on and off the base in some contractor roles, she said.
+Security breaches at coalition bases in Afghanistan have occurred but are rare, she added.
+Saturday’s blast follows a spate of recent attacks.
+A suicide car bomb targeted the German Consulate in Afghanistan’s northern Balkh province on Thursday, according to local police and officials.
+Monir Ahmad Farhad, a provincial spokesman, said four people were killed and more 100 people were injured in the attack in Mazar-e-Sharif, the provincial capital. No German diplomats were hurt. The Taliban claimed responsibility for the attack.
+Last week, a joint Afghan-US battle against the Taliban in the northern district of Kunduz killed 30 civilians as well as two US soldiers and 26 militants.
+Those deaths happened the same day Taliban mortars killed at least seven people at a wedding party in Faryab province in northern Afghanistan, police spokesman Kareem Youresh said. At least 13 people were wounded.
+An Australian woman was kidnapped November 5 by unknown gunmen in Kabul, Afghan police said.

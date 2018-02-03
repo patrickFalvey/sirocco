@@ -1,0 +1,302 @@
+----------- TASK [1] --------------
+TEXT STATS Length [4959] Paragraphs [25] Unique Entities [84] Index [295] ms Chunk [214] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+11.3 "ransomware" [Undetermined Topic]
+9.2 "protection" [Undetermined Topic]
+8.3 "Android" [Good Topic]
+7.8 "Google Play" [Good Topic]
+7.7 "Ransomware" [Good Topic]
+5.7 "law enforcement agency" [Good Topic]
+5.4 "factory setting" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: 
+Sentiment {0} Dominant Valence: negative
+Sentiment {0} Total Sentiment Score: 10.0
+Sentiment {0} Annotated Text: Title=How we stop <<fraudulent>> apps from holding you ransom.
+Sentiment {0} Serialized Representation: V2|0|1|18|27|1|n
+Sentiment {0} Signals: c_uhUJsJ
+Sentiment {1} Tags: Android
+Sentiment {1} Dominant Valence: positive
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: Recently we shared our 2016 Android Security Year in Review, which looks at how we <<protect>> {{Android}} users and their data.
+Sentiment {1} Serialized Representation: V2|1|Android|91|97|1|e1|83|89|1|p
+Sentiment {1} Signals: hHM6Z6gF
+Sentiment {2} Tags: ransomware
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 10.0
+Sentiment {2} Annotated Text: Today, we're taking a closer look at how we shield people from a rare—but particularly disruptive—potentially <<harmful>> app (PHA) known as {{ransomware}}.
+Sentiment {2} Serialized Representation: V2|1|ransomware|137|146|1|e1|110|116|1|n
+Sentiment {2} Signals: a8llSCXY
+Sentiment {3} Tags: ransomware, protection, Android
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: We've long had <{protections}> from {{ransomware}} in {{Android}}, and we added new ones in Nougat as well.
+Sentiment {3} Serialized Representation: V2|3|ransomware|32|41|1|eprotection|15|25|1|eAndroid|46|52|1|e1|15|25|1|p
+Sentiment {3} Signals: NvCHirVC, rM8K4bEd
+Sentiment {4} Tags: Ransomware
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: {{Ransomware}} is a type of app that <<restricts>> access to your device until a sum of money is paid.
+Sentiment {4} Serialized Representation: V2|1|Ransomware|0|9|1|e1|33|41|1|n
+Sentiment {4} Signals: g0aSSGkt
+Sentiment {5} Tags: Ransomware
+Sentiment {5} Dominant Valence: negative
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: {{Ransomware}} usually presents itself in one of two forms: apps that <<restrict>> access to your device and then demand payment to regain access to the device, or apps that encrypt data on the device's external storage(such as an SD card) and then demand payment to decrypt your data.
+Sentiment {5} Serialized Representation: V2|1|Ransomware|0|9|1|e1|66|73|1|n
+Sentiment {5} Signals: g0aSSGkt
+Sentiment {6} Tags: law enforcement agency
+Sentiment {6} Dominant Valence: negative
+Sentiment {6} Total Sentiment Score: 66.0
+Sentiment {6} Annotated Text: To make the scam <<more>> <<convincing>>, fraudsters sometimes <<pretend>> to be from a <<credible>> {{law enforcement agency}} and <<accuse>> you of doing something <<illegal>> so you're <<more>> <<likely>> to pay.
+Sentiment {6} Serialized Representation: V2|1|law enforcement agency|85|106|1|e8|76|83|1|p22|31|1|g160|163|1|g55|61|1|n165|170|1|g112|117|1|n17|20|1|g142|148|1|n
+Sentiment {6} Signals: OCj0X5fN, e0ofDjtK, O1F7jIxR, Jaz4LzEm, 2jXTz8ej, 3K0QHfuJ, OCj0X5fN, r1gn0cKq, e0ofDjtK
+Sentiment {7} Tags: ransomware, Google Play
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: Although {{ransomware}} has begun to target mobile devices, it's still rare: Since 2015, less than 0.00001 percent of installations from {{Google Play}}, and less than .01.
+Sentiment {7} Serialized Representation: V2|2|ransomware|9|18|1|eGoogle Play|133|143|1|e0|
+Sentiment {7} Signals: 
+Sentiment {8} Tags: ransomware, Google Play
+Sentiment {8} Dominant Valence: general
+Sentiment {8} Total Sentiment Score: 11.999999
+Sentiment {8} Annotated Text: percent of installations from sources other than {{Google Play}}, were categorized as {{ransomware}}. ( That's less than the odds of getting struck by lightning twice in your lifetime<<!>> ).
+Sentiment {8} Serialized Representation: V2|2|ransomware|82|91|1|eGoogle Play|49|59|1|e1|175|175|1|g
+Sentiment {8} Signals: e8tgGy64
+Sentiment {9} Tags: ransomware
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 10.0
+Sentiment {9} Annotated Text: Some examples of <<popular>> {{ransomware}}.
+Sentiment {9} Serialized Representation: V2|1|ransomware|25|34|1|e1|17|23|1|p
+Sentiment {9} Signals: uhTu3Enc
+Sentiment {10} Tags: ransomware, Android
+Sentiment {10} Dominant Valence: positive
+Sentiment {10} Total Sentiment Score: 10.0
+Sentiment {10} Annotated Text: And {{Android}} users have long been <<protected>> from {{ransomware}}.
+Sentiment {10} Serialized Representation: V2|2|ransomware|48|57|1|eAndroid|4|10|1|e1|33|41|1|p
+Sentiment {10} Signals: hHM6Z6gF
+Sentiment {11} Tags: Google Play
+Sentiment {11} Dominant Valence: negative
+Sentiment {11} Total Sentiment Score: 24.0
+Sentiment {11} Annotated Text: Our {{Google Play}} policies <<strictly>> <<prohibit>> apps that contain it, and if we ever detect these scams, we rapidly take action.
+Sentiment {11} Serialized Representation: V2|1|Google Play|4|14|1|e2|34|41|1|n25|32|1|g
+Sentiment {11} Signals: Po0rygWP, e0ofDjtK, ZtkHxMqC, _oynYHJC
+Sentiment {12} Tags: 
+Sentiment {12} Dominant Valence: negative
+Sentiment {12} Total Sentiment Score: 10.0
+Sentiment {12} Annotated Text: And Application Sandboxing, a technology that <<forces>> each app to operate independently of others, provides another layer of defense.
+Sentiment {12} Serialized Representation: V2|0|1|46|51|1|s
+Sentiment {12} Signals: w7_VaygT
+Sentiment {13} Tags: protection
+Sentiment {13} Dominant Valence: ambiguous
+Sentiment {13} Total Sentiment Score: 20.0
+Sentiment {13} Annotated Text: Sandboxes require apps to mutually consent to sharing data, a <{protection}> which limits ransomware's ability to access <<sensitive>> information like a contact list from another app.
+Sentiment {13} Serialized Representation: V2|1|protection|62|71|1|e2|62|71|1|p117|125|1|f
+Sentiment {13} Signals: NvCHirVC, uARp91ox
+Sentiment {14} Tags: protection, Ransomware
+Sentiment {14} Dominant Valence: positive
+Sentiment {14} Total Sentiment Score: 10.0
+Sentiment {14} Annotated Text: {{Ransomware}} <{protections}> in Android Nougat.
+Sentiment {14} Serialized Representation: V2|2|protection|11|21|1|eRansomware|0|9|1|e1|11|21|1|p
+Sentiment {14} Signals: NvCHirVC
+Sentiment {15} Tags: ransomware, Android
+Sentiment {15} Dominant Valence: zero
+Sentiment {15} Total Sentiment Score: 0.0
+Sentiment {15} Annotated Text: With the release of {{Android}} 7.0 Nougat, we added to existing defenses against {{ransomware}}, and also made some changes to address some of the newer tactics of ransomware scams.
+Sentiment {15} Serialized Representation: V2|2|ransomware|78|87|1|eAndroid|20|26|1|e0|
+Sentiment {15} Signals: 
+Sentiment {16} Tags: 
+Sentiment {16} Dominant Valence: negative
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: That means scammy ones can't see what other apps are doing—and can't inform their <<attacks>> based on activity.
+Sentiment {16} Serialized Representation: V2|0|1|82|88|1|n
+Sentiment {16} Signals: HuxHrMQN
+Sentiment {17} Tags: ransomware
+Sentiment {17} Dominant Valence: zero
+Sentiment {17} Total Sentiment Score: 0.0
+Sentiment {17} Annotated Text: Even stronger locks: If you set a lockscreen PIN prior to installing {{ransomware}}, {{ransomware}} can't misuse your device's permissions to change your PIN and lock you out.
+Sentiment {17} Serialized Representation: V2|2|ransomware|69|78|1|eransomware|81|90|1|e0|
+Sentiment {17} Signals: 
+Sentiment {18} Tags: 
+Sentiment {18} Dominant Valence: negative
+Sentiment {18} Total Sentiment Score: 10.0
+Sentiment {18} Annotated Text: <<Whacking>> clickjacking: "Clickjacking" tricks people into clicking something, often by obscuring permission dialogs behind other windows.
+Sentiment {18} Serialized Representation: V2|0|1|0|7|1|n
+Sentiment {18} Signals: 5DMN61E2
+Sentiment {19} Tags: 
+Sentiment {19} Dominant Valence: ambiguous
+Sentiment {19} Total Sentiment Score: 20.0
+Sentiment {19} Annotated Text: You're now <<protected>> from ransomware <<attacks>> that use this tactic to sneakily gain control of a device.
+Sentiment {19} Serialized Representation: V2|0|2|11|19|1|p37|43|1|n
+Sentiment {19} Signals: hHM6Z6gF, HuxHrMQN
+Sentiment {20} Tags: ransomware
+Sentiment {20} Dominant Valence: positive
+Sentiment {20} Total Sentiment Score: 10.0
+Sentiment {20} Annotated Text: <<Protecting>> your data and device from {{ransomware}}.
+Sentiment {20} Serialized Representation: V2|1|ransomware|37|46|1|e1|0|9|1|p
+Sentiment {20} Signals: hHM6Z6gF
+Sentiment {21} Tags: ransomware, Android, Google Play
+Sentiment {21} Dominant Valence: positive
+Sentiment {21} Total Sentiment Score: 10.0
+Sentiment {21} Annotated Text: Even with all the safeguards we've built into {{Android}} and {{Google Play}} to <<protect>> you from {{ransomware}}, there are still a few things that you can do to keep your device safe.
+Sentiment {21} Serialized Representation: V2|3|ransomware|90|99|1|eAndroid|46|52|1|eGoogle Play|58|68|1|e1|73|79|1|p
+Sentiment {21} Signals: hHM6Z6gF
+Sentiment {22} Tags: Google Play
+Sentiment {22} Dominant Valence: zero
+Sentiment {22} Total Sentiment Score: 0.0
+Sentiment {22} Annotated Text: Only download apps from a trustworthy source, such as {{Google Play}}.
+Sentiment {22} Serialized Representation: V2|1|Google Play|54|64|1|e0|
+Sentiment {22} Signals: 
+Sentiment {23} Tags: 
+Sentiment {23} Dominant Valence: positive
+Sentiment {23} Total Sentiment Score: 24.0
+Sentiment {23} Annotated Text: Install security updates and always ensure your device is updated to the latest version to get the <<best>> security <<protection>>.
+Sentiment {23} Serialized Representation: V2|0|2|99|102|1|p113|122|1|p
+Sentiment {23} Signals: jClGFk5P, rjp03N1r, NvCHirVC
+Sentiment {24} Tags: 
+Sentiment {24} Dominant Valence: positive
+Sentiment {24} Total Sentiment Score: 10.0
+Sentiment {24} Annotated Text: Take a moment to read reviews and other information about apps before installing, to make sure you download the app you're <<looking>> <<for>>.
+Sentiment {24} Serialized Representation: V2|0|2|123|129|1|i131|133|1|i
+Sentiment {24} Signals: SVE1kj23
+Sentiment {25} Tags: ransomware
+Sentiment {25} Dominant Valence: ambiguous
+Sentiment {25} Total Sentiment Score: 20.0
+Sentiment {25} Annotated Text: If you accidentally install {{ransomware}} on your phone, you have a few options. First, you can try to <<boot>> into <<safe>> mode.
+Sentiment {25} Serialized Representation: V2|1|ransomware|28|37|1|e2|110|113|1|p100|103|1|n
+Sentiment {25} Signals: fCjSJNae, FhX6VMet
+Sentiment {26} Tags: 
+Sentiment {26} Dominant Valence: positive
+Sentiment {26} Total Sentiment Score: 10.0
+Sentiment {26} Annotated Text: Starting your device in <<safe>> mode means your device only has the original software and apps that came with it.
+Sentiment {26} Serialized Representation: V2|0|1|24|27|1|p
+Sentiment {26} Signals: FhX6VMet
+Sentiment {27} Tags: 
+Sentiment {27} Dominant Valence: negative
+Sentiment {27} Total Sentiment Score: 30.0
+Sentiment {27} Annotated Text: If an app is <<misbehaving>> but the issues go away in <<safe>> mode, the <<problem>> is probably caused by a third-party app downloaded on your device.
+Sentiment {27} Serialized Representation: V2|0|3|51|54|1|p13|23|1|n66|72|1|n
+Sentiment {27} Signals: 6YZmf53h, FhX6VMet, KuZ3z8ai
+Sentiment {28} Tags: 
+Sentiment {28} Dominant Valence: ambiguous
+Sentiment {28} Total Sentiment Score: 20.0
+Sentiment {28} Annotated Text: If you can <<boot>> into <<safe>> mode, try to uninstall the app and then reboot the device.
+Sentiment {28} Serialized Representation: V2|0|2|21|24|1|p11|14|1|n
+Sentiment {28} Signals: fCjSJNae, FhX6VMet
+Sentiment {29} Tags: 
+Sentiment {29} Dominant Valence: positive
+Sentiment {29} Total Sentiment Score: 10.0
+Sentiment {29} Annotated Text: On a Pixel, you can get into <<safe>> mode with a keyboard combination that PHAs can't touch.
+Sentiment {29} Serialized Representation: V2|0|1|29|32|1|p
+Sentiment {29} Signals: FhX6VMet
+Sentiment {30} Tags: factory setting
+Sentiment {30} Dominant Valence: positive
+Sentiment {30} Total Sentiment Score: 10.0
+Sentiment {30} Annotated Text: If <<safe>> mode doesn't work, then you might have to reset your phone to {{factory settings}}.
+Sentiment {30} Serialized Representation: V2|1|factory setting|70|85|1|e1|3|6|1|p
+Sentiment {30} Signals: FhX6VMet
+Sentiment {31} Tags: Android, factory setting
+Sentiment {31} Dominant Valence: negative
+Sentiment {31} Total Sentiment Score: 10.0
+Sentiment {31} Annotated Text: Many devices running {{Android}} allow you to remove <<dangerous>> apps by resetting it to {{factory settings}} (also referred to as formatting the device, or doing a "hard reset").
+Sentiment {31} Serialized Representation: V2|2|Android|21|27|1|efactory setting|83|98|1|e1|49|57|1|f
+Sentiment {31} Signals: n59tSH06
+Sentiment {32} Tags: 
+Sentiment {32} Dominant Valence: positive
+Sentiment {32} Total Sentiment Score: 20.0
+Sentiment {32} Annotated Text: This should be your last resort, but if you've <<backed>> up your files, resetting your device should <<be>> <<easy>>.
+Sentiment {32} Serialized Representation: V2|0|3|98|99|1|p101|104|1|p47|52|1|p
+Sentiment {32} Signals: LFPj8rf-, EayBat2t
+Sentiment {33} Tags: Android, Ransomware, protection
+Sentiment {33} Dominant Valence: positive
+Sentiment {33} Total Sentiment Score: 48.0
+Sentiment {33} Annotated Text: {{Ransomware}} on {{Android}} is <<exceedingly>> <<rare>>. Still, we've implemented lots of new <{protections}> in Nougat, and we continue to <<improve>> on the defenses that have long been in place.
+Sentiment {33} Serialized Representation: V2|3|Android|14|20|1|eRansomware|0|9|1|eprotection|80|90|1|e4|25|35|1|g37|40|1|g80|90|1|p122|128|1|p
+Sentiment {33} Signals: vjRCBv3K, e0ofDjtK, NvCHirVC, iTgJNQmc
+Sentiment {34} Tags: protection
+Sentiment {34} Dominant Valence: positive
+Sentiment {34} Total Sentiment Score: 20.0
+Sentiment {34} Annotated Text: Those <{protections}>, along with extra <<vigilance>> about how you download your apps, will help keep you and your device secure.
+Sentiment {34} Serialized Representation: V2|1|protection|6|16|1|e2|6|16|1|p36|44|1|t
+Sentiment {34} Signals: NvCHirVC, qiwOPgA9
+
+LINKS Begin:
+https://blog.google/topics/safety-security/how-we-stop-fraudulent-apps-holding-you-ransom/
+
+FULL ANNOTATED TEXT Begin:
+Title=How we stop [n]<<fraudulent>> apps from holding you ransom. 
+Author=Jason Woloz. 
+PubTime=2017-03-28 09:00:00. 
+https://blog.google/topics/safety-security/how-we-stop-fraudulent-apps-holding-you-ransom/ som/ 
+Language=EN. 
+Recently we shared our 2016 Android Security Year in Review, which looks at how we [p]<<protect>> [e]{{Android}} users and their data. Today, we're taking a closer look at how we shield people from a rare—but particularly disruptive—potentially [n]<<harmful>> app (PHA) known as [e]{{ransomware}}. We've long had [e,p]<{protections}> from [e]{{ransomware}} in [e]{{Android}}, and we added new ones in Nougat as well. 
+[e]{{Ransomware}} is a type of app that [n]<<restricts>> access to your device until a sum of money is paid. [e]{{Ransomware}} usually presents itself in one of two forms: apps that [n]<<restrict>> access to your device and then demand payment to regain access to the device, or apps that encrypt data on the device's external storage(such as an SD card) and then demand payment to decrypt your data. To make the scam [g]<<more>> [g]<<convincing>>, fraudsters sometimes [n]<<pretend>> to be from a [p]<<credible>> [e]{{law enforcement agency}} and [n]<<accuse>> you of doing something [n]<<illegal>> so you're [g]<<more>> [g]<<likely>> to pay. 
+Although [e]{{ransomware}} has begun to target mobile devices, it's still rare: Since 2015, less than 0.00001 percent of installations from [e]{{Google Play}}, and less than .01. percent of installations from sources other than [e]{{Google Play}}, were categorized as [e]{{ransomware}}. ( That's less than the odds of getting struck by lightning twice in your lifetime[g]<<!>> ). 
+Some examples of [p]<<popular>> [e]{{ransomware}}. 
+And [e]{{Android}} users have long been [p]<<protected>> from [e]{{ransomware}}. Our [e]{{Google Play}} policies [g]<<strictly>> [n]<<prohibit>> apps that contain it, and if we ever detect these scams, we rapidly take action. Verify Apps, our security system that analyzes apps before they are installed and then regularly checks more than 400 million devices and 6 billion apps everyday for PHAs, is another safeguard. And Application Sandboxing, a technology that [s]<<forces>> each app to operate independently of others, provides another layer of defense. Sandboxes require apps to mutually consent to sharing data, a [e,p]<{protection}> which limits ransomware's ability to access [f]<<sensitive>> information like a contact list from another app. 
+[e]{{Ransomware}} [e,p]<{protections}> in Android Nougat. 
+With the release of [e]{{Android}} 7.0 Nougat, we added to existing defenses against [e]{{ransomware}}, and also made some changes to address some of the newer tactics of ransomware scams. Here are a few examples: 
+Safety blinders: Apps can no longer see which other apps are active. That means scammy ones can't see what other apps are doing—and can't inform their [n]<<attacks>> based on activity. 
+Even stronger locks: If you set a lockscreen PIN prior to installing [e]{{ransomware}}, [e]{{ransomware}} can't misuse your device's permissions to change your PIN and lock you out. 
+[n]<<Whacking>> clickjacking: "Clickjacking" tricks people into clicking something, often by obscuring permission dialogs behind other windows. You're now [p]<<protected>> from ransomware [n]<<attacks>> that use this tactic to sneakily gain control of a device. 
+[p]<<Protecting>> your data and device from [e]{{ransomware}}. 
+Even with all the safeguards we've built into [e]{{Android}} and [e]{{Google Play}} to [p]<<protect>> you from [e]{{ransomware}}, there are still a few things that you can do to keep your device safe. 
+Only download apps from a trustworthy source, such as [e]{{Google Play}}. 
+Ensure Verify Apps is enabled. 
+Install security updates and always ensure your device is updated to the latest version to get the [p]<<best>> security [p]<<protection>>. 
+Back up your device. 
+Be cautious. Take a moment to read reviews and other information about apps before installing, to make sure you download the app you're [i]<<looking>> [i]<<for>>. 
+If you accidentally install [e]{{ransomware}} on your phone, you have a few options. First, you can try to [n]<<boot>> into [p]<<safe>> mode. Starting your device in [p]<<safe>> mode means your device only has the original software and apps that came with it. If an app is [n]<<misbehaving>> but the issues go away in [p]<<safe>> mode, the [n]<<problem>> is probably caused by a third-party app downloaded on your device. If you can [n]<<boot>> into [p]<<safe>> mode, try to uninstall the app and then reboot the device. On a Pixel, you can get into [p]<<safe>> mode with a keyboard combination that PHAs can't touch. 
+If [p]<<safe>> mode doesn't work, then you might have to reset your phone to [e]{{factory settings}}. Many devices running [e]{{Android}} allow you to remove [f]<<dangerous>> apps by resetting it to [e]{{factory settings}} (also referred to as formatting the device, or doing a "hard reset"). This should be your last resort, but if you've [p]<<backed>> up your files, resetting your device should [p]<<be>> [p]<<easy>>. Check with your carrier or device manufacturer for instructions on how to reset your phone. 
+[e]{{Ransomware}} on [e]{{Android}} is [g]<<exceedingly>> [g]<<rare>>. Still, we've implemented lots of new [e,p]<{protections}> in Nougat, and we continue to [p]<<improve>> on the defenses that have long been in place. Those [e,p]<{protections}>, along with extra [t]<<vigilance>> about how you download your apps, will help keep you and your device secure. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=How we stop fraudulent apps from holding you ransom
+Author=Jason Woloz
+PubTime=2017-03-28 09:00:00
+Url=https://blog.google/topics/safety-security/how-we-stop-fraudulent-apps-holding-you-ransom/
+Language=EN
+
+
+Recently we shared our 2016 Android Security Year in Review, which looks at how we protect Android users and their data. Today, we're taking a closer look at how we shield people from a rare—but particularly disruptive—potentially harmful app (PHA) known as ransomware. We’ve long had protections from ransomware in Android, and we added new ones in Nougat as well.
+
+Ransomware is a type of app that restricts access to your device until a sum of money is paid. Ransomware usually presents itself in one of two forms: apps that restrict access to your device and then demand payment to regain access to the device, or apps that encrypt data on the device’s external storage (such as an SD card) and then demand payment to decrypt your data. To make the scam more convincing, fraudsters sometimes pretend to be from a credible law enforcement agency and accuse you of doing something illegal so you’re more likely to pay.
+
+Although ransomware has begun to target mobile devices, it’s still rare: Since 2015, less than 0.00001 percent of installations from Google Play, and less than .01 percent of installations from sources other  than Google Play, were categorized as ransomware.  (That's less than the odds of getting struck by lightning twice in your lifetime!).
+
+
+Some examples of popular ransomware
+And Android users have long been protected from ransomware. Our Google Play policies strictly prohibit apps that contain it, and if we ever detect these scams, we rapidly take action. Verify Apps, our security system that analyzes apps before they are installed and then regularly checks more than 400 million devices and 6 billion apps everyday for PHAs, is another safeguard. And Application Sandboxing, a technology that forces each app to operate independently of others, provides another layer of defense. Sandboxes require apps to mutually consent to sharing data, a protection which limits ransomware’s ability to access sensitive information like a contact list from another app.
+
+
+Ransomware protections in Android Nougat
+With the release of Android 7.0 Nougat, we added to existing defenses against ransomware, and also made some changes to address some of the newer tactics of ransomware scams. Here are a few examples:
+
+Safety blinders: Apps can no longer see which other apps are active. That means scammy ones can’t see what other apps are doing—and can’t inform their attacks based on activity.
+Even stronger locks: If you set a lockscreen PIN prior to installing ransomware, ransomware can’t misuse your device’s permissions to change your PIN and lock you out.
+Whacking clickjacking: “Clickjacking” tricks people into clicking something, often by obscuring permission dialogs behind other windows. You’re now protected from ransomware attacks that use this tactic to sneakily gain control of a device.
+Protecting your data and device from ransomware
+
+Even with all the safeguards we’ve built into Android and Google Play to protect you from ransomware, there are still a few things that you can do to keep your device safe. 
+
+Only download apps from a trustworthy source, such as Google Play.
+Ensure Verify Apps is enabled.
+Install security updates and always ensure your device is updated to the latest version to get the best security protection.
+Back up your device.
+Be cautious. Take a moment to read reviews and other information about apps before installing, to make sure you download the app you’re looking for.
+If you accidentally install ransomware on your phone, you have a few options. First, you can try to boot into safe mode. Starting your device in safe mode means your device only has the original software and apps that came with it. If an app is misbehaving but the issues go away in safe mode, the problem is probably caused by a third-party app downloaded on your device. If you can boot into safe mode, try to uninstall the app and then reboot the device. On a Pixel, you can get into safe mode with a keyboard combination that PHAs can't touch.
+
+If safe mode doesn’t work, then you might have to reset your phone to factory settings. Many devices running Android allow you to remove dangerous apps by resetting it to factory settings (also referred to as formatting the device, or doing a "hard reset"). This should be your last resort, but if you’ve backed up your files, resetting your device should be easy. Check with your carrier or device manufacturer for instructions on how to reset your phone.
+
+Ransomware on Android is exceedingly rare. Still, we’ve implemented lots of new protections in Nougat, and we continue to improve on the defenses that have long been in place. Those protections, along with extra vigilance about how you download your apps, will help keep you and your device secure.

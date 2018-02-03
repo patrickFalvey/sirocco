@@ -1,0 +1,269 @@
+----------- TASK [1] --------------
+TEXT STATS Length [5455] Paragraphs [21] Unique Entities [142] Index [332] ms Chunk [247] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+16.3 "Lacoste" [Good Topic]
+9.0 "department store" [Good Topic]
+7.5 "Guibert" [Good Topic]
+5.3 "original athleisure brand" [Good Topic]
+5.1 "Lacoste New York Fashion Week show" [Good Topic]
+5.0 "own store" [Good Topic]
+4.9 "fashion brand" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Lacoste
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Retooled: How {{Lacoste}} Became an Upscale Brand Again.
+Sentiment {0} Serialized Representation: V2|1|Lacoste|20|26|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: fashion brand
+Sentiment {1} Dominant Valence: zero
+Sentiment {1} Total Sentiment Score: 0.0
+Sentiment {1} Annotated Text: It shut 20% of its stores and stopped trying to be a {{fashion brand}}.
+Sentiment {1} Serialized Representation: V2|1|fashion brand|53|65|1|e0|
+Sentiment {1} Signals: 
+Sentiment {2} Tags: Lacoste
+Sentiment {2} Dominant Valence: ambiguous
+Sentiment {2} Total Sentiment Score: 31.0
+Sentiment {2} Annotated Text: Back in the 1980s, {{Lacoste}} polo shirts were <<so>> <<ubiquitous>> in North America that the French brand's <<popularity>> sparked a backlash, captured by the saying, "Save an alligator, <<kill>> a prep. "
+Sentiment {2} Serialized Representation: V2|1|Lacoste|19|25|1|e4|44|45|1|g174|177|1|n99|108|1|p47|56|1|g
+Sentiment {2} Signals: PffyNLg6, e0ofDjtK, Md25_ldW, YlGMsVUM
+Sentiment {3} Tags: Lacoste
+Sentiment {3} Dominant Valence: negative
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: The detractors were referring to the wrong reptile ( {{Lacoste}}'s logo features a crocodile, not a gator). But their <<derision>> reflected a Lacoste-mania that has since proved to be the brand's high-water mark in pop culture.
+Sentiment {3} Serialized Representation: V2|1|Lacoste|53|59|1|e1|114|121|1|a
+Sentiment {3} Signals: Cz-2SDOb
+Sentiment {4} Tags: Lacoste, fashion brand
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 20.0
+Sentiment {4} Annotated Text: {{Lacoste}} hit a long lull a few years ago, <<hurt>> by an overexposure that <<damaged>> its cachet and a misguided attempt to be a {{fashion brand}}.
+Sentiment {4} Serialized Representation: V2|2|Lacoste|0|6|1|efashion brand|121|133|1|e2|41|44|1|s70|76|1|n
+Sentiment {4} Signals: MHUFG54s, GA7-_uCW
+Sentiment {5} Tags: Lacoste
+Sentiment {5} Dominant Valence: zero
+Sentiment {5} Total Sentiment Score: 0.0
+Sentiment {5} Annotated Text: Today, however, {{Lacoste}} is perking up again under its CEO of nearly two years, Thierry Guibert.
+Sentiment {5} Serialized Representation: V2|1|Lacoste|16|22|1|e0|
+Sentiment {5} Signals: 
+Sentiment {6} Tags: Lacoste
+Sentiment {6} Dominant Valence: zero
+Sentiment {6} Total Sentiment Score: 0.0
+Sentiment {6} Annotated Text: {{Lacoste}}, owned by the Swiss holding group Maus Frères, has seen global sales rise to 1.95 billion euros in 2015 ( $ 2.15 billion) from 1.4 billion euros in 2010.
+Sentiment {6} Serialized Representation: V2|1|Lacoste|0|6|1|e0|
+Sentiment {6} Signals: 
+Sentiment {7} Tags: Lacoste, Guibert
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: And while the privately-held company won't disclose sales data for the U.S., its biggest market, or even global data for the other years in that period, {{Guibert}} tells Fortune that {{Lacoste}}'s stores are now posting comparable sales increases in the United States.
+Sentiment {7} Serialized Representation: V2|2|Lacoste|180|186|1|eGuibert|153|159|1|e0|
+Sentiment {7} Signals: 
+Sentiment {8} Tags: Lacoste
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: (Among other achievements that have earned him legendary status, {{Lacoste}} in 1928 invented the first tennis ball machine. )
+Sentiment {8} Serialized Representation: V2|1|Lacoste|65|71|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: own store
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 20.0
+Sentiment {9} Annotated Text: How did such a <<venerable>> institution get back <<on>> <<track>> in the U.S.? By pulling back on its presence in discount outlet stores, closing many of its {{own stores}} in secondary U.S. markets, and putting the focus back on its sports heritage.
+Sentiment {9} Serialized Representation: V2|1|own store|147|156|1|e3|15|23|1|p49|53|1|g46|47|1|g
+Sentiment {9} Signals: DWyO-Tao, L2fJYyZv
+Sentiment {10} Tags: Lacoste
+Sentiment {10} Dominant Valence: zero
+Sentiment {10} Total Sentiment Score: 0.0
+Sentiment {10} Annotated Text: {{Lacoste}} has also mixed things up to reach a new audience, with moves like selling its wares at J. Crew, which it began to do earlier this year.
+Sentiment {10} Serialized Representation: V2|1|Lacoste|0|6|1|e0|
+Sentiment {10} Signals: 
+Sentiment {11} Tags: Lacoste
+Sentiment {11} Dominant Valence: positive
+Sentiment {11} Total Sentiment Score: 20.0
+Sentiment {11} Annotated Text: "The only way {{Lacoste}} can be <<successful>> is to maintain its <<premium>> pricing and quality, " says Adheer Bahulkar, a partner in the retail practice of consulting firm A.T. Kearney.
+Sentiment {11} Serialized Representation: V2|1|Lacoste|14|20|1|e2|29|38|1|p59|65|1|p
+Sentiment {11} Signals: kzFGFXCg, YQPPiKKT
+Sentiment {12} Tags: Lacoste, original athleisure brand
+Sentiment {12} Dominant Valence: ambiguous
+Sentiment {12} Total Sentiment Score: 40.0
+Sentiment {12} Annotated Text: He also notes that while {{Lacoste}} may have had some success in <<restoring>> its <<luster>>, it is now <<competing>> with brands like Under Armour UA 0.81 % and Adidas, which have both added more fashion to their apparel, <<challenging>> what he calls "the {{original athleisure brand}}. "
+Sentiment {12} Serialized Representation: V2|2|Lacoste|25|31|1|eoriginal athleisure brand|240|264|1|e4|62|70|1|p76|81|1|p94|102|1|n209|219|1|n
+Sentiment {12} Signals: 0olMLE4t, -6eEveSY, 3VDt1Zw6, H8PBWptY
+Sentiment {13} Tags: Lacoste, department store, own store
+Sentiment {13} Dominant Valence: positive
+Sentiment {13} Total Sentiment Score: 10.0
+Sentiment {13} Annotated Text: Like many other so-called affordable <<luxury>> brands, {{Lacoste}} fell into the trap of over-expanding its {{own stores}} and its presence in {{department stores}}.
+Sentiment {13} Serialized Representation: V2|3|Lacoste|52|58|1|edepartment store|132|148|1|eown store|101|110|1|e1|37|42|1|p
+Sentiment {13} Signals: 482k1Lbw
+Sentiment {14} Tags: Guibert
+Sentiment {14} Dominant Valence: negative
+Sentiment {14} Total Sentiment Score: 10.0
+Sentiment {14} Annotated Text: "We probably made some <<mistakes>> in the United States, because we were focused on expanding sales volumes, " says {{Guibert}}.
+Sentiment {14} Serialized Representation: V2|1|Guibert|113|119|1|e1|23|30|1|n
+Sentiment {14} Signals: NE5mciZJ
+Sentiment {15} Tags: Lacoste
+Sentiment {15} Dominant Valence: zero
+Sentiment {15} Total Sentiment Score: 0.0
+Sentiment {15} Annotated Text: Here is a closer look at what {{Lacoste}} did to fix its brand.
+Sentiment {15} Serialized Representation: V2|1|Lacoste|30|36|1|e0|
+Sentiment {15} Signals: 
+Sentiment {16} Tags: Lacoste
+Sentiment {16} Dominant Valence: zero
+Sentiment {16} Total Sentiment Score: 0.0
+Sentiment {16} Annotated Text: Closing stores: {{Lacoste}} has closed some 20 U.S. stores (including factory outlets) in recent years, leaving it with 100 or so.
+Sentiment {16} Serialized Representation: V2|1|Lacoste|16|22|1|e0|
+Sentiment {16} Signals: 
+Sentiment {17} Tags: Guibert
+Sentiment {17} Dominant Valence: positive
+Sentiment {17} Total Sentiment Score: 26.0
+Sentiment {17} Annotated Text: It has also pulled back on outlets: {{Guibert}} says that while outlet stores are <<far>> <<more>> <<profitable>>, they erode cachet over time.
+Sentiment {17} Serialized Representation: V2|1|Guibert|36|42|1|e3|87|96|1|p78|80|1|g82|85|1|p
+Sentiment {17} Signals: OCj0X5fN, klOQPBF5, e0ofDjtK
+Sentiment {18} Tags: Lacoste
+Sentiment {18} Dominant Valence: negative
+Sentiment {18} Total Sentiment Score: 10.0
+Sentiment {18} Annotated Text: "It was <<painful>>, but necessary to revamp the brand, " he says. At the same time, {{Lacoste}} has opened a few stores, such as the one in Westfield's new World Trade Center mall in Manhattan.
+Sentiment {18} Serialized Representation: V2|1|Lacoste|81|87|1|e1|8|14|1|n
+Sentiment {18} Signals: 0Q34LxJ3
+Sentiment {19} Tags: Lacoste, department store
+Sentiment {19} Dominant Valence: negative
+Sentiment {19} Total Sentiment Score: 20.000002
+Sentiment {19} Annotated Text: Putting {{department stores}} on notice: Like Coach COH -1.18 % and Ralph Lauren, RL -2.18 % {{Lacoste}} has been <<hurt>> by the <<dwindling>> fortunes of {{department stores}}.
+Sentiment {19} Serialized Representation: V2|3|Lacoste|89|95|1|edepartment store|8|24|1|edepartment store|140|156|1|e2|106|109|1|f118|126|1|n
+Sentiment {19} Signals: 9nL1heRh, 3EQ5MZtz
+Sentiment {20} Tags: Lacoste
+Sentiment {20} Dominant Valence: negative
+Sentiment {20} Total Sentiment Score: 10.0
+Sentiment {20} Annotated Text: {{Lacoste}} is sold at Nordstrom JWN -0.09 %, a few Macy's, M -3.34 % and at the upscale Bloomingdale's chain. All three chains have <<suffered>> through same-store sales declines recently.
+Sentiment {20} Serialized Representation: V2|1|Lacoste|0|6|1|e1|129|136|1|s
+Sentiment {20} Signals: cGhT632d
+Sentiment {21} Tags: Lacoste
+Sentiment {21} Dominant Valence: negative
+Sentiment {21} Total Sentiment Score: 30.0
+Sentiment {21} Annotated Text: And all the promotional activity and signage in those stores is <<inflicting>> some collateral <<damage>> on {{Lacoste}}'s <<prestige>>.
+Sentiment {21} Serialized Representation: V2|1|Lacoste|101|107|1|e3|91|96|1|n64|73|1|s111|118|1|p
+Sentiment {21} Signals: wImAYJsZ, Dt_kQxGd, 2KhO71yA
+Sentiment {22} Tags: department store, own store
+Sentiment {22} Dominant Valence: zero
+Sentiment {22} Total Sentiment Score: 0.0
+Sentiment {22} Annotated Text: "We had some tough discussions with some {{department stores}} because I don't want us to be anywhere with too much promotion in stores, " says Guibert. (Lacoste gets about half its revenues at its {{own stores}}, and half from its wholesale business. )
+Sentiment {22} Serialized Representation: V2|2|department store|41|57|1|eown store|194|203|1|e0|
+Sentiment {22} Signals: 
+Sentiment {23} Tags: Guibert, Lacoste New York Fashion Week show
+Sentiment {23} Dominant Valence: negative
+Sentiment {23} Total Sentiment Score: 23.0
+Sentiment {23} Annotated Text: Less fashion, <<more>> <<elegance:>> Though our interview with {{Guibert}} took place after {{Lacoste's New York Fashion Week show}} in September, the brand is pivoting away from <<edgier>> fashion and is tapping its history with more classic styles.
+Sentiment {23} Serialized Representation: V2|2|Guibert|55|61|1|eLacoste New York Fashion Week show|80|115|1|e3|14|17|1|g163|168|1|f19|27|1|g
+Sentiment {23} Signals: OCj0X5fN, e0ofDjtK, oTDa9irT
+Sentiment {24} Tags: 
+Sentiment {24} Dominant Valence: ambiguous
+Sentiment {24} Total Sentiment Score: 10.0
+Sentiment {24} Annotated Text: " We're <<not>> a technical brand, we're an <<elegant>> sports brand. "
+Sentiment {24} Serialized Representation: V2|0|2|40|46|1|m8|10|1|m
+Sentiment {24} Signals: tbFFv2GF, P-1fHdRC
+Sentiment {25} Tags: Lacoste
+Sentiment {25} Dominant Valence: zero
+Sentiment {25} Total Sentiment Score: 0.0
+Sentiment {25} Annotated Text: Courtesy of {{Lacoste}}.
+Sentiment {25} Serialized Representation: V2|1|Lacoste|12|18|1|e0|
+Sentiment {25} Signals: 
+Sentiment {26} Tags: Lacoste
+Sentiment {26} Dominant Valence: positive
+Sentiment {26} Total Sentiment Score: 22.0
+Sentiment {26} Annotated Text: Emphasizing {{Lacoste}}'s golf and tennis history: {{Lacoste}} started out purveying clothing that the founder could wear while playing tennis that was <<inspired>> by what polo players wore and allowed <<greater>> movement than typical tennis attire at the time.
+Sentiment {26} Serialized Representation: V2|2|Lacoste|12|18|1|eLacoste|47|53|1|e2|144|151|1|j191|197|1|p
+Sentiment {26} Signals: b9P2eaMm, ALEH90QQ, gEPY7p8V
+Sentiment {27} Tags: Lacoste
+Sentiment {27} Dominant Valence: zero
+Sentiment {27} Total Sentiment Score: 0.0
+Sentiment {27} Annotated Text: In 1933, he and a partner launched a light {{Lacoste}} polo shirt with breathable fabric.
+Sentiment {27} Serialized Representation: V2|1|Lacoste|43|49|1|e0|
+Sentiment {27} Signals: 
+Sentiment {28} Tags: Lacoste
+Sentiment {28} Dominant Valence: zero
+Sentiment {28} Total Sentiment Score: 0.0
+Sentiment {28} Annotated Text: So both sports are at the heart of {{Lacoste}}'s marketing.
+Sentiment {28} Serialized Representation: V2|1|Lacoste|35|41|1|e0|
+Sentiment {28} Signals: 
+Sentiment {29} Tags: Lacoste
+Sentiment {29} Dominant Valence: positive
+Sentiment {29} Total Sentiment Score: 53.0
+Sentiment {29} Annotated Text: While {{Lacoste}} is <<by>> <<no>> <<means>> <<out>> <<of>> <<the>> <<woods>>, being <<more>> <<selective>> about where it is sold and who it markets to is <<helping>> <<it>> return some <<luster>> to its name in a very crowded field.
+Sentiment {29} Serialized Representation: V2|1|Lacoste|6|12|1|e12|33|34|1|g17|18|1|g53|56|1|p139|144|1|p40|44|1|g20|21|1|g58|66|1|p36|38|1|g124|125|1|g29|31|1|g23|27|1|g116|122|1|g
+Sentiment {29} Signals: OCj0X5fN, 7ZsZtod9, e0ofDjtK, -6eEveSY, mPZAyY6M, Zo1drJ6S, Ko9yadaO
+Sentiment {30} Tags: Lacoste, Guibert
+Sentiment {30} Dominant Valence: ambiguous
+Sentiment {30} Total Sentiment Score: 23.0
+Sentiment {30} Annotated Text: " It's the only way to make the brand <<more>> <<desirable>> in the long run and recapture the kind of customers who <<love>> {{Lacoste}}, " {{Guibert}} says.
+Sentiment {30} Serialized Representation: V2|2|Lacoste|114|120|1|eGuibert|125|131|1|e3|43|51|1|m109|112|1|m38|41|1|m
+Sentiment {30} Signals: OCj0X5fN, JWJ-ZnSA, e0ofDjtK, VxogZXB0, jvjFjiuP
+
+LINKS Begin:
+http://fortune.com/2016/10/16/lacoste-retooled/
+
+FULL ANNOTATED TEXT Begin:
+Title=Retooled: How [e]{{Lacoste}} Became an Upscale Brand Again. 
+Author=Phil Wahba. 
+PubTime=2016-09-10 16:17:00. 
+http://fortune.com/2016/10/16/lacoste-retooled/ led/ 
+Language=EN. 
+It shut 20% of its stores and stopped trying to be a [e]{{fashion brand}}. 
+Back in the 1980s, [e]{{Lacoste}} polo shirts were [g]<<so>> [g]<<ubiquitous>> in North America that the French brand's [p]<<popularity>> sparked a backlash, captured by the saying, "Save an alligator, [n]<<kill>> a prep. " 
+The detractors were referring to the wrong reptile ( [e]{{Lacoste}}'s logo features a crocodile, not a gator). But their [a]<<derision>> reflected a Lacoste-mania that has since proved to be the brand's high-water mark in pop culture. [e]{{Lacoste}} hit a long lull a few years ago, [s]<<hurt>> by an overexposure that [n]<<damaged>> its cachet and a misguided attempt to be a [e]{{fashion brand}}. 
+Today, however, [e]{{Lacoste}} is perking up again under its CEO of nearly two years, Thierry Guibert. [e]{{Lacoste}}, owned by the Swiss holding group Maus Frères, has seen global sales rise to 1.95 billion euros in 2015 ( $ 2.15 billion) from 1.4 billion euros in 2010. And while the privately-held company won't disclose sales data for the U.S., its biggest market, or even global data for the other years in that period, [e]{{Guibert}} tells Fortune that [e]{{Lacoste}}'s stores are now posting comparable sales increases in the United States. 
+The brand was founded in 1933 by the late French tennis star René Lacoste. (Among other achievements that have earned him legendary status, [e]{{Lacoste}} in 1928 invented the first tennis ball machine. ) How did such a [p]<<venerable>> institution get back [g]<<on>> [g]<<track>> in the U.S.? By pulling back on its presence in discount outlet stores, closing many of its [e]{{own stores}} in secondary U.S. markets, and putting the focus back on its sports heritage. [e]{{Lacoste}} has also mixed things up to reach a new audience, with moves like selling its wares at J. Crew, which it began to do earlier this year. 
+"The only way [e]{{Lacoste}} can be [p]<<successful>> is to maintain its [p]<<premium>> pricing and quality, " says Adheer Bahulkar, a partner in the retail practice of consulting firm A.T. Kearney. He also notes that while [e]{{Lacoste}} may have had some success in [p]<<restoring>> its [p]<<luster>>, it is now [n]<<competing>> with brands like Under Armour UA 0.81 % and Adidas, which have both added more fashion to their apparel, [n]<<challenging>> what he calls "the [e]{{original athleisure brand}}. " 
+Like many other so-called affordable [p]<<luxury>> brands, [e]{{Lacoste}} fell into the trap of over-expanding its [e]{{own stores}} and its presence in [e]{{department stores}}. 
+"We probably made some [n]<<mistakes>> in the United States, because we were focused on expanding sales volumes, " says [e]{{Guibert}}. 
+Here is a closer look at what [e]{{Lacoste}} did to fix its brand. 
+Closing stores: [e]{{Lacoste}} has closed some 20 U.S. stores (including factory outlets) in recent years, leaving it with 100 or so. The brand decided to focus on New York, California, Texas and Florida. It has also pulled back on outlets: [e]{{Guibert}} says that while outlet stores are [g]<<far>> [p]<<more>> [p]<<profitable>>, they erode cachet over time. He estimates the size of the typical discount has fallen 20 percentage points since their peak a few years ago. "It was [n]<<painful>>, but necessary to revamp the brand, " he says. At the same time, [e]{{Lacoste}} has opened a few stores, such as the one in Westfield's new World Trade Center mall in Manhattan. 
+Putting [e]{{department stores}} on notice: Like Coach COH -1.18 % and Ralph Lauren, RL -2.18 % [e]{{Lacoste}} has been [f]<<hurt>> by the [n]<<dwindling>> fortunes of [e]{{department stores}}. [e]{{Lacoste}} is sold at Nordstrom JWN -0.09 %, a few Macy's, M -3.34 % and at the upscale Bloomingdale's chain. All three chains have [s]<<suffered>> through same-store sales declines recently. And all the promotional activity and signage in those stores is [s]<<inflicting>> some collateral [n]<<damage>> on [e]{{Lacoste}}'s [p]<<prestige>>. "We had some tough discussions with some [e]{{department stores}} because I don't want us to be anywhere with too much promotion in stores, " says Guibert. (Lacoste gets about half its revenues at its [e]{{own stores}}, and half from its wholesale business. ) 
+Less fashion, [g]<<more>> [g]<<elegance:>> Though our interview with [e]{{Guibert}} took place after [e]{{Lacoste's New York Fashion Week show}} in September, the brand is pivoting away from [f]<<edgier>> fashion and is tapping its history with more classic styles. "What we stand for is the strong heritage of a French brand, " says Joëlle Grünberg, the head of Lacoste's North American business. But that also means not trying to take on Nike and Adidas directly, she adds. " We're [m]<<not>> a technical brand, we're an [m]<<elegant>> sports brand. " 
+Courtesy of [e]{{Lacoste}}. 
+Emphasizing [e]{{Lacoste}}'s golf and tennis history: [e]{{Lacoste}} started out purveying clothing that the founder could wear while playing tennis that was [j]<<inspired>> by what polo players wore and allowed [p]<<greater>> movement than typical tennis attire at the time. In 1933, he and a partner launched a light [e]{{Lacoste}} polo shirt with breathable fabric. Meanwhile, his wife, Simone Thion de la Chaume, was busy becoming a golf star. So both sports are at the heart of [e]{{Lacoste}}'s marketing. Lacoste sponsors such events as tennis's Miami Open, and recently signed on to be the official apparel supplier of the PGA tour's Presidents Cup. 
+While [e]{{Lacoste}} is [g]<<by>> [g]<<no>> [g]<<means>> [g]<<out>> [g]<<of>> [g]<<the>> [g]<<woods>>, being [p]<<more>> [p]<<selective>> about where it is sold and who it markets to is [g]<<helping>> [g]<<it>> return some [p]<<luster>> to its name in a very crowded field. 
+" It's the only way to make the brand [m]<<more>> [m]<<desirable>> in the long run and recapture the kind of customers who [m]<<love>> [e]{{Lacoste}}, " [e]{{Guibert}} says. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Retooled: How Lacoste Became an Upscale Brand Again
+Author=Phil Wahba
+PubTime=2016-09-10 16:17:00
+Url=http://fortune.com/2016/10/16/lacoste-retooled/
+Language=EN
+
+It shut 20% of its stores and stopped trying to be a fashion brand.
+Back in the 1980s, Lacoste polo shirts were so ubiquitous in North America that the French brand’s popularity sparked a backlash, captured by the saying, “Save an alligator, kill a prep.”
+
+The detractors were referring to the wrong reptile (Lacoste’s logo features a crocodile, not a gator). But their derision reflected a Lacoste-mania that has since proved to be the brand’s high-water mark in pop culture. Lacoste hit a long lull a few years ago, hurt by an overexposure that damaged its cachet and a misguided attempt to be a fashion brand.
+
+Today, however, Lacoste is perking up again under its CEO of nearly two years, Thierry Guibert. Lacoste, owned by the Swiss holding group Maus Frères, has seen global sales rise to 1.95 billion euros in 2015 ($2.15 billion) from 1.4 billion euros in 2010. And while the privately-held company won’t disclose sales data for the U.S., its biggest market, or even global data for the other years in that period, Guibert tells Fortune that Lacoste’s stores are now posting comparable sales increases in the United States.
+
+The brand was founded in 1933 by the late French tennis star René Lacoste. (Among other achievements that have earned him legendary status, Lacoste in 1928 invented the first tennis ball machine.) How did such a venerable institution get back on track in the U.S.? By pulling back on its presence in discount outlet stores, closing many of its own stores in secondary U.S. markets, and putting the focus back on its sports heritage. Lacoste has also mixed things up to reach a new audience, with moves like selling its wares at J. Crew, which it began to do earlier this year.
+
+“The only way Lacoste can be successful is to maintain its premium pricing and quality,” says Adheer Bahulkar, a partner in the retail practice of consulting firm A.T. Kearney. He also notes that while Lacoste may have had some success in restoring its luster, it is now competing with brands like Under Armour  UA 0.81%  and Adidas, which have both added more fashion to their apparel, challenging what he calls “the original athleisure brand.”
+
+Like many other so-called affordable luxury brands, Lacoste fell into the trap of over-expanding its own stores and its presence in department stores.
+
+
+“We probably made some mistakes in the United States, because we were focused on expanding sales volumes,” says Guibert.
+
+Here is a closer look at what Lacoste did to fix its brand.
+
+Closing stores: Lacoste has closed some 20 U.S. stores (including factory outlets) in recent years, leaving it with 100 or so. The brand decided to focus on New York, California, Texas and Florida. It has also pulled back on outlets: Guibert says that while outlet stores are far more profitable, they erode cachet over time. He estimates the size of the typical discount has fallen 20 percentage points since their peak a few years ago. “It was painful, but necessary to revamp the brand,” he says. At the same time, Lacoste has opened a few stores, such as the one in Westfield’s new World Trade Center mall in Manhattan.
+Putting department stores on notice: Like Coach  COH -1.18%  and Ralph Lauren,  RL -2.18%  Lacoste has been hurt by the dwindling fortunes of department stores. Lacoste is sold at Nordstrom  JWN -0.09% , a few Macy’s,  M -3.34%  and at the upscale Bloomingdale’s chain. All three chains have suffered through same-store sales declines recently. And all the promotional activity and signage in those stores is inflicting some collateral damage on Lacoste’s prestige. “We had some tough discussions with some department stores because I don’t want us to be anywhere with too much promotion in stores,” says Guibert. (Lacoste gets about half its revenues at its own stores, and half from its wholesale business.)
+Less fashion, more elegance: Though our interview with Guibert took place after Lacoste’s New York Fashion Week show in September, the brand is pivoting away from edgier fashion and is tapping its history with more classic styles. “What we stand for is the strong heritage of a French brand,” says Joëlle Grünberg, the head of Lacoste’s North American business. But that also means not trying to take on Nike and Adidas directly, she adds. “We’re not a technical brand, we’re an elegant sports brand.”
+
+Courtesy of Lacoste
+Emphasizing Lacoste’s golf and tennis history: Lacoste started out purveying clothing that the founder could wear while playing tennis that was inspired by what polo players wore and allowed greater movement than typical tennis attire at the time. In 1933, he and a partner launched a light Lacoste polo shirt with breathable fabric. Meanwhile, his wife, Simone Thion de la Chaume, was busy becoming a golf star. So both sports are at the heart of Lacoste’s marketing. Lacoste sponsors such events as tennis’s Miami Open, and recently signed on to be the official apparel supplier of the PGA tour’s Presidents Cup.
+While Lacoste is by no means out of the woods, being more selective about where it is sold and who it markets to is helping it return some luster to its name in a very crowded field.
+
+“It’s the only way to make the brand more desirable in the long run and recapture the kind of customers who love Lacoste,” Guibert says.

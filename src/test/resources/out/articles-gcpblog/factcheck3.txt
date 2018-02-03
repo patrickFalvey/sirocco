@@ -1,0 +1,147 @@
+----------- TASK [1] --------------
+TEXT STATS Length [3325] Paragraphs [11] Unique Entities [79] Index [257] ms Chunk [169] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+10.3 "information" [Undetermined Topic]
+8.7 "publisher" [Undetermined Topic]
+6.3 "fact check" [Good Topic]
+5.6 "particular claim" [Good Topic]
+4.9 "search result page" [Good Topic]
+4.1 "Google" [Good Topic]
+3.9 "conclusion" [Undetermined Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: information, publisher, Google
+Sentiment {0} Dominant Valence: positive
+Sentiment {0} Total Sentiment Score: 20.0
+Sentiment {0} Annotated Text: {{Google}} was built to help people find <<useful>> {{information}} by surfacing the <<great>> content that {{publishers}} and sites create.
+Sentiment {0} Serialized Representation: V2|3|information|44|54|1|epublisher|92|101|1|eGoogle|0|5|1|e2|73|77|1|p37|42|1|p
+Sentiment {0} Signals: gKrJPA7g, ALEH90QQ
+Sentiment {1} Tags: 
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 20.0
+Sentiment {1} Annotated Text: However, with thousands of new articles published online every minute of every day, the amount of content <<confronting>> people online can be <<overwhelming>>.
+Sentiment {1} Serialized Representation: V2|0|2|106|116|1|n139|150|1|n
+Sentiment {1} Signals: QiVYO20m, UlLYpDaG
+Sentiment {2} Tags: 
+Sentiment {2} Dominant Valence: ambiguous
+Sentiment {2} Total Sentiment Score: 30.0
+Sentiment {2} Annotated Text: And <<unfortunately>>, <<not>> all of it is <<factual>> or true, making it hard for people to <<distinguish>> fact from fiction.
+Sentiment {2} Serialized Representation: V2|0|4|36|42|1|m82|92|1|m19|21|1|m4|16|1|n
+Sentiment {2} Signals: rI9pzqCs, tbFFv2GF, HKk7J8a7, ke3bkynJ
+Sentiment {3} Tags: publisher
+Sentiment {3} Dominant Valence: zero
+Sentiment {3} Total Sentiment Score: 0.0
+Sentiment {3} Annotated Text: That's why last October, along with our partners at Jigsaw, we announced that in a few countries we would start enabling {{publishers}} to show a "Fact Check" tag in Google News for news stories.
+Sentiment {3} Serialized Representation: V2|1|publisher|121|130|1|e0|
+Sentiment {3} Signals: 
+Sentiment {4} Tags: publisher
+Sentiment {4} Dominant Valence: zero
+Sentiment {4} Total Sentiment Score: 0.0
+Sentiment {4} Annotated Text: After assessing feedback from both users and {{publishers}}, we're making the Fact Check label in Google News available everywhere, and expanding it into Search globally in all languages.
+Sentiment {4} Serialized Representation: V2|1|publisher|45|54|1|e0|
+Sentiment {4} Signals: 
+Sentiment {5} Tags: information, fact check, search result page, Google
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: For the first time, when you conduct a search on {{Google}} that returns an <<authoritative>> result containing {{fact checks}} for one or more public claims, you will see that {{information}} clearly on the {{search results page}}.
+Sentiment {5} Serialized Representation: V2|4|information|165|175|1|efact check|104|114|1|esearch result page|192|210|1|eGoogle|49|54|1|e1|72|84|1|p
+Sentiment {5} Signals: C9Ms5jXl
+Sentiment {6} Tags: information, particular claim
+Sentiment {6} Dominant Valence: zero
+Sentiment {6} Total Sentiment Score: 0.0
+Sentiment {6} Annotated Text: The snippet will display {{information}} on the claim, who made the claim, and the fact check of that {{particular claim}}.
+Sentiment {6} Serialized Representation: V2|2|information|25|35|1|eparticular claim|98|113|1|e0|
+Sentiment {6} Signals: 
+Sentiment {7} Tags: information, publisher, search result page, conclusion
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: This {{information}} won't be available for every search result, and there may be {{search result pages}} where different {{publishers}} checked the same claim and reached different {{conclusions}}.
+Sentiment {7} Serialized Representation: V2|4|information|5|15|1|epublisher|114|123|1|esearch result page|78|96|1|econclusion|170|180|1|e0|
+Sentiment {7} Signals: 
+Sentiment {8} Tags: fact check, Google
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: These {{fact checks}} are not {{Google}}'s and are presented so people can make more informed judgements.
+Sentiment {8} Serialized Representation: V2|2|fact check|6|16|1|eGoogle|26|31|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: information, particular claim, conclusion
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 20.0
+Sentiment {9} Annotated Text: Even though differing {{conclusions}} may be presented, we think it's still <<helpful>> for people to understand the degree of consensus around a {{particular claim}} and have clear {{information}} on which sources <<agree>>.
+Sentiment {9} Serialized Representation: V2|3|information|170|180|1|eparticular claim|138|153|1|econclusion|22|32|1|e2|199|203|1|j72|78|1|p
+Sentiment {9} Signals: 9eGCFKyI, PIQSTjCM
+Sentiment {10} Tags: fact check
+Sentiment {10} Dominant Valence: general
+Sentiment {10} Total Sentiment Score: 13.0
+Sentiment {10} Annotated Text: As we make {{fact checks}} <<more>> <<visible>> in Search results, we believe people will have an easier time reviewing and assessing these {{fact checks}}, and making their own informed opinions.
+Sentiment {10} Serialized Representation: V2|2|fact check|11|21|1|efact check|128|138|1|e2|28|34|1|g23|26|1|g
+Sentiment {10} Signals: OCj0X5fN, e0ofDjtK
+Sentiment {11} Tags: publisher
+Sentiment {11} Dominant Valence: zero
+Sentiment {11} Total Sentiment Score: 0.0
+Sentiment {11} Annotated Text: For {{publishers}} to be included in this feature, they must be using the Schema.org.
+Sentiment {11} Serialized Representation: V2|1|publisher|4|13|1|e0|
+Sentiment {11} Signals: 
+Sentiment {12} Tags: information, publisher
+Sentiment {12} Dominant Valence: positive
+Sentiment {12} Total Sentiment Score: 20.0
+Sentiment {12} Annotated Text: Only {{publishers}} that are algorithmically determined to be an <<authoritative>> source of {{information}} will <<qualify>> for inclusion.
+Sentiment {12} Serialized Representation: V2|2|information|85|95|1|epublisher|5|14|1|e2|61|73|1|p102|108|1|p
+Sentiment {12} Signals: C9Ms5jXl, 7weHcv6z
+Sentiment {13} Tags: fact check
+Sentiment {13} Dominant Valence: zero
+Sentiment {13} Total Sentiment Score: 0.0
+Sentiment {13} Annotated Text: Finally, the content must adhere to the general policies that apply to all structured data markup, the Google News Publisher criteria for {{fact checks}}, and the standards for accountability and transparency, readability or proper site representation as articulated in our Google News General Guidelines.
+Sentiment {13} Serialized Representation: V2|1|fact check|138|148|1|e0|
+Sentiment {13} Signals: 
+Sentiment {14} Tags: publisher
+Sentiment {14} Dominant Valence: positive
+Sentiment {14} Total Sentiment Score: 20.0
+Sentiment {14} Annotated Text: If a {{publisher}} or fact check claim does not meet these standards or <<honor>> these policies, we may, at our <<discretion>>, ignore that site's markup.
+Sentiment {14} Serialized Representation: V2|1|publisher|5|13|1|e2|105|114|1|p68|72|1|p
+Sentiment {14} Signals: BZIkULTf, uKnIW_TW
+
+LINKS Begin:
+https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/
+
+FULL ANNOTATED TEXT Begin:
+Title=Fact Check now available in Google Search and News around the world. 
+Author=Justin Kosslyn. 
+PubTime=2017-04-07 09:00:00. 
+https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/ rld/ 
+Language=EN. 
+[e]{{Google}} was built to help people find [p]<<useful>> [e]{{information}} by surfacing the [p]<<great>> content that [e]{{publishers}} and sites create. This access to high quality information is what drives people to use the web and for contributors to continue to engage and invest in it. 
+However, with thousands of new articles published online every minute of every day, the amount of content [n]<<confronting>> people online can be [n]<<overwhelming>>. And [n]<<unfortunately>>, [m]<<not>> all of it is [m]<<factual>> or true, making it hard for people to [m]<<distinguish>> fact from fiction. That's why last October, along with our partners at Jigsaw, we announced that in a few countries we would start enabling [e]{{publishers}} to show a "Fact Check" tag in Google News for news stories. This label identifies articles that include information fact checked by news publishers and fact-checking organizations. 
+After assessing feedback from both users and [e]{{publishers}}, we're making the Fact Check label in Google News available everywhere, and expanding it into Search globally in all languages. For the first time, when you conduct a search on [e]{{Google}} that returns an [p]<<authoritative>> result containing [e]{{fact checks}} for one or more public claims, you will see that [e]{{information}} clearly on the [e]{{search results page}}. The snippet will display [e]{{information}} on the claim, who made the claim, and the fact check of that [e]{{particular claim}}. 
+This [e]{{information}} won't be available for every search result, and there may be [e]{{search result pages}} where different [e]{{publishers}} checked the same claim and reached different [e]{{conclusions}}. These [e]{{fact checks}} are not [e]{{Google}}'s and are presented so people can make more informed judgements. Even though differing [e]{{conclusions}} may be presented, we think it's still [p]<<helpful>> for people to understand the degree of consensus around a [e]{{particular claim}} and have clear [e]{{information}} on which sources [j]<<agree>>. As we make [e]{{fact checks}} [g]<<more>> [g]<<visible>> in Search results, we believe people will have an easier time reviewing and assessing these [e]{{fact checks}}, and making their own informed opinions. 
+For [e]{{publishers}} to be included in this feature, they must be using the Schema.org. ClaimReview markup on the specific pages where they fact check public statements (documentation here), or they can use the Share the Facts widget developed by the Duke University Reporters Lab and Jigsaw. Only [e]{{publishers}} that are algorithmically determined to be an [p]<<authoritative>> source of [e]{{information}} will [p]<<qualify>> for inclusion. Finally, the content must adhere to the general policies that apply to all structured data markup, the Google News Publisher criteria for [e]{{fact checks}}, and the standards for accountability and transparency, readability or proper site representation as articulated in our Google News General Guidelines. If a [e]{{publisher}} or fact check claim does not meet these standards or [p]<<honor>> these policies, we may, at our [p]<<discretion>>, ignore that site's markup. 
+This effort wouldn't be possible without the help of other organizations and the fact check community, which has grown to 115 organizations. To find out more about this new feature, visit the Help Center. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Fact Check now available in Google Search and News around the world
+Author=Justin Kosslyn
+PubTime=2017-04-07 09:00:00
+Url=https://blog.google/products/search/fact-check-now-available-google-search-and-news-around-world/
+Language=EN
+
+Google was built to help people find useful information by surfacing the great content that publishers and sites create. This access to high quality information is what drives people to use the web and for contributors to continue to engage and invest in it.
+
+However, with thousands of new articles published online every minute of every day, the amount of content confronting people online can be overwhelming.  And unfortunately, not all of it is factual or true, making it hard for people to distinguish fact from fiction. That’s why last October, along with our partners at Jigsaw, we announced that in a few countries we would start enabling publishers to show a “Fact Check” tag in Google News for news stories. This label identifies articles that include information fact checked by news publishers and fact-checking organizations.
+
+After assessing feedback from both users and publishers, we’re making the Fact Check label in Google News available everywhere, and expanding it into Search globally in all languages. For the first time, when you conduct a search on Google that returns an authoritative result containing fact checks for one or more public claims, you will see that information clearly on the search results page. The snippet will display information on the claim, who made the claim, and the fact check of that particular claim.
+
+This information won’t be available for every search result, and there may be search result pages where different publishers checked the same claim and reached different conclusions. These fact checks are not Google’s and are presented so people can make more informed judgements. Even though differing conclusions may be presented, we think it’s still helpful for people to understand the degree of consensus around a particular claim and have clear information on which sources agree. As we make fact checks more visible in Search results, we believe people will have an easier time reviewing and assessing these fact checks, and making their own informed opinions.
+
+For publishers to be included in this feature, they must be using the Schema.org ClaimReview markup on the specific pages where they fact check public statements (documentation here), or they can use the Share the Facts widget developed by the Duke University Reporters Lab and Jigsaw. Only publishers that are algorithmically determined to be an authoritative source of information will qualify for inclusion. Finally, the content must adhere to the general policies that apply to all structured data markup, the Google News Publisher criteria for fact checks, and the standards for accountability and transparency, readability or proper site representation as articulated in our Google News General Guidelines. If a publisher or fact check claim does not meet these standards or honor these policies, we may, at our discretion, ignore that site's markup.
+
+This effort wouldn’t be possible without the help of other organizations and the fact check community, which has grown to 115 organizations. To find out more about this new feature, visit the Help Center.

@@ -94,6 +94,8 @@ public class ContentIndex
     public String ParentUrl;
     
     public Long ParentPubTime;
+
+    public String[] metaFields;
     
     /****************/
     /* Intermediate results of indexing */
@@ -121,14 +123,14 @@ public class ContentIndex
     
     public ContentIndex(String content, IndexingConsts.IndexingType indexingType, 
     		IndexingConsts.ContentType cueType, Long processingTime)  {
-        this(content, indexingType, cueType,processingTime, null,null,null,null, null, null, null, null);
+        this(content, indexingType, cueType,processingTime, null,null,null,null, null, null, null, null, null);
     }
     
     public ContentIndex(String content, IndexingConsts.IndexingType indexingType, 
     		IndexingConsts.ContentType cueType, Long processingTime,
     	    String url, Long publicationTime,  String title, String author, 
     	    String documentCollectionId, String collectionItemId,
-    	    String parentUrl, Long parentPubTime)  {
+    	    String parentUrl, Long parentPubTime, String[] metaFields)  {
         this.OriginalText = content;
         this.IndexingType = indexingType;
         this.ContentType = cueType;
@@ -141,6 +143,7 @@ public class ContentIndex
         this.CollectionItemId = collectionItemId;
         this.ParentUrl = parentUrl;
         this.ParentPubTime = parentPubTime;
+        this.metaFields = metaFields;
     }
 
     /**
@@ -154,7 +157,7 @@ public class ContentIndex
     		this.DocumentCollectionId, this.CollectionItemId,
     		this.Title, this.Author, 
     		this.OriginalText, this.ContentType, this.ContentParseDepth, this.Language, this.TopTags, 
-    		this.SelectedSentiments, this.ParentUrl, this.ParentPubTime);
+    		this.SelectedSentiments, this.ParentUrl, this.ParentPubTime, this.metaFields);
 
     	return summary;
     }

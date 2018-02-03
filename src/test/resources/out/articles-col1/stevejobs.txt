@@ -1,0 +1,235 @@
+----------- TASK [1] --------------
+TEXT STATS Length [4334] Paragraphs [21] Unique Entities [84] Index [1547] ms Chunk [1458] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+8.8 "Jobs" [Good Topic]
+8.0 "Apple" [Good Topic]
+6.8 "liver transplant" [Good Topic]
+5.0 "procedure" [Undetermined Topic]
+4.8 "Tennessee" [Good Topic]
+4.6 "serious procedure" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: liver transplant
+Sentiment {0} Dominant Valence: general
+Sentiment {0} Total Sentiment Score: 9.0
+Sentiment {0} Annotated Text: <<Apparently>>, Apple CEO Steve Jobs had a {{liver transplant}} two months ago, the Wall Street Journal reports tonight.
+Sentiment {0} Serialized Representation: V2|1|liver transplant|39|54|1|e1|0|9|1|g
+Sentiment {0} Signals: bnu804Qy, e0ofDjtK
+Sentiment {1} Tags: 
+Sentiment {1} Dominant Valence: ambiguous
+Sentiment {1} Total Sentiment Score: 26.0
+Sentiment {1} Annotated Text: When you read that, it's <<pretty>> <<shocking>>— but <<not>> that <<surprising>>.
+Sentiment {1} Serialized Representation: V2|0|4|32|39|1|s55|64|1|m46|48|1|m25|30|1|p
+Sentiment {1} Signals: BuXztsZ_, mlisQAz6, e0ofDjtK, tbFFv2GF, kYI-57BD
+Sentiment {2} Tags: Jobs, Apple
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 30.0
+Sentiment {2} Annotated Text: After {{Apple}} initially tried to pass off {{Jobs}}' <<gaunt>> physique as a minor ailment, {{Jobs}} himself came out in January and announced that the undisclosed <<illness>> he was <<suffering>> from would require him to take a leave of absence from the company.
+Sentiment {2} Serialized Representation: V2|3|Jobs|40|43|1|eJobs|81|84|1|eApple|6|10|1|e3|149|155|1|n46|50|1|g164|172|1|s
+Sentiment {2} Signals: r6uvWMY2, A6Yrcda0, cGhT632d
+Sentiment {3} Tags: Jobs
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 22.0
+Sentiment {3} Annotated Text: But the <<good>> news in the WSJ report is that {{Jobs}} is in fact feeling <<well>> enough now to return to work as scheduled at the end of this month— which is just days away.
+Sentiment {3} Serialized Representation: V2|1|Jobs|44|47|1|e2|8|11|1|p68|71|1|p
+Sentiment {3} Signals: jClGFk5P, YXGw5rF6
+Sentiment {4} Tags: 
+Sentiment {4} Dominant Valence: positive
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: But here's an <<interesting>> nugget from the story:
+Sentiment {4} Serialized Representation: V2|0|1|14|24|1|p
+Sentiment {4} Signals: o275-cg7
+Sentiment {5} Tags: Apple
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: When he does return, Mr. Jobs may be <<encouraged>> by his physicians to initially "work part-time for a month or two, " a person familiar with the thinking at {{Apple}} said.
+Sentiment {5} Serialized Representation: V2|1|Apple|156|160|1|e1|37|46|1|p
+Sentiment {5} Signals: Y3lCHtvQ
+Sentiment {6} Tags: Apple
+Sentiment {6} Dominant Valence: zero
+Sentiment {6} Total Sentiment Score: 0.0
+Sentiment {6} Annotated Text: That may lead Tim Cook, {{Apple}}'s chief operating officer, to take "a more encompassing role, " this person said. The person added that Mr. Cook may be appointed to {{Apple}}'s board in the not-too-distant future.
+Sentiment {6} Serialized Representation: V2|2|Apple|24|28|1|eApple|163|167|1|e0|
+Sentiment {6} Signals: 
+Sentiment {7} Tags: Apple
+Sentiment {7} Dominant Valence: positive
+Sentiment {7} Total Sentiment Score: 11.999999
+Sentiment {7} Annotated Text: That seems to suggest that the transition is <<well>> underway for Cook to eventually lead {{Apple}}.
+Sentiment {7} Serialized Representation: V2|1|Apple|87|91|1|e1|45|48|1|p
+Sentiment {7} Signals: YXGw5rF6
+Sentiment {8} Tags: Jobs
+Sentiment {8} Dominant Valence: positive
+Sentiment {8} Total Sentiment Score: 28.0
+Sentiment {8} Annotated Text: That shouldn't be a <<surprise>>, Cook has done a <<masterful>> job in {{Jobs}}' absence, <<pretty>> much doubling the value of the company's stock during that time.
+Sentiment {8} Serialized Representation: V2|1|Jobs|63|66|1|e3|20|27|1|u78|83|1|p46|54|1|p
+Sentiment {8} Signals: E6NLoZQp, yrkJzyh6, BuXztsZ_
+Sentiment {9} Tags: Jobs
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 26.0
+Sentiment {9} Annotated Text: {{Jobs}} has long been thought to be <<perhaps>> <<more>> <<important>> to his company than any single figure is to their's.
+Sentiment {9} Serialized Representation: V2|1|Jobs|0|3|1|e3|33|39|1|g41|44|1|p46|54|1|p
+Sentiment {9} Signals: OCj0X5fN, dXd5F_tR, e0ofDjtK
+Sentiment {10} Tags: Jobs
+Sentiment {10} Dominant Valence: general
+Sentiment {10} Total Sentiment Score: 10.0
+Sentiment {10} Annotated Text: Of course, there was already <<likely>> a multi-year pipeline for products when {{Jobs}} left.
+Sentiment {10} Serialized Representation: V2|1|Jobs|76|79|1|e1|29|34|1|g
+Sentiment {10} Signals: r1gn0cKq
+Sentiment {11} Tags: 
+Sentiment {11} Dominant Valence: positive
+Sentiment {11} Total Sentiment Score: 10.0
+Sentiment {11} Annotated Text: The business angle is the <<important>> one here.
+Sentiment {11} Serialized Representation: V2|0|1|26|34|1|p
+Sentiment {11} Signals: dXd5F_tR
+Sentiment {12} Tags: Jobs
+Sentiment {12} Dominant Valence: negative
+Sentiment {12} Total Sentiment Score: 22.0
+Sentiment {12} Annotated Text: Some have <<alleged>> that Jobs and Apple have held news of {{Jobs}}' health <<too>> <<closely>> for a publicly traded company.
+Sentiment {12} Serialized Representation: V2|1|Jobs|56|59|1|e3|73|79|1|g10|16|1|n69|71|1|g
+Sentiment {12} Signals: -bFy5GKm, 6QQHUacM, e0ofDjtK
+Sentiment {13} Tags: Apple
+Sentiment {13} Dominant Valence: general
+Sentiment {13} Total Sentiment Score: 9.0
+Sentiment {13} Annotated Text: But {{Apple}}'s board of directors, which includes Google CEO Eric Schmidt and former Vice President Al Gore, <<apparently>> were getting updates on the situation.
+Sentiment {13} Serialized Representation: V2|1|Apple|4|8|1|e1|106|115|1|g
+Sentiment {13} Signals: bnu804Qy, e0ofDjtK
+Sentiment {14} Tags: Apple
+Sentiment {14} Dominant Valence: general
+Sentiment {14} Total Sentiment Score: 14.0
+Sentiment {14} Annotated Text: <<At>> <<least>> some {{Apple}} directors were aware of the CEO's surgery.
+Sentiment {14} Serialized Representation: V2|1|Apple|14|18|1|e2|3|7|1|g0|1|1|g
+Sentiment {14} Signals: rjp03N1r, e0ofDjtK
+Sentiment {15} Tags: Apple
+Sentiment {15} Dominant Valence: positive
+Sentiment {15} Total Sentiment Score: 10.0
+Sentiment {15} Annotated Text: We'd be remiss if we didn't note that the timing of this story appears <<favorable>> for {{Apple}}.
+Sentiment {15} Serialized Representation: V2|1|Apple|85|89|1|e1|71|79|1|j
+Sentiment {15} Signals: x3JS_nqR
+Sentiment {16} Tags: Apple
+Sentiment {16} Dominant Valence: positive
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: This news breaks late on a Friday, after {{Apple}} has just held a <<successful>> launch of a very high profile new product, the iPhone 3G S, that sent the stock soaring today.
+Sentiment {16} Serialized Representation: V2|1|Apple|41|45|1|e1|63|72|1|p
+Sentiment {16} Signals: kzFGFXCg
+Sentiment {17} Tags: Jobs, liver transplant
+Sentiment {17} Dominant Valence: negative
+Sentiment {17} Total Sentiment Score: 40.0
+Sentiment {17} Annotated Text: In 2004, it was disclosed that {{Jobs}} had <<suffered>> from pancreatic <<cancer>>, which was <<cured>>. But, a side effect of that <<cancer>> is likely the thing that lead to this {{liver transplant}}, many doctors familiar with such things have stated.
+Sentiment {17} Serialized Representation: V2|2|Jobs|31|34|1|eliver transplant|162|177|1|e4|83|87|1|p40|47|1|s65|70|1|n117|122|1|n
+Sentiment {17} Signals: cGhT632d, grR-XrRv, 67xCv46Y, grR-XrRv
+Sentiment {18} Tags: Tennessee
+Sentiment {18} Dominant Valence: ambiguous
+Sentiment {18} Total Sentiment Score: 7.799999
+Sentiment {18} Annotated Text: While little is known about the actual operation, the belief is that it was done in {{Tennessee}}, because first and foremost, the waiting list of a liver there is <<much>> <<lower>> than the rest of the country.
+Sentiment {18} Serialized Representation: V2|1|Tennessee|84|92|1|e2|165|169|1|m160|163|1|m
+Sentiment {18} Signals: KFsquLxb, gOk9PSFX, gEPY7p8V, e0ofDjtK
+Sentiment {19} Tags: 
+Sentiment {19} Dominant Valence: ambiguous
+Sentiment {19} Total Sentiment Score: 10.0
+Sentiment {19} Annotated Text: The specifics of Mr. Jobs's surgery could<<n't>> be <<established>>, but according to the United Network for Organ Sharing, which manages the transplant network in the U.S., there are no residency requirements for transplants.
+Sentiment {19} Serialized Representation: V2|0|2|41|43|1|m48|58|1|m
+Sentiment {19} Signals: OiGjcIM5, 5hkckgo4
+Sentiment {20} Tags: procedure, Tennessee
+Sentiment {20} Dominant Valence: general
+Sentiment {20} Total Sentiment Score: 10.0
+Sentiment {20} Annotated Text: Having the {{procedure}} done in {{Tennessee}} <<makes>> <<sense>> because its list of patients waiting for transplants is shorter than in many other states.
+Sentiment {20} Serialized Representation: V2|2|procedure|11|19|1|eTennessee|29|37|1|e2|39|43|1|g45|49|1|g
+Sentiment {20} Signals: hPS5sD-T
+Sentiment {21} Tags: Tennessee
+Sentiment {21} Dominant Valence: zero
+Sentiment {21} Total Sentiment Score: 0.0
+Sentiment {21} Annotated Text: In {{Tennessee}}, it was 48 days.
+Sentiment {21} Serialized Representation: V2|1|Tennessee|3|11|1|e0|
+Sentiment {21} Signals: 
+Sentiment {22} Tags: Jobs, procedure, serious procedure
+Sentiment {22} Dominant Valence: positive
+Sentiment {22} Total Sentiment Score: 51.6
+Sentiment {22} Annotated Text: It's <<good>> to hear that {{Jobs}} has <<apparently>> recovered <<well>> from the very {{serious {{procedure}}, and we <<look>> <<forward>> <<to>> him returning to work, when he's ready.
+Sentiment {22} Serialized Representation: V2|3|Jobs|23|26|1|eprocedure|80|88|1|eserious procedure|72|88|1|e6|98|101|1|p103|109|1|p111|112|1|p5|8|1|p53|56|1|p32|41|1|p
+Sentiment {22} Signals: jClGFk5P, bnu804Qy, YXGw5rF6, w2MD-6PW
+Sentiment {23} Tags: Jobs, Tennessee
+Sentiment {23} Dominant Valence: positive
+Sentiment {23} Total Sentiment Score: 14.0
+Sentiment {23} Annotated Text: Update: It's worth noting that others brought up the possibility of {{Jobs}} being in {{Tennessee}} for something health-related months ago. Here's one, here's another, and the first comment here is <<very>> <<interesting:>>
+Sentiment {23} Serialized Representation: V2|2|Jobs|68|71|1|eTennessee|82|90|1|e2|191|194|1|p196|207|1|p
+Sentiment {23} Signals: i1GFJMlY, o275-cg7, e0ofDjtK
+Sentiment {24} Tags: liver transplant
+Sentiment {24} Dominant Valence: zero
+Sentiment {24} Total Sentiment Score: 0.0
+Sentiment {24} Annotated Text: There was a rumor swirling around yesterday connected to someone high profile in a local hospital saying that Steve Jobs at their hospital undergoing a {{liver transplant}}.
+Sentiment {24} Serialized Representation: V2|1|liver transplant|152|167|1|e0|
+Sentiment {24} Signals: 
+
+LINKS Begin:
+https://techcrunch.com/2009/06/19/not-only-was-steve-jobs-sick-he-had-a-liver-transplant/
+
+FULL ANNOTATED TEXT Begin:
+Title=Not Only Was Steve Jobs Sick, He Had A Liver Transplant. 
+Author=MG Siegler(@parislemon) 
+PubTime=2009-06-19 16:17:00. 
+https://techcrunch.com/2009/06/19/not-only-was-steve-jobs-sick-he-had-a-liver-transplant/ ant/ 
+Language=EN. 
+There really isn't much to say here beyond what are being reported as the facts. [g]<<Apparently>>, Apple CEO Steve Jobs had a [e]{{liver transplant}} two months ago, the Wall Street Journal reports tonight. When you read that, it's [p]<<pretty>> [s]<<shocking>>— but [m]<<not>> that [m]<<surprising>>. 
+After [e]{{Apple}} initially tried to pass off [e]{{Jobs}}' [g]<<gaunt>> physique as a minor ailment, [e]{{Jobs}} himself came out in January and announced that the undisclosed [n]<<illness>> he was [s]<<suffering>> from would require him to take a leave of absence from the company. He has been on that leave ever since. But the [p]<<good>> news in the WSJ report is that [e]{{Jobs}} is in fact feeling [p]<<well>> enough now to return to work as scheduled at the end of this month— which is just days away. 
+But here's an [p]<<interesting>> nugget from the story: 
+When he does return, Mr. Jobs may be [p]<<encouraged>> by his physicians to initially "work part-time for a month or two, " a person familiar with the thinking at [e]{{Apple}} said. That may lead Tim Cook, [e]{{Apple}}'s chief operating officer, to take "a more encompassing role, " this person said. The person added that Mr. Cook may be appointed to [e]{{Apple}}'s board in the not-too-distant future. 
+That seems to suggest that the transition is [p]<<well>> underway for Cook to eventually lead [e]{{Apple}}. That shouldn't be a [u]<<surprise>>, Cook has done a [p]<<masterful>> job in [e]{{Jobs}}' absence, [p]<<pretty>> much doubling the value of the company's stock during that time. [e]{{Jobs}} has long been thought to be [g]<<perhaps>> [p]<<more>> [p]<<important>> to his company than any single figure is to their's. But his time away has seemingly proven otherwise. Of course, there was already [g]<<likely>> a multi-year pipeline for products when [e]{{Jobs}} left. 
+The business angle is the [p]<<important>> one here. Some have [n]<<alleged>> that Jobs and Apple have held news of [e]{{Jobs}}' health [g]<<too>> [g]<<closely>> for a publicly traded company. But [e]{{Apple}}'s board of directors, which includes Google CEO Eric Schmidt and former Vice President Al Gore, [g]<<apparently>> were getting updates on the situation. Here's what the WSJ had to say on that: 
+[g]<<At>> [g]<<least>> some [e]{{Apple}} directors were aware of the CEO's surgery. As part of an agreement with Mr. Jobs in place before he went on leave, some board members have been briefed weekly on the CEO's condition by his physician. 
+We'd be remiss if we didn't note that the timing of this story appears [j]<<favorable>> for [e]{{Apple}}. This news breaks late on a Friday, after [e]{{Apple}} has just held a [p]<<successful>> launch of a very high profile new product, the iPhone 3G S, that sent the stock soaring today. Obviously, the market won't be open again until Monday. 
+In 2004, it was disclosed that [e]{{Jobs}} had [s]<<suffered>> from pancreatic [n]<<cancer>>, which was [p]<<cured>>. But, a side effect of that [n]<<cancer>> is likely the thing that lead to this [e]{{liver transplant}}, many doctors familiar with such things have stated. 
+While little is known about the actual operation, the belief is that it was done in [e]{{Tennessee}}, because first and foremost, the waiting list of a liver there is [m]<<much>> [m]<<lower>> than the rest of the country. From the WSJ: 
+The specifics of Mr. Jobs's surgery could[m]<<n't>> be [m]<<established>>, but according to the United Network for Organ Sharing, which manages the transplant network in the U.S., there are no residency requirements for transplants. Having the [e]{{procedure}} done in [e]{{Tennessee}} [g]<<makes>> [g]<<sense>> because its list of patients waiting for transplants is shorter than in many other states. According to data provided by UNOS, in 2006, the median number of days from joining the liver waiting list to transplant was 306 nationally. In [e]{{Tennessee}}, it was 48 days. 
+It's [p]<<good>> to hear that [e]{{Jobs}} has [p]<<apparently>> recovered [p]<<well>> from the very [e]{{serious [e]{{procedure}}, and we [p]<<look>> [p]<<forward>> [p]<<to>> him returning to work, when he's ready. 
+Update: It's worth noting that others brought up the possibility of [e]{{Jobs}} being in [e]{{Tennessee}} for something health-related months ago. Here's one, here's another, and the first comment here is [p]<<very>> [p]<<interesting:>> 
+Posted by: Anon. 
+April 15, 2009 5:17 PM. 
+I live in the Memphis area. There was a rumor swirling around yesterday connected to someone high profile in a local hospital saying that Steve Jobs at their hospital undergoing a [e]{{liver transplant}}. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Not Only Was Steve Jobs Sick, He Had A Liver Transplant
+Author=MG Siegler (@parislemon)
+PubTime=2009-06-19 16:17:00
+Url=https://techcrunch.com/2009/06/19/not-only-was-steve-jobs-sick-he-had-a-liver-transplant/
+Language=EN
+
+There really isn’t much to say here beyond what are being reported as the facts. Apparently, Apple CEO Steve Jobs had a liver transplant two months ago, the Wall Street Journal reports tonight. When you read that, it’s pretty shocking — but not that surprising.
+
+After Apple initially tried to pass off Jobs’ gaunt physique as a minor ailment, Jobs himself came out in January and announced that the undisclosed illness he was suffering from would require him to take a leave of absence from the company. He has been on that leave ever since. But the good news in the WSJ report is that Jobs is in fact feeling well enough now to return to work as scheduled at the end of this month — which is just days away.
+
+But here’s an interesting nugget from the story:
+
+When he does return, Mr. Jobs may be encouraged by his physicians to initially “work part-time for a month or two,” a person familiar with the thinking at Apple said. That may lead Tim Cook, Apple’s chief operating officer, to take “a more encompassing role,” this person said. The person added that Mr. Cook may be appointed to Apple’s board in the not-too-distant future.
+
+That seems to suggest that the transition is well underway for Cook to eventually lead Apple. That shouldn’t be a surprise, Cook has done a masterful job in Jobs’ absence, pretty much doubling the value of the company’s stock during that time. Jobs has long been thought to be perhaps more important to his company than any single figure is to their’s. But his time away has seemingly proven otherwise. Of course, there was already likely a multi-year pipeline for products when Jobs left.
+
+The business angle is the important one here. Some have alleged that Jobs and Apple have held news of Jobs’ health too closely for a publicly traded company. But Apple’s board of directors, which includes Google CEO Eric Schmidt and former Vice President Al Gore, apparently were getting updates on the situation. Here’s what the WSJ had to say on that:
+
+At least some Apple directors were aware of the CEO’s surgery. As part of an agreement with Mr. Jobs in place before he went on leave, some board members have been briefed weekly on the CEO’s condition by his physician.
+
+We’d be remiss if we didn’t note that the timing of this story appears favorable for Apple. This news breaks late on a Friday, after Apple has just held a successful launch of a very high profile new product, the iPhone 3G S, that sent the stock soaring today. Obviously, the market won’t be open again until Monday.
+
+In 2004, it was disclosed that Jobs had suffered from pancreatic cancer, which was cured. But, a side effect of that cancer is likely the thing that lead to this liver transplant, many doctors familiar with such things have stated.
+
+While little is known about the actual operation, the belief is that it was done in Tennessee, because first and foremost, the waiting list of a liver there is much lower than the rest of the country. From the WSJ:
+
+The specifics of Mr. Jobs’s surgery couldn’t be established, but according to the United Network for Organ Sharing, which manages the transplant network in the U.S., there are no residency requirements for transplants. Having the procedure done in Tennessee makes sense because its list of patients waiting for transplants is shorter than in many other states. According to data provided by UNOS, in 2006, the median number of days from joining the liver waiting list to transplant was 306 nationally. In Tennessee, it was 48 days.
+
+It’s good to hear that Jobs has apparently recovered well from the very serious procedure, and we look forward to him returning to work, when he’s ready.
+
+Update: It’s worth noting that others brought up the possibility of Jobs being in Tennessee for something health-related months ago. Here’s one, here’s another, and the first comment here is very interesting:
+
+Posted by: Anon
+April 15, 2009 5:17 PM
+
+I live in the Memphis area. There was a rumor swirling around yesterday connected to someone high profile in a local hospital saying that Steve Jobs at their hospital undergoing a liver transplant.

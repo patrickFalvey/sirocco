@@ -1,0 +1,121 @@
+----------- TASK [1] --------------
+TEXT STATS Length [3354] Paragraphs [19] Unique Entities [97] Index [213] ms Chunk [155] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+4.9 "information" [Undetermined Topic]
+4.8 "Norway ambitious Leserkritikk ("Reader Critic") project" [Good Topic]
+3.8 "misleading story" [Good Topic]
+3.6 "120 organizations" [Bad Topic]
+3.6 "political speech transcript" [Good Topic]
+3.4 "medium analyst" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: 120 organizations
+Sentiment {0} Dominant Valence: positive
+Sentiment {0} Total Sentiment Score: 23.0
+Sentiment {0} Annotated Text: We're able to do this work because the fact check industry itself has grown—there are <<now>> <<more>> than {{120 organizations}} involved in tackling this issue—but our <<commitment>> to this area is not new.
+Sentiment {0} Serialized Representation: V2|1|120 organizations|100|116|1|e3|90|93|1|g86|88|1|g158|167|1|p
+Sentiment {0} Signals: OCj0X5fN, e0ofDjtK, 2ww8Gogt, tbFFv2GF
+Sentiment {1} Tags: political speech transcript
+Sentiment {1} Dominant Valence: positive
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: Factmata, developed at University College London and University of Sheffield, will use machine learning to build tools to help readers <<better>> understand claims made in digital media content, such as news articles and {{political speech transcripts}}.
+Sentiment {1} Serialized Representation: V2|1|political speech transcript|217|244|1|e1|135|140|1|p
+Sentiment {1} Signals: UHldHcUi
+Sentiment {2} Tags: information, misleading story, medium analyst
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 30.0
+Sentiment {2} Annotated Text: In Italy, Catchy's team of scientists and {{media analysts}}, has created Compass, a fact checking platform to call out {{misleading stories}}, <<rebut>> <<bad>> facts and connect news events to <<reliable>> {{information}}.
+Sentiment {2} Serialized Representation: V2|3|information|188|198|1|emisleading story|116|133|1|emedium analyst|42|55|1|e3|179|186|1|p136|140|1|n142|144|1|n
+Sentiment {2} Signals: -j66x1RF, z9OooAI1, EsG4Gac-
+Sentiment {3} Tags: Norway ambitious Leserkritikk ("Reader Critic") project
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: {{Norway's <<ambitious>> Leserkritikk ("Reader Critic") project}}, currently running its prototype on Dagbladet .no,
+Sentiment {3} Serialized Representation: V2|1|Norway ambitious Leserkritikk ("Reader Critic") project|0|56|1|e1|9|17|1|p
+Sentiment {3} Signals: kolaHpPW
+Sentiment {4} Tags: 
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: lets readers give specific and structured feedback on facts, language and <<mistakes>> in published content.
+Sentiment {4} Serialized Representation: V2|0|1|74|81|1|n
+Sentiment {4} Signals: NE5mciZJ
+Sentiment {5} Tags: 
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 20.0
+Sentiment {5} Annotated Text: These projects clearly illustrate a <<desire>> for more of this work, and we're <<eager>> to bring the fact check tag to other countries around the world.
+Sentiment {5} Serialized Representation: V2|0|2|36|41|1|j76|80|1|t
+Sentiment {5} Signals: vZNwU2ww, -S_9XTar
+Sentiment {6} Tags: 
+Sentiment {6} Dominant Valence: ambiguous
+Sentiment {6} Total Sentiment Score: 1.0
+Sentiment {6} Annotated Text: Publishers who <<would>> <<like>> to see their work appear with the Fact Check tag should use the open ClaimReview schema from schema.org in their stories.
+Sentiment {6} Serialized Representation: V2|0|2|21|24|1|m15|19|1|m
+Sentiment {6} Signals: pxCFAcMX
+Sentiment {7} Tags: information
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: For more {{information}}, head on over to our help center.
+Sentiment {7} Serialized Representation: V2|1|information|9|19|1|e0|
+Sentiment {7} Signals: 
+
+LINKS Begin:
+https://blog.google/topics/journalism-news/expanding-fact-checking-google/
+
+FULL ANNOTATED TEXT Begin:
+Title=Expanding Fact Checking at Google. 
+Author=Richard Gingras. 
+PubTime=2017-02-15 09:00:00. 
+https://blog.google/topics/journalism-news/expanding-fact-checking-google/ gle/ 
+Language=EN. 
+Over the years we've heard from Google News users that our efforts to label stories ranging from local to satire to user-generated have helped expand their view of what is happening in the world. Last October we added a new Fact Check tag to help people find news stories that have been fact checked, so they can understand the value of what they're reading. Soon after, we introduced the tag in France and Germany. 
+Starting today, people in Brazil, Mexico and Argentina can see fact check tagged articles in the expanded story box on news.google .com. and in the Google News & WeatheriOS and Android apps. 
+Fact Check in Brazil. 
+We're also launching the fact check tag in these countries on news mode in Search. That means if you do a regular search and click the news tab, fact check articles will be elevated and annotated with the same fact check label that you would see in stories on Google News. 
+Fact Check in news mode in Search. 
+We're able to do this work because the fact check industry itself has grown—there are [g]<<now>> [g]<<more>> than [e]{{120 organizations}} involved in tackling this issue—but our [p]<<commitment>> to this area is not new. In Europe over the last couple of years we've been working with publishers on a number of efforts focused on fact checking. Last week, we announced CrossCheck, a joint project involving nearly 20 French newsrooms and the First Draft Coalition to debunk myths pertaining to the upcoming French elections. 
+In addition, as part of the Digital Initiative Fund, we've provided support for more than 10 projects looking at fact checking and authentication, adding six new initiatives at the end of last year: 
+U.K.-based Full Fact is building an automated fact-checker tailored for journalists. 
+Scotland's the Ferret is using funding to build up a formal fact checking operation in their newsroom in the wake of the EU referendum. 
+Factmata, developed at University College London and University of Sheffield, will use machine learning to build tools to help readers [p]<<better>> understand claims made in digital media content, such as news articles and [e]{{political speech transcripts}}. 
+In Italy, Catchy's team of scientists and [e]{{media analysts}}, has created Compass, a fact checking platform to call out [e]{{misleading stories}}, [n]<<rebut>> [n]<<bad>> facts and connect news events to [p]<<reliable>> [e]{{information}}. 
+In France, Le Monde's 13-person fact checking unit called Les Décodeurs has received funding for their Hoaxbuster Decodex project. 
+[e]{{Norway's [p]<<ambitious>> Leserkritikk ("Reader Critic") project}}, currently running its prototype on Dagbladet .no, lets readers give specific and structured feedback on facts, language and [n]<<mistakes>> in published content. 
+These projects clearly illustrate a [j]<<desire>> for more of this work, and we're [t]<<eager>> to bring the fact check tag to other countries around the world. In order to make this a reality, we need your help. Publishers who [m]<<would>> [m]<<like>> to see their work appear with the Fact Check tag should use the open ClaimReview schema from schema.org in their stories. Adding this markup allows Google to find these stories and highlight the fact checking work that has gone into them. For more [e]{{information}}, head on over to our help center. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Expanding Fact Checking at Google
+Author=Richard Gingras
+PubTime=2017-02-15 09:00:00
+Url=https://blog.google/topics/journalism-news/expanding-fact-checking-google/
+Language=EN
+
+Over the years we’ve heard from Google News users that our efforts to label stories ranging from local to satire to user-generated have helped expand their view of what is happening in the world. Last October we added a new Fact Check tag to help people find news stories that have been fact checked, so they can understand the value of what they’re reading. Soon after, we introduced the tag in France and Germany.
+
+Starting today, people in Brazil, Mexico and Argentina can see fact check tagged articles in the expanded story box on news.google.com and in the Google News & Weather iOS and Android apps.
+
+Fact Check in Brazil
+We’re also launching the fact check tag in these countries on news mode in Search. That means if you do a regular search and click the news tab, fact check articles will be elevated and annotated with the same fact check label that you would see in stories on Google News.
+
+Fact Check in news mode in Search
+We’re able to do this work because the fact check industry itself has grown—there are now more than 120 organizations involved in tackling this issue—but our commitment to this area is not new. In Europe over the last couple of years we’ve been working with publishers on a number of efforts focused on fact checking. Last week, we announced CrossCheck, a joint project involving nearly 20 French newsrooms and the First Draft Coalition to debunk myths pertaining to the upcoming French elections.
+
+In addition, as part of the Digital Initiative Fund, we’ve provided support for more than 10 projects looking at fact checking and authentication, adding six new initiatives at the end of last year:
+
+U.K.-based Full Fact is building an automated fact-checker tailored for journalists.
+Scotland’s the Ferret is using funding to build up a formal fact checking operation in their newsroom in the wake of the EU referendum.
+Factmata, developed at University College London and University of Sheffield, will use machine learning to build tools to help readers better understand claims made in digital media content, such as news articles and political speech transcripts.
+In Italy, Catchy’s team of scientists and media analysts, has created Compass, a fact checking platform to call out misleading stories, rebut bad facts and connect news events to reliable information.
+In France, Le Monde’s 13-person fact checking unit called Les Décodeurs has received funding for their Hoaxbuster Decodex project.
+Norway’s ambitious Leserkritikk (“Reader Critic”) project, currently running its prototype on Dagbladet.no, lets readers give specific and structured feedback on facts, language and mistakes in published content. 
+
+These projects clearly illustrate a desire for more of this work, and we’re eager to bring the fact check tag to other countries around the world. In order to make this a reality, we need your help. Publishers who would like to see their work appear with the Fact Check tag should use the open ClaimReview schema from schema.org in their stories.  Adding this markup allows Google to find these stories and highlight the fact checking work that has gone into them.  For more information, head on over to our help center.

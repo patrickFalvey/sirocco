@@ -1,0 +1,80 @@
+----------- TASK [1] --------------
+TEXT STATS Length [1609] Paragraphs [9] Unique Entities [55] Index [126] ms Chunk [89] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+5.5 "WealthNavi" [Good Topic]
+4.3 "regional institution posse" [Good Topic]
+4.3 "technology-based asset management service" [Good Topic]
+4.0 "financial conglomerate" [Good Topic]
+3.9 "cloud-based robo-advisory service" [Good Topic]
+3.6 "potential customer" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: WealthNavi
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Japanese asset management startup {{WealthNavi}} raises $15M.
+Sentiment {0} Serialized Representation: V2|1|WealthNavi|40|49|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: technology-based asset management service
+Sentiment {1} Dominant Valence: positive
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: Tokyo-based WealthNavi, the company offering a {{technology-based asset management service}} under the same name, announced on Wednesday that it has fundraised 1.5 billion <<yen>> (about $15 million) in a series B round.
+Sentiment {1} Serialized Representation: V2|1|technology-based asset management service|47|87|1|e1|168|170|1|j
+Sentiment {1} Signals: 1YrZBvhE
+Sentiment {2} Tags: 
+Sentiment {2} Dominant Valence: positive
+Sentiment {2} Total Sentiment Score: 10.0
+Sentiment {2} Annotated Text: This funding means that the company has fundraised a total of 2.1 billion <<yen>> (about $21 million) since the company's launch back in April of 2015.
+Sentiment {2} Serialized Representation: V2|0|1|74|76|1|j
+Sentiment {2} Signals: 1YrZBvhE
+Sentiment {3} Tags: WealthNavi, cloud-based robo-advisory service
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 23.0
+Sentiment {3} Annotated Text: {{WealthNavi}} offers a {{cloud-based robo-advisory service}} that helps middle-income people <<better>> locate diversified investments internationally. The service was <<officially>> launched in July this year.
+Sentiment {3} Serialized Representation: V2|2|WealthNavi|0|9|1|ecloud-based robo-advisory service|20|52|1|e2|86|91|1|p157|166|1|g
+Sentiment {3} Signals: UHldHcUi, QybGhSJB
+Sentiment {4} Tags: WealthNavi, regional institution posse, financial conglomerate, potential customer
+Sentiment {4} Dominant Valence: positive
+Sentiment {4} Total Sentiment Score: 20.0
+Sentiment {4} Annotated Text: Through the partnership with the {{financial conglomerate}}, {{WealthNavi}} also expects to <<gain>> an access to a <<huge>> base of {{potential customers}} that these {{regional institutions posses}}.
+Sentiment {4} Serialized Representation: V2|4|WealthNavi|57|66|1|eregional institution posse|148|175|1|efinancial conglomerate|33|54|1|epotential customer|117|135|1|e2|84|87|1|j104|107|1|g
+Sentiment {4} Signals: GzjefOdK, ei0VTCRo
+
+LINKS Begin:
+http://venturebeat.com/2016/10/16/japanese-asset-management-startup-wealthnavi-raises-15m/
+
+FULL ANNOTATED TEXT Begin:
+Title=Japanese asset management startup [e]{{WealthNavi}} raises $15M. 
+Author=MASARU IKEDA. 
+PubTime=2016-10-16 12:15:00. 
+http://venturebeat.com/2016/10/16/japanese-asset-management-startup-wealthnavi-raises-15m/ 15m/ 
+Language=EN. 
+Tokyo-based WealthNavi, the company offering a [e]{{technology-based asset management service}} under the same name, announced on Wednesday that it has fundraised 1.5 billion [j]<<yen>> (about $15 million) in a series B round. Participating companies in this round were SBI Holdings, SBI Investment, Mizuho Capital, SMBC Venture Capital, DBJ Capital, and Infinity Venture Partners. 
+Additionally, the startup has partnered with SBI securities and Sumishin SBI Net Bank, both of which are subsidiaries of SBI Holdings, to offer the robo-advisory service to SBI's 2.6 million online banking customers plus 3.6 million stock trading customers. This funding means that the company has fundraised a total of 2.1 billion [j]<<yen>> (about $21 million) since the company's launch back in April of 2015. 
+[e]{{WealthNavi}} offers a [e]{{cloud-based robo-advisory service}} that helps middle-income people [p]<<better>> locate diversified investments internationally. The service was [g]<<officially>> launched in July this year. 
+It is said that SBI Group has been massively helping regional banks and credit unions nationwide in Japan adopt FinTech services since they are typically small and have few resources to catch up with the new trend unlike typical megabanks. Through the partnership with the [e]{{financial conglomerate}}, [e]{{WealthNavi}} also expects to [j]<<gain>> an access to a [g]<<huge>> base of [e]{{potential customers}} that these [e]{{regional institutions posses}}. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Japanese asset management startup WealthNavi raises $15M
+Author=MASARU IKEDA
+PubTime=2016-10-16 12:15:00
+Url=http://venturebeat.com/2016/10/16/japanese-asset-management-startup-wealthnavi-raises-15m/
+Language=EN
+
+Tokyo-based WealthNavi, the company offering a technology-based asset management service under the same name, announced on Wednesday that it has fundraised 1.5 billion yen (about $15 million) in a series B round. Participating companies in this round were SBI Holdings, SBI Investment, Mizuho Capital, SMBC Venture Capital, DBJ Capital, and Infinity Venture Partners.
+
+Additionally, the startup has partnered with SBI securities and Sumishin SBI Net Bank, both of which are subsidiaries of SBI Holdings, to offer the robo-advisory service to SBI’s 2.6 million online banking customers plus 3.6 million stock trading customers. This funding means that the company has fundraised a total of 2.1 billion yen (about $21 million) since the company’s launch back in April of 2015.
+
+WealthNavi offers a cloud-based robo-advisory service that helps middle-income people better locate diversified investments internationally. The service was officially launched in July this year.
+
+It is said that SBI Group has been massively helping regional banks and credit unions nationwide in Japan adopt FinTech services since they are typically small and have few resources to catch up with the new trend unlike typical megabanks. Through the partnership with the financial conglomerate, WealthNavi also expects to gain an access to a huge base of potential customers that these regional institutions posses.

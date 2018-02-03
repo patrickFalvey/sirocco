@@ -1,0 +1,105 @@
+----------- TASK [1] --------------
+TEXT STATS Length [1725] Paragraphs [9] Unique Entities [51] Index [1086] ms Chunk [1041] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+6.1 "fact check" [Good Topic]
+6.0 "Google News" [Good Topic]
+4.0 "International Fact-Checking Network" [Good Topic]
+3.6 "Duke University Reporter Lab" [Good Topic]
+3.1 "fact-check article" [Good Topic]
+3.0 "more 100 active site" [Good Topic]
+2.9 ""local Source" Tag" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Google News, fact-check article
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Labeling {{fact-check articles}} in {{Google News}}.
+Sentiment {0} Serialized Representation: V2|2|Google News|38|48|1|efact-check article|15|33|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: fact check, International Fact-Checking Network, Duke University Reporter Lab, more 100 active site
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: Led by organizations like the {{International Fact-Checking Network}}, <<rigorous>> {{fact checks}} are now conducted by {{more than 100 active sites}}, according to the {{Duke University Reporter's Lab}}.
+Sentiment {1} Serialized Representation: V2|4|fact check|76|86|1|eInternational Fact-Checking Network|30|64|1|eDuke University Reporter Lab|154|183|1|emore 100 active site|109|134|1|e1|67|74|1|n
+Sentiment {1} Signals: rswi3NzS
+Sentiment {2} Tags: Google News
+Sentiment {2} Dominant Valence: positive
+Sentiment {2} Total Sentiment Score: 10.0
+Sentiment {2} Annotated Text: In the seven years since we started labeling types of articles in {{Google News}} ( e .g., In-Depth, Opinion, Wikipedia), we've heard that many readers <<enjoy>> having easy access to a diverse range of content types.
+Sentiment {2} Serialized Representation: V2|1|Google News|66|76|1|e1|148|152|1|j
+Sentiment {2} Signals: yYMf4_7G
+Sentiment {3} Tags: "local Source" Tag
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: Earlier this year, we added a {{"Local Source" Tag}} to <<highlight>> local coverage of major stories.
+Sentiment {3} Serialized Representation: V2|1|"local Source" Tag|30|47|1|e1|52|60|1|p
+Sentiment {3} Signals: CSjqGc3i
+Sentiment {4} Tags: Google News
+Sentiment {4} Dominant Valence: zero
+Sentiment {4} Total Sentiment Score: 0.0
+Sentiment {4} Annotated Text: and in the {{Google News}} & WeatheriOS and Android apps, starting with the U.S. and the U.K.
+Sentiment {4} Serialized Representation: V2|1|Google News|11|21|1|e0|
+Sentiment {4} Signals: 
+Sentiment {5} Tags: fact check, Google News
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: {{Google News}} determines whether an article might contain {{fact checks}} in part by <<looking>> <<for>> the schema.org.
+Sentiment {5} Serialized Representation: V2|2|fact check|56|66|1|eGoogle News|0|10|1|e2|79|85|1|i87|89|1|i
+Sentiment {5} Signals: SVE1kj23
+Sentiment {6} Tags: fact check
+Sentiment {6} Dominant Valence: positive
+Sentiment {6} Total Sentiment Score: 21.0
+Sentiment {6} Annotated Text: We also <<look>> <<for>> sites that follow the <<commonly>> <<accepted>> criteria for {{fact checks}}.
+Sentiment {6} Serialized Representation: V2|1|fact check|70|80|1|e4|48|55|1|c8|11|1|i13|15|1|i39|46|1|c
+Sentiment {6} Signals: lVRcndGc, EAqnxGkj, SVE1kj23
+Sentiment {7} Tags: fact-check article
+Sentiment {7} Dominant Valence: ambiguous
+Sentiment {7} Total Sentiment Score: 1.0
+Sentiment {7} Annotated Text: Publishers who create fact-checks and <<would>> <<like>> to see it appear with the "Fact check" tag should use that markup in {{fact-check articles}}.
+Sentiment {7} Serialized Representation: V2|1|fact-check article|118|136|1|e2|44|47|1|m38|42|1|m
+Sentiment {7} Signals: pxCFAcMX
+Sentiment {8} Tags: 
+Sentiment {8} Dominant Valence: positive
+Sentiment {8} Total Sentiment Score: 20.0
+Sentiment {8} Annotated Text: We're <<excited>> to see the growth of the Fact Check community and to shine a light on its efforts to divine fact from fiction, <<wisdom>> from spin.
+Sentiment {8} Serialized Representation: V2|0|2|125|130|1|p6|12|1|t
+Sentiment {8} Signals: wDxq279p, AdtzYNvA
+
+LINKS Begin:
+https://blog.google/topics/journalism-news/labeling-fact-check-articles-google-news/
+
+FULL ANNOTATED TEXT Begin:
+Title=Labeling [e]{{fact-check articles}} in [e]{{Google News}}. 
+Author=Richard Gingras. 
+PubTime=2016-10-13 09:00:00. 
+https://blog.google/topics/journalism-news/labeling-fact-check-articles-google-news/ ews/ 
+Language=EN. 
+Over the last several years, fact checking has come into its own. Led by organizations like the [e]{{International Fact-Checking Network}}, [n]<<rigorous>> [e]{{fact checks}} are now conducted by [e]{{more than 100 active sites}}, according to the [e]{{Duke University Reporter's Lab}}. They collectively produce many thousands of fact-checks a year, examining claims around urban legends, politics, health, and the media itself. 
+In the seven years since we started labeling types of articles in [e]{{Google News}} ( e .g., In-Depth, Opinion, Wikipedia), we've heard that many readers [j]<<enjoy>> having easy access to a diverse range of content types. Earlier this year, we added a [e]{{"Local Source" Tag}} to [p]<<highlight>> local coverage of major stories. Today, we're adding another new tag, "Fact check, " to help readers find fact checking in large news stories. You'll see the tagged articles in the expanded story box on news.google .com. and in the [e]{{Google News}} & WeatheriOS and Android apps, starting with the U.S. and the U.K. 
+[e]{{Google News}} determines whether an article might contain [e]{{fact checks}} in part by [i]<<looking>> [i]<<for>> the schema.org. ClaimReview markup. We also [i]<<look>> [i]<<for>> sites that follow the [c]<<commonly>> [c]<<accepted>> criteria for [e]{{fact checks}}. Publishers who create fact-checks and [m]<<would>> [m]<<like>> to see it appear with the "Fact check" tag should use that markup in [e]{{fact-check articles}}. For more information, head on over to our help center. 
+We're [t]<<excited>> to see the growth of the Fact Check community and to shine a light on its efforts to divine fact from fiction, [p]<<wisdom>> from spin. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Labeling fact-check articles in Google News
+Author=Richard Gingras
+PubTime=2016-10-13 09:00:00
+Url=https://blog.google/topics/journalism-news/labeling-fact-check-articles-google-news/
+Language=EN
+
+Over the last several years, fact checking has come into its own. Led by organizations like the International Fact-Checking Network, rigorous fact checks are now conducted by more than 100 active sites, according to the Duke University Reporter’s Lab. They collectively produce many thousands of fact-checks a year, examining claims around urban legends, politics, health, and the media itself.
+
+In the seven years since we started labeling types of articles in Google News (e.g., In-Depth, Opinion, Wikipedia), we’ve heard that many readers enjoy having easy access to a diverse range of content types. Earlier this year, we added a “Local Source” Tag to highlight local coverage of major stories. Today, we’re adding another new tag, “Fact check,” to help readers find fact checking in large news stories. You’ll see the tagged articles in the expanded story box on news.google.com and in the Google News & Weather iOS and Android apps, starting with the U.S. and the U.K.
+
+Google News determines whether an article might contain fact checks in part by looking for the schema.org ClaimReview markup. We also look for sites that follow the commonly accepted criteria for fact checks. Publishers who create fact-checks and would like to see it appear with the “Fact check” tag should use that markup in fact-check articles. For more information, head on over to our help center.
+
+We’re excited to see the growth of the Fact Check community and to shine a light on its efforts to divine fact from fiction, wisdom from spin.

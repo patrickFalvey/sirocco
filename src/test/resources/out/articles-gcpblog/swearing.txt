@@ -1,0 +1,213 @@
+----------- TASK [1] --------------
+TEXT STATS Length [4250] Paragraphs [17] Unique Entities [82] Index [261] ms Chunk [188] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+11.2 "Perspective" [Good Topic]
+11.2 "conversation" [Undetermined Topic]
+8.0 "toxic comment" [Good Topic]
+6.4 "publisher" [Undetermined Topic]
+5.2 "technology" [Undetermined Topic]
+4.8 "machine learning" [Good Topic]
+4.5 "discussion" [Undetermined Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: conversation, machine learning
+Sentiment {0} Dominant Valence: positive
+Sentiment {0} Total Sentiment Score: 11.999999
+Sentiment {0} Annotated Text: Title=When computers learn to swear: Using {{machine learning}} for <<better>> online {{conversations}}.
+Sentiment {0} Serialized Representation: V2|2|conversation|78|90|1|emachine learning|43|58|1|e1|64|69|1|p
+Sentiment {0} Signals: cCC_5MIh, gEPY7p8V
+Sentiment {1} Tags: conversation
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 30.0
+Sentiment {1} Annotated Text: Imagine trying to have a {{conversation}} with your friends about the news you read this morning, but every time you said something, someone shouted in your face, called you a nasty name or <<accused>> you of some <<awful>> <<crime>>.
+Sentiment {1} Serialized Representation: V2|1|conversation|25|36|1|e3|212|216|1|n206|210|1|n186|192|1|n
+Sentiment {1} Signals: jmABR4c0, 2jXTz8ej, 62RggVuT, MLgBc5XU
+Sentiment {2} Tags: conversation, toxic comment
+Sentiment {2} Dominant Valence: ambiguous
+Sentiment {2} Total Sentiment Score: 36.8
+Sentiment {2} Annotated Text: You'd probably leave the {{conversation}}. <<Unfortunately>>, this happens all <<too>> <<frequently>> <<online>> as people try to discuss ideas on their <<favorite>> news sites but instead get bombarded with {{toxic comments}}.
+Sentiment {2} Serialized Representation: V2|2|conversation|25|36|1|etoxic comment|184|197|1|e5|133|140|1|p71|73|1|g75|84|1|g86|91|1|g39|51|1|n
+Sentiment {2} Signals: rI9pzqCs, 6QQHUacM, v1GrbmbU, e0ofDjtK, V6dhWtnn
+Sentiment {3} Tags: 
+Sentiment {3} Dominant Valence: negative
+Sentiment {3} Total Sentiment Score: 20.0
+Sentiment {3} Annotated Text: Seventy-two percent of American internet users have witnessed <<harassment>>online and nearly half have personally experienced it. Almost a third self-censor what they post online for <<fear>> of retribution.
+Sentiment {3} Serialized Representation: V2|0|2|62|71|1|a180|183|1|f
+Sentiment {3} Signals: lbJBVjWk, Xz_3W83c
+Sentiment {4} Tags: 
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: According to the same report, online <<harassment>> has affected the lives of roughly 140 million people in the U.S., and many more elsewhere.
+Sentiment {4} Serialized Representation: V2|0|1|37|46|1|a
+Sentiment {4} Signals: lbJBVjWk
+Sentiment {5} Tags: 
+Sentiment {5} Dominant Valence: negative
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: This <<problem>> doesn't just impact online readers.
+Sentiment {5} Serialized Representation: V2|0|1|5|11|1|n
+Sentiment {5} Signals: KuZ3z8ai
+Sentiment {6} Tags: discussion
+Sentiment {6} Dominant Valence: ambiguous
+Sentiment {6} Total Sentiment Score: 20.0
+Sentiment {6} Annotated Text: News organizations want to <<encourage>> engagement and {{discussion}} around their content, but find that sorting through millions of comments to find those that are trolling or <<abusive>> takes a lot of money, labor, and time.
+Sentiment {6} Serialized Representation: V2|1|discussion|52|61|1|e2|171|177|1|s27|35|1|p
+Sentiment {6} Signals: Y3lCHtvQ, _ZlqyOJ5
+Sentiment {7} Tags: technology
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: We think {{technology}} can help.
+Sentiment {7} Serialized Representation: V2|1|technology|9|18|1|e0|
+Sentiment {7} Signals: 
+Sentiment {8} Tags: Perspective, toxic comment, technology, machine learning
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: Today, Google and Jigsaw are launching {{Perspective}}, an early-stage {{technology}} that uses {{machine learning}} to help identify {{toxic comments}}.
+Sentiment {8} Serialized Representation: V2|4|Perspective|39|49|1|etoxic comment|122|135|1|etechnology|67|76|1|emachine learning|88|103|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: technology
+Sentiment {9} Dominant Valence: zero
+Sentiment {9} Total Sentiment Score: 0.0
+Sentiment {9} Annotated Text: Through an API, publishers—including members of the Digital News Initiative—and platforms can access this {{technology}} and use it for their sites.
+Sentiment {9} Serialized Representation: V2|1|technology|106|115|1|e0|
+Sentiment {9} Signals: 
+Sentiment {10} Tags: Perspective, conversation
+Sentiment {10} Dominant Valence: general
+Sentiment {10} Total Sentiment Score: 10.0
+Sentiment {10} Annotated Text: {{Perspective}} reviews comments and scores them based on how similar they are to comments people said were "toxic" or <<likely>> to make someone leave a {{conversation}}.
+Sentiment {10} Serialized Representation: V2|2|Perspective|0|10|1|econversation|146|157|1|e1|115|120|1|g
+Sentiment {10} Signals: r1gn0cKq
+Sentiment {11} Tags: Perspective
+Sentiment {11} Dominant Valence: zero
+Sentiment {11} Total Sentiment Score: 0.0
+Sentiment {11} Annotated Text: To learn how to spot potentially toxic language, {{Perspective}} examined hundreds of thousands of comments that had been labeled by human reviewers.
+Sentiment {11} Serialized Representation: V2|1|Perspective|49|59|1|e0|
+Sentiment {11} Signals: 
+Sentiment {12} Tags: Perspective, toxic comment
+Sentiment {12} Dominant Valence: positive
+Sentiment {12} Total Sentiment Score: 11.999999
+Sentiment {12} Annotated Text: Each time {{Perspective}} finds new examples of potentially {{toxic comments}}, or is provided with corrections from users, it can get <<better>> at scoring future comments.
+Sentiment {12} Serialized Representation: V2|2|Perspective|10|20|1|etoxic comment|56|69|1|e1|127|132|1|p
+Sentiment {12} Signals: cCC_5MIh, gEPY7p8V
+Sentiment {13} Tags: Perspective, publisher, conversation
+Sentiment {13} Dominant Valence: zero
+Sentiment {13} Total Sentiment Score: 0.0
+Sentiment {13} Annotated Text: {{Publishers}} can choose what they want to do with the information they get from {{Perspective}}. For example, a {{publisher}} could flag comments for its own moderators to review and decide whether to include them in a {{conversation}}.
+Sentiment {13} Serialized Representation: V2|4|Perspective|78|88|1|epublisher|0|9|1|econversation|209|220|1|epublisher|106|114|1|e0|
+Sentiment {13} Signals: 
+Sentiment {14} Tags: publisher
+Sentiment {14} Dominant Valence: zero
+Sentiment {14} Total Sentiment Score: 0.0
+Sentiment {14} Annotated Text: Or a {{publisher}} could provide tools to help their community understand the impact of what they are writing—by, for example, letting the commenter see the potential toxicity of their comment as they write it.
+Sentiment {14} Serialized Representation: V2|1|publisher|5|13|1|e0|
+Sentiment {14} Signals: 
+Sentiment {15} Tags: publisher, discussion
+Sentiment {15} Dominant Valence: positive
+Sentiment {15} Total Sentiment Score: 10.0
+Sentiment {15} Annotated Text: {{Publishers}} could even just allow readers to sort comments by toxicity themselves, making it easier to find <<great>> {{discussions}} hidden under toxic ones.
+Sentiment {15} Serialized Representation: V2|2|publisher|0|9|1|ediscussion|113|123|1|e1|107|111|1|p
+Sentiment {15} Signals: ALEH90QQ
+Sentiment {16} Tags: technology
+Sentiment {16} Dominant Valence: zero
+Sentiment {16} Total Sentiment Score: 0.0
+Sentiment {16} Annotated Text: We've been testing a version of this {{technology}} with The New York Times, where an entire team sifts through and moderates each comment before it's posted—reviewing an average of 11,000 comments every day.
+Sentiment {16} Serialized Representation: V2|1|technology|37|46|1|e0|
+Sentiment {16} Signals: 
+Sentiment {17} Tags: 
+Sentiment {17} Dominant Valence: ambiguous
+Sentiment {17} Total Sentiment Score: 6.5
+Sentiment {17} Annotated Text: We've worked together to train models that allows Times moderators to sort through comments <<more>> <<quickly>>, and we'll work with them to enable comments on more articles every day.
+Sentiment {17} Serialized Representation: V2|0|2|97|103|1|m92|95|1|m
+Sentiment {17} Signals: OCj0X5fN, dRYewicT, e0ofDjtK
+Sentiment {18} Tags: Perspective, technology
+Sentiment {18} Dominant Valence: zero
+Sentiment {18} Total Sentiment Score: 0.0
+Sentiment {18} Annotated Text: {{Perspective}} joins the TensorFlow library and the Cloud Machine Learning Platform as one of many new machine learning resources Google has made available to developers. This {{technology}} is still developing.
+Sentiment {18} Serialized Representation: V2|2|Perspective|0|10|1|etechnology|173|182|1|e0|
+Sentiment {18} Signals: 
+Sentiment {19} Tags: 
+Sentiment {19} Dominant Valence: positive
+Sentiment {19} Total Sentiment Score: 21.0
+Sentiment {19} Annotated Text: But that's what's <<so>> <<great>> about machine learning—even though the models are complex, they'll <<improve>> over time.
+Sentiment {19} Serialized Representation: V2|0|3|21|25|1|p18|19|1|p94|100|1|p
+Sentiment {19} Signals: PffyNLg6, ALEH90QQ, e0ofDjtK, iTgJNQmc
+Sentiment {20} Tags: Perspective, publisher
+Sentiment {20} Dominant Valence: positive
+Sentiment {20} Total Sentiment Score: 22.0
+Sentiment {20} Annotated Text: When {{Perspective}} is in the hands of {{publishers}}, it will be <<exposed>> to more comments and develop a <<better>> understanding of what makes certain comments toxic.
+Sentiment {20} Serialized Representation: V2|2|Perspective|5|15|1|epublisher|36|45|1|e2|59|65|1|f98|103|1|p
+Sentiment {20} Signals: MUMwbSo9, cCC_5MIh, gEPY7p8V
+Sentiment {21} Tags: technology
+Sentiment {21} Dominant Valence: positive
+Sentiment {21} Total Sentiment Score: 20.0
+Sentiment {21} Annotated Text: While we <<improve>> the {{technology}}, we're also working to expand it. Our first model is designed to spot toxic language, but over the next year we're <<keen>> to partner and deliver new models that work in languages other than English as well as models that can identify other perspectives, such as when comments are unsubstantial or off-topic.
+Sentiment {21} Serialized Representation: V2|1|technology|21|30|1|e2|9|15|1|p147|150|1|g
+Sentiment {21} Signals: iTgJNQmc, 3Bv988lB, whllPRCq
+Sentiment {22} Tags: Perspective, conversation
+Sentiment {22} Dominant Valence: positive
+Sentiment {22} Total Sentiment Score: 42.0
+Sentiment {22} Annotated Text: In the long run, {{Perspective}} is <<about>> <<more>> than just <<improving>> comments. We <<hope>> we can help <<improve>> {{conversations}} online.
+Sentiment {22} Serialized Representation: V2|2|Perspective|17|27|1|econversation|101|113|1|e5|32|36|1|g38|41|1|g53|61|1|p93|99|1|p76|79|1|t
+Sentiment {22} Signals: gEPY7p8V, e0ofDjtK, iTgJNQmc, jvjFjiuP, rJODpYJA, iTgJNQmc
+
+LINKS Begin:
+https://blog.google/topics/machine-learning/when-computers-learn-swear-using-machine-learning-better-online-conversations/
+
+FULL ANNOTATED TEXT Begin:
+Title=When computers learn to swear: Using [e]{{machine learning}} for [p]<<better>> online [e]{{conversations}}. 
+Author=Jared Cohen. 
+PubTime=2017-02-23 09:00:00. 
+https://blog.google/topics/machine-learning/when-computers-learn-swear-using-machine-learning-better-online-conversations/ ons/ 
+Language=EN. 
+Imagine trying to have a [e]{{conversation}} with your friends about the news you read this morning, but every time you said something, someone shouted in your face, called you a nasty name or [n]<<accused>> you of some [n]<<awful>> [n]<<crime>>. You'd probably leave the [e]{{conversation}}. [n]<<Unfortunately>>, this happens all [g]<<too>> [g]<<frequently>> [g]<<online>> as people try to discuss ideas on their [p]<<favorite>> news sites but instead get bombarded with [e]{{toxic comments}}. 
+Seventy-two percent of American internet users have witnessed [a]<<harassment>>online and nearly half have personally experienced it. Almost a third self-censor what they post online for [f]<<fear>> of retribution. According to the same report, online [a]<<harassment>> has affected the lives of roughly 140 million people in the U.S., and many more elsewhere. 
+This [n]<<problem>> doesn't just impact online readers. News organizations want to [p]<<encourage>> engagement and [e]{{discussion}} around their content, but find that sorting through millions of comments to find those that are trolling or [s]<<abusive>> takes a lot of money, labor, and time. As a result, many sites have shut down comments altogether. But they tell us that isn't the solution they want. We think [e]{{technology}} can help. 
+Today, Google and Jigsaw are launching [e]{{Perspective}}, an early-stage [e]{{technology}} that uses [e]{{machine learning}} to help identify [e]{{toxic comments}}. Through an API, publishers—including members of the Digital News Initiative—and platforms can access this [e]{{technology}} and use it for their sites. 
+How it works. 
+[e]{{Perspective}} reviews comments and scores them based on how similar they are to comments people said were "toxic" or [g]<<likely>> to make someone leave a [e]{{conversation}}. To learn how to spot potentially toxic language, [e]{{Perspective}} examined hundreds of thousands of comments that had been labeled by human reviewers. Each time [e]{{Perspective}} finds new examples of potentially [e]{{toxic comments}}, or is provided with corrections from users, it can get [p]<<better>> at scoring future comments. 
+[e]{{Publishers}} can choose what they want to do with the information they get from [e]{{Perspective}}. For example, a [e]{{publisher}} could flag comments for its own moderators to review and decide whether to include them in a [e]{{conversation}}. Or a [e]{{publisher}} could provide tools to help their community understand the impact of what they are writing—by, for example, letting the commenter see the potential toxicity of their comment as they write it. [e]{{Publishers}} could even just allow readers to sort comments by toxicity themselves, making it easier to find [p]<<great>> [e]{{discussions}} hidden under toxic ones. 
+We've been testing a version of this [e]{{technology}} with The New York Times, where an entire team sifts through and moderates each comment before it's posted—reviewing an average of 11,000 comments every day. That's a lot of comments. As a result the Times has comments on only about 10 percent of its articles. We've worked together to train models that allows Times moderators to sort through comments [m]<<more>> [m]<<quickly>>, and we'll work with them to enable comments on more articles every day. 
+Where we go from here. 
+[e]{{Perspective}} joins the TensorFlow library and the Cloud Machine Learning Platform as one of many new machine learning resources Google has made available to developers. This [e]{{technology}} is still developing. But that's what's [p]<<so>> [p]<<great>> about machine learning—even though the models are complex, they'll [p]<<improve>> over time. When [e]{{Perspective}} is in the hands of [e]{{publishers}}, it will be [f]<<exposed>> to more comments and develop a [p]<<better>> understanding of what makes certain comments toxic. 
+While we [p]<<improve>> the [e]{{technology}}, we're also working to expand it. Our first model is designed to spot toxic language, but over the next year we're [g]<<keen>> to partner and deliver new models that work in languages other than English as well as models that can identify other perspectives, such as when comments are unsubstantial or off-topic. 
+In the long run, [e]{{Perspective}} is [g]<<about>> [g]<<more>> than just [p]<<improving>> comments. We [t]<<hope>> we can help [p]<<improve>> [e]{{conversations}} online. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=When computers learn to swear: Using machine learning for better online conversations
+Author=Jared Cohen
+PubTime=2017-02-23 09:00:00
+Url=https://blog.google/topics/machine-learning/when-computers-learn-swear-using-machine-learning-better-online-conversations/
+Language=EN
+
+Imagine trying to have a conversation with your friends about the news you read this morning, but every time you said something, someone shouted in your face, called you a nasty name or accused you of some awful crime. You’d probably leave the conversation. Unfortunately, this happens all too frequently online as people try to discuss ideas on their favorite news sites but instead get bombarded with toxic comments.  
+
+Seventy-two percent of American internet users have witnessed harassment online and nearly half have personally experienced it. Almost a third self-censor what they post online for fear of retribution. According to the same report, online harassment has affected the lives of roughly 140 million people in the U.S., and many more elsewhere. 
+
+This problem doesn’t just impact online readers. News organizations want to encourage engagement and discussion around their content, but find that sorting through millions of comments to find those that are trolling or abusive takes a lot of money, labor, and time. As a result, many sites have shut down comments altogether. But they tell us that isn’t the solution they want. We think technology can help.
+
+Today, Google and Jigsaw are launching Perspective, an early-stage technology that uses machine learning to help identify toxic comments. Through an API, publishers—including members of the Digital News Initiative—and platforms can access this technology and use it for their sites.
+
+How it works
+
+Perspective reviews comments and scores them based on how similar they are to comments people said were “toxic” or likely to make someone leave a conversation. To learn how to spot potentially toxic language, Perspective examined hundreds of thousands of comments that had been labeled by human reviewers. Each time Perspective finds new examples of potentially toxic comments, or is provided with corrections from users, it can get better at scoring future comments.
+
+Publishers can choose what they want to do with the information they get from Perspective. For example, a publisher could flag comments for its own moderators to review and decide whether to include them in a conversation. Or a publisher could provide tools to help their community understand the impact of what they are writing—by, for example, letting the commenter see the potential toxicity of their comment as they write it. Publishers could even just allow readers to sort comments by toxicity themselves, making it easier to find great discussions hidden under toxic ones.
+
+We’ve been testing a version of this technology with The New York Times, where an entire team sifts through and moderates each comment before it’s posted—reviewing an average of 11,000 comments every day. That’s a lot of comments. As a result the Times has comments on only about 10 percent of its articles. We’ve worked together to train models that allows Times moderators to sort through comments more quickly, and we’ll work with them to enable comments on more articles every day.
+
+Where we go from here
+
+Perspective joins the TensorFlow library and the Cloud Machine Learning Platform as one of many new machine learning resources Google has made available to developers. This technology is still developing. But that’s what’s so great about machine learning—even though the models are complex, they’ll improve over time. When Perspective is in the hands of publishers, it will be exposed to more comments and develop a better understanding of what makes certain comments toxic.
+
+While we improve the technology, we’re also working to expand it. Our first model is designed to spot toxic language, but over the next year we’re keen to partner and deliver new models that work in languages other than English as well as models that can identify other perspectives, such as when comments are unsubstantial or off-topic.
+
+In the long run, Perspective is about more than just improving comments. We hope we can help improve conversations online. 

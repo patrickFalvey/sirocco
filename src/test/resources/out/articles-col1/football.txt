@@ -1,0 +1,178 @@
+----------- TASK [1] --------------
+TEXT STATS Length [3612] Paragraphs [23] Unique Entities [122] Index [349] ms Chunk [173] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+8.5 "Besiktas" [Good Topic]
+6.0 "14-time national champion refusal" [Good Topic]
+5.9 "Liverpool historic 2005 Istanbul triumph" [Good Topic]
+5.5 "Napoli" [Good Topic]
+5.2 "Benfica" [Good Topic]
+4.9 "quarter-final appearance" [Good Topic]
+4.7 "runners-up Bayern Munich" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Benfica
+Sentiment {0} Dominant Valence: zero
+Sentiment {0} Total Sentiment Score: 0.0
+Sentiment {0} Annotated Text: Title=Napoli, {{Benfica}}, Besiktas battle for last 16 slots.
+Sentiment {0} Serialized Representation: V2|1|Benfica|14|20|1|e0|
+Sentiment {0} Signals: 
+Sentiment {1} Tags: Napoli
+Sentiment {1} Dominant Valence: negative
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: PARIS: As Paris Saint-Germain joust with Arsenal for top spot in their group, {{Napoli}}, Benfica and Besiktas will <<battle>> it out on Tuesday (today) for last 16 Champions League slots.
+Sentiment {1} Serialized Representation: V2|1|Napoli|78|83|1|e1|112|117|1|n
+Sentiment {1} Signals: vwopjdDw
+Sentiment {2} Tags: Besiktas
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 20.0
+Sentiment {2} Annotated Text: Portugal's Benfica, European champions back in 1961 and 1962 in their <<halcyon>> <<days>> but who have underachieved since, should have secured their passage on matchday five but <<threw>> away a three-goal lead at {{Besiktas}}.
+Sentiment {2} Serialized Representation: V2|1|Besiktas|204|211|1|e3|172|176|1|s78|81|1|g70|76|1|g
+Sentiment {2} Signals: 0GgT3UQz, K_DcJg0o
+Sentiment {3} Tags: Besiktas, Liverpool historic 2005 Istanbul triumph
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 30.0
+Sentiment {3} Annotated Text: That Turkish comeback, rekindling memories of {{Liverpool's historic 2005 Istanbul <<triumph}>, has left the group outcome on a knife-edge with {{Besiktas}} knowing that a <<win>> at <<eliminated>> Dynamo Kiev will send them through.
+Sentiment {3} Serialized Representation: V2|2|Besiktas|138|145|1|eLiverpool historic 2005 Istanbul triumph|46|87|1|e3|169|178|1|n81|87|1|j162|164|1|j
+Sentiment {3} Signals: btzWwQhB, 4Nlr8MRY, e1qWH0Si
+Sentiment {4} Tags: Besiktas, Napoli, Benfica
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: In contrast, the final round of games pits {{Benfica}} against a {{Napoli}} side who <<beat>> them 4-2 back on matchday two in Italy— while {{Besiktas}} were dropping home points against Kiev.
+Sentiment {4} Serialized Representation: V2|3|Besiktas|128|135|1|eNapoli|61|66|1|eBenfica|43|49|1|e1|77|80|1|n
+Sentiment {4} Signals: X4TgVqZf
+Sentiment {5} Tags: 14-time national champion refusal, Benfica
+Sentiment {5} Dominant Valence: ambiguous
+Sentiment {5} Total Sentiment Score: 40.0
+Sentiment {5} Annotated Text: The Turkish side's subsequent <<win>> in Italy <<threw>> the group wide open and the {{14-time national champions' <<refusal}> to surrender against {{Benfica}} means they now <<fancy>> their chances.
+Sentiment {5} Serialized Representation: V2|2|14-time national champion refusal|77|111|1|eBenfica|134|140|1|e4|157|161|1|j105|111|1|n43|47|1|s30|32|1|j
+Sentiment {5} Signals: 4Nlr8MRY, K_DcJg0o, cHCxf2G0, g3dllEJr
+Sentiment {6} Tags: Besiktas, quarter-final appearance
+Sentiment {6} Dominant Valence: positive
+Sentiment {6} Total Sentiment Score: 34.0
+Sentiment {6} Annotated Text: {{Besiktas}} will <<hope>> that their <<best>> previous showing— a 1987 European Cup {{quarter-final appearance}}— will not prove a <<poor>> omen.
+Sentiment {6} Serialized Representation: V2|2|Besiktas|0|7|1|equarter-final appearance|73|96|1|e3|14|17|1|t116|119|1|n30|33|1|p
+Sentiment {6} Signals: rJODpYJA, jClGFk5P, rjp03N1r, kPXRGC1w
+Sentiment {7} Tags: 
+Sentiment {7} Dominant Valence: negative
+Sentiment {7} Total Sentiment Score: 10.0
+Sentiment {7} Annotated Text: Turkish daily Sabah expressed concern Sunday about the weather in Kiev predicting that sub-zero temperatures and snow could spell <<"danger">>.
+Sentiment {7} Serialized Representation: V2|0|1|130|137|1|f
+Sentiment {7} Signals: wN1cPk4B
+Sentiment {8} Tags: 
+Sentiment {8} Dominant Valence: negative
+Sentiment {8} Total Sentiment Score: 10.0
+Sentiment {8} Annotated Text: The paper added Aras Ozbiliz, Anderson Talisca and Caner Erkin are on the treatment table and set to <<miss>> out.
+Sentiment {8} Serialized Representation: V2|0|1|101|104|1|s
+Sentiment {8} Signals: FwvQEzbY
+Sentiment {9} Tags: Besiktas
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 20.0
+Sentiment {9} Annotated Text: The winner of Benfica-Napoli in Lisbon will <<qualify>> as group winners, while a draw would be enough to send the latter through given their head-to-head edge. If {{Besiktas}} lose, both will <<progress>> regardless.
+Sentiment {9} Serialized Representation: V2|1|Besiktas|160|167|1|e2|44|50|1|p185|192|1|p
+Sentiment {9} Signals: 7weHcv6z, rOFPpa7F
+Sentiment {10} Tags: Napoli
+Sentiment {10} Dominant Valence: positive
+Sentiment {10} Total Sentiment Score: 10.0
+Sentiment {10} Annotated Text: Whereas Benfica warmed up for the game by losing their unbeaten record in Portugal in slumping to unheralded Maritimo at the weekend, {{Napoli}} broke back into the top four in Serie A when Slovakia midfielder Marek Hamsik moved to within 11 goals of Diego Maradona's record haul of 115 goals for the club after scoring in Friday's 3-0 <<romp>> over Inter Milan.
+Sentiment {10} Serialized Representation: V2|1|Napoli|134|139|1|e1|332|335|1|j
+Sentiment {10} Signals: ASYanFYo
+Sentiment {11} Tags: Napoli
+Sentiment {11} Dominant Valence: positive
+Sentiment {11} Total Sentiment Score: 20.0
+Sentiment {11} Annotated Text: "As far as we're concerned, we have to go there <<looking>> <<for>> the <<win>>, " said {{Napoli}} coach Maurizio Sarri.
+Sentiment {11} Serialized Representation: V2|1|Napoli|76|81|1|e3|56|58|1|i64|66|1|j48|54|1|i
+Sentiment {11} Signals: 4Nlr8MRY, SVE1kj23
+Sentiment {12} Tags: 
+Sentiment {12} Dominant Valence: positive
+Sentiment {12} Total Sentiment Score: 10.0
+Sentiment {12} Annotated Text: For the first 70 minutes it could all be <<normal>>, then go one way or the other in the final 20 minutes. "
+Sentiment {12} Serialized Representation: V2|0|1|41|46|1|p
+Sentiment {12} Signals: 9DWmh7Gr
+Sentiment {13} Tags: 
+Sentiment {13} Dominant Valence: positive
+Sentiment {13} Total Sentiment Score: 10.0
+Sentiment {13} Annotated Text: Barcelona have already <<won>> Group C at the expense of Manchester City who nonetheless accompany the Catalan club through regardless of what happens as City host Celtic and Barca welcome Borussia Moenchengladbach.
+Sentiment {13} Serialized Representation: V2|0|1|23|25|1|j
+Sentiment {13} Signals: nqCxvbf_
+Sentiment {14} Tags: runners-up Bayern Munich
+Sentiment {14} Dominant Valence: positive
+Sentiment {14} Total Sentiment Score: 30.0
+Sentiment {14} Annotated Text: Atletico Madrid <<won>> Group D by a <<distance>> and are the only club in the competition with a <<perfect>> record as they prepare to do the double over {{runners-up Bayern Munich}}.
+Sentiment {14} Serialized Representation: V2|1|runners-up Bayern Munich|143|166|1|e3|16|18|1|j90|96|1|p33|40|1|s
+Sentiment {14} Signals: nqCxvbf_, XE7tVfQF, 0iirMlQn
+Sentiment {15} Tags: 
+Sentiment {15} Dominant Valence: negative
+Sentiment {15} Total Sentiment Score: 10.0
+Sentiment {15} Annotated Text: Rostov will look to avoid <<defeat>> at PSV Eindhoven and see their adventures carry on albeit in the Europa League.
+Sentiment {15} Serialized Representation: V2|0|1|26|31|1|s
+Sentiment {15} Signals: -yiJmQKg
+Sentiment {16} Tags: 
+Sentiment {16} Dominant Valence: positive
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: A minute's silence will be held before all matches as a mark of <<respect>> for Brazilian side Chapecoense, whose squad was decimated by last week's aircrash.
+Sentiment {16} Serialized Representation: V2|0|1|64|70|1|j
+Sentiment {16} Signals: _ud8qt1o
+
+LINKS Begin:
+https://www.thenews.com.pk/print/170074-Napoli-Benfica-Besiktas-battle-for-last-16-slots
+
+FULL ANNOTATED TEXT Begin:
+Title=Napoli, [e]{{Benfica}}, Besiktas battle for last 16 slots. 
+Author=Author. 
+PubTime=2016-10-15 20:15:00. 
+https://www.thenews.com.pk/print/170074-Napoli-Benfica-Besiktas-battle-for-last-16-slots lots. 
+Language=EN. 
+PARIS: As Paris Saint-Germain joust with Arsenal for top spot in their group, [e]{{Napoli}}, Benfica and Besiktas will [n]<<battle>> it out on Tuesday (today) for last 16 Champions League slots. 
+The Group B trio all have everything to play for in their final pool games as the only one of the eight first phase groups where no side has yet secured a berth. 
+Portugal's Benfica, European champions back in 1961 and 1962 in their [g]<<halcyon>> [g]<<days>> but who have underachieved since, should have secured their passage on matchday five but [s]<<threw>> away a three-goal lead at [e]{{Besiktas}}. 
+That Turkish comeback, rekindling memories of [e]{{Liverpool's historic 2005 Istanbul [j]<<triumph}>, has left the group outcome on a knife-edge with [e]{{Besiktas}} knowing that a [j]<<win>> at [n]<<eliminated>> Dynamo Kiev will send them through. 
+In contrast, the final round of games pits [e]{{Benfica}} against a [e]{{Napoli}} side who [n]<<beat>> them 4-2 back on matchday two in Italy— while [e]{{Besiktas}} were dropping home points against Kiev. 
+The Turkish side's subsequent [j]<<win>> in Italy [s]<<threw>> the group wide open and the [e]{{14-time national champions' [n]<<refusal}> to surrender against [e]{{Benfica}} means they now [j]<<fancy>> their chances. 
+[e]{{Besiktas}} will [t]<<hope>> that their [p]<<best>> previous showing— a 1987 European Cup [e]{{quarter-final appearance}}— will not prove a [n]<<poor>> omen. Back then, they lost 7-0 on aggregate— to Kiev. 
+Turkish daily Sabah expressed concern Sunday about the weather in Kiev predicting that sub-zero temperatures and snow could spell [f]<<"danger">>. The paper added Aras Ozbiliz, Anderson Talisca and Caner Erkin are on the treatment table and set to [s]<<miss>> out. 
+The winner of Benfica-Napoli in Lisbon will [p]<<qualify>> as group winners, while a draw would be enough to send the latter through given their head-to-head edge. If [e]{{Besiktas}} lose, both will [p]<<progress>> regardless. 
+Whereas Benfica warmed up for the game by losing their unbeaten record in Portugal in slumping to unheralded Maritimo at the weekend, [e]{{Napoli}} broke back into the top four in Serie A when Slovakia midfielder Marek Hamsik moved to within 11 goals of Diego Maradona's record haul of 115 goals for the club after scoring in Friday's 3-0 [j]<<romp>> over Inter Milan. 
+"As far as we're concerned, we have to go there [i]<<looking>> [i]<<for>> the [j]<<win>>, " said [e]{{Napoli}} coach Maurizio Sarri. 
+"It will be a difficult game, but it could be two games in one. For the first 70 minutes it could all be [p]<<normal>>, then go one way or the other in the final 20 minutes. " 
+Beyond the tightest group of the season, the final round of games is all about securing pole position and a theoretically softer second round draw. 
+It's been tight at the top throughout in Group A where there is nothing to choose between Arsenal and PSG, both through and level on points ahead of final games at Basel and home to Ludogorets, both winless makeweights. 
+Barcelona have already [j]<<won>> Group C at the expense of Manchester City who nonetheless accompany the Catalan club through regardless of what happens as City host Celtic and Barca welcome Borussia Moenchengladbach. 
+Atletico Madrid [j]<<won>> Group D by a [s]<<distance>> and are the only club in the competition with a [p]<<perfect>> record as they prepare to do the double over [e]{{runners-up Bayern Munich}}. 
+Rostov will look to avoid [s]<<defeat>> at PSV Eindhoven and see their adventures carry on albeit in the Europa League. 
+A minute's silence will be held before all matches as a mark of [j]<<respect>> for Brazilian side Chapecoense, whose squad was decimated by last week's aircrash. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Napoli, Benfica, Besiktas battle for last 16 slots
+Author=Author
+PubTime=2016-10-15 20:15:00
+Url=https://www.thenews.com.pk/print/170074-Napoli-Benfica-Besiktas-battle-for-last-16-slots
+Language=EN
+
+PARIS: As Paris Saint-Germain joust with Arsenal for top spot in their group, Napoli, Benfica and Besiktas will battle it out on Tuesday (today) for last 16 Champions League slots.
+The Group B trio all have everything to play for in their final pool games as the only one of the eight first phase groups where no side has yet secured a berth.
+Portugal’s Benfica, European champions back in 1961 and 1962 in their halcyon days but who have underachieved since, should have secured their passage on matchday five but threw away a three-goal lead at Besiktas.
+That Turkish comeback, rekindling memories of Liverpool’s historic 2005 Istanbul triumph, has left the group outcome on a knife-edge with Besiktas knowing that a win at eliminated Dynamo Kiev will send them through.
+In contrast, the final round of games pits Benfica against a Napoli side who beat them 4-2 back on matchday two in Italy — while Besiktas were dropping home points against Kiev.
+The Turkish side’s subsequent win in Italy threw the group wide open and the 14-time national champions’ refusal to surrender against Benfica means they now fancy their chances.
+Besiktas will hope that their best previous showing — a 1987 European Cup quarter-final appearance — will not prove a poor omen. Back then, they lost 7-0 on aggregate — to Kiev.
+Turkish daily Sabah expressed concern Sunday about the weather in Kiev predicting that sub-zero temperatures and snow could spell “danger”. The paper added Aras Ozbiliz, Anderson Talisca and Caner Erkin are on the treatment table and set to miss out.
+The winner of Benfica-Napoli in Lisbon will qualify as group winners, while a draw would be enough to send the latter through given their head-to-head edge. If Besiktas lose, both will progress regardless.
+Whereas Benfica warmed up for the game by losing their unbeaten record in Portugal in slumping to unheralded Maritimo at the weekend, Napoli broke back into the top four in Serie A when Slovakia midfielder Marek Hamsik moved to within 11 goals of Diego Maradona’s record haul of 115 goals for the club after scoring in Friday’s 3-0 romp over Inter Milan.
+“As far as we’re concerned, we have to go there looking for the win,” said Napoli coach Maurizio Sarri.
+“It will be a difficult game, but it could be two games in one. For the first 70 minutes it could all be normal, then go one way or the other in the final 20 minutes.”
+Beyond the tightest group of the season, the final round of games is all about securing pole position and a theoretically softer second round draw.
+It’s been tight at the top throughout in Group A where there is nothing to choose between Arsenal and PSG, both through and level on points ahead of final games at Basel and home to Ludogorets, both winless makeweights.
+Barcelona have already won Group C at the expense of Manchester City who nonetheless accompany the Catalan club through regardless of what happens as City host Celtic and Barca welcome Borussia Moenchengladbach.
+Atletico Madrid won Group D by a distance and are the only club in the competition with a perfect record as they prepare to do the double over runners-up Bayern Munich.
+Rostov will look to avoid defeat at PSV Eindhoven and see their adventures carry on albeit in the Europa League.
+A minute’s silence will be held before all matches as a mark of respect for Brazilian side Chapecoense, whose squad was decimated by last week’s aircrash.

@@ -1,0 +1,270 @@
+----------- TASK [1] --------------
+TEXT STATS Length [5784] Paragraphs [25] Unique Entities [134] Index [1847] ms Chunk [1768] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+13.3 "Swaziland and Zimbabwe" [Good Topic]
+12.7 "malaria control program" [Good Topic]
+11.9 "Swaziland Zimbabwe" [Good Topic]
+11.8 "intervention" [Undetermined Topic]
+10.1 "Google Earth Engine" [Good Topic]
+9.6 "DiSARM" [Good Topic]
+7.6 "malaria program" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: 
+Sentiment {0} Dominant Valence: negative
+Sentiment {0} Total Sentiment Score: 10.0
+Sentiment {0} Annotated Text: Title=How maps and machine learning are helping to <<eliminate>> malaria.
+Sentiment {0} Serialized Representation: V2|0|1|51|59|1|n
+Sentiment {0} Signals: e1qWH0Si
+Sentiment {1} Tags: 
+Sentiment {1} Dominant Valence: positive
+Sentiment {1} Total Sentiment Score: 20.0
+Sentiment {1} Annotated Text: Today is World Malaria Day, a moment <<dedicated>> to raising awareness and <<improving>> access to tools to prevent malaria.
+Sentiment {1} Serialized Representation: V2|0|2|37|45|1|p72|80|1|p
+Sentiment {1} Signals: 52mH2sxV, iTgJNQmc
+Sentiment {2} Tags: DiSARM
+Sentiment {2} Dominant Valence: negative
+Sentiment {2} Total Sentiment Score: 30.0
+Sentiment {2} Annotated Text: {{DiSARM}} <<(Disease>> Surveillance and Risk Monitoring), a project led by the Malaria Elimination Initiative and <<supported>> by the Bill and Melinda Gates Foundation and Clinton Health Access Initiative, is <<fighting>> the spread of malaria by mapping the places where malaria could occur.
+Sentiment {2} Serialized Representation: V2|1|DiSARM|0|5|1|e3|107|115|1|p7|14|1|n199|206|1|a
+Sentiment {2} Signals: X0FYBHBC, 9s55Z8Uy, mGZX1fKC
+Sentiment {3} Tags: Google Earth Engine, DiSARM
+Sentiment {3} Dominant Valence: zero
+Sentiment {3} Total Sentiment Score: 0.0
+Sentiment {3} Annotated Text: With the help of {{Google Earth Engine}}, {{DiSARM}} creates high resolution "risk maps" that help malaria control programs identify the areas where they should direct resources for prevention and treatment.
+Sentiment {3} Serialized Representation: V2|2|Google Earth Engine|17|35|1|eDiSARM|38|43|1|e0|
+Sentiment {3} Signals: 
+Sentiment {4} Tags: DiSARM
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: We sat down with Hugh Sturrock, who leads the {{DiSARM}} project and is an Assistant Professor of Epidemiology and Biostatistics in the University of California, San Francisco's Global Health Group, to learn more about {{DiSARM}}'s <<fight>> against malaria, and how Google fits in.
+Sentiment {4} Serialized Representation: V2|2|DiSARM|46|51|1|eDiSARM|215|220|1|e1|224|228|1|a
+Sentiment {4} Signals: 5GNc-Ebi
+Sentiment {5} Tags: 
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 20.0
+Sentiment {5} Annotated Text: I <<suddenly>> realized that my research could have a <<positive>> impact on people's lives and from that point on I was hooked.
+Sentiment {5} Serialized Representation: V2|0|2|2|9|1|u50|57|1|p
+Sentiment {5} Signals: 6Sj8iPZw, 84EuTz3s
+Sentiment {6} Tags: 
+Sentiment {6} Dominant Valence: negative
+Sentiment {6} Total Sentiment Score: 20.0
+Sentiment {6} Annotated Text: While malaria deaths have decreased dramatically since then, it's still a <<huge>> public health <<problem>>.
+Sentiment {6} Serialized Representation: V2|0|2|93|99|1|n74|77|1|g
+Sentiment {6} Signals: ei0VTCRo, KuZ3z8ai
+Sentiment {7} Tags: DiSARM
+Sentiment {7} Dominant Valence: zero
+Sentiment {7} Total Sentiment Score: 0.0
+Sentiment {7} Annotated Text: Which regions is {{DiSARM}} targeting first?
+Sentiment {7} Serialized Representation: V2|1|DiSARM|17|22|1|e0|
+Sentiment {7} Signals: 
+Sentiment {8} Tags: Swaziland and Zimbabwe, Swaziland Zimbabwe, DiSARM
+Sentiment {8} Dominant Valence: zero
+Sentiment {8} Total Sentiment Score: 0.0
+Sentiment {8} Annotated Text: We're piloting {{DiSARM}} in {{Swaziland and Zimbabwe}}, two regions that are on the cusp of malaria elimination.
+Sentiment {8} Serialized Representation: V2|3|Swaziland and Zimbabwe|25|46|1|eSwaziland Zimbabwe|25|46|1|eDiSARM|15|20|1|e0|
+Sentiment {8} Signals: 
+Sentiment {9} Tags: 
+Sentiment {9} Dominant Valence: positive
+Sentiment {9} Total Sentiment Score: 10.0
+Sentiment {9} Annotated Text: Meanwhile, Zimbabwe <<achieved>> a 74 percent decline in reported cases from 2005–2015.
+Sentiment {9} Serialized Representation: V2|0|1|20|27|1|p
+Sentiment {9} Signals: SBzOUtnr
+Sentiment {10} Tags: intervention, DiSARM
+Sentiment {10} Dominant Valence: negative
+Sentiment {10} Total Sentiment Score: 24.0
+Sentiment {10} Annotated Text: When a small number of cases in a region remain, precise <{intervention}> is required to <<fully>> <<eliminate>> malaria, and {{DiSARM}} can help fully close the gap.
+Sentiment {10} Serialized Representation: V2|2|intervention|57|68|1|eDiSARM|114|119|1|e3|85|89|1|n57|68|1|n91|99|1|n
+Sentiment {10} Signals: LmtFdjpC, jvT1fUW9, e1qWH0Si
+Sentiment {11} Tags: 
+Sentiment {11} Dominant Valence: negative
+Sentiment {11} Total Sentiment Score: 43.0
+Sentiment {11} Annotated Text: By focusing our resources <<more>> <<strategically>>, we can <<shrink>> the malaria map and <<eliminate>> the <<disease>> entirely in these countries.
+Sentiment {11} Serialized Representation: V2|0|5|31|43|1|g26|29|1|g94|100|1|n53|58|1|s80|88|1|n
+Sentiment {11} Signals: OCj0X5fN, e0ofDjtK, nScX8O69, e1qWH0Si, X0FYBHBC
+Sentiment {12} Tags: Google Earth Engine, DiSARM
+Sentiment {12} Dominant Valence: ambiguous
+Sentiment {12} Total Sentiment Score: 10.0
+Sentiment {12} Annotated Text: How does {{DiSARM}} use {{Google Earth Engine}} to help <<fight>> malaria?
+Sentiment {12} Serialized Representation: V2|2|Google Earth Engine|20|38|1|eDiSARM|9|14|1|e1|48|52|1|m
+Sentiment {12} Signals: mGZX1fKC
+Sentiment {13} Tags: 
+Sentiment {13} Dominant Valence: general
+Sentiment {13} Total Sentiment Score: 14.0
+Sentiment {13} Annotated Text: If we map where malaria is <<most>> <<likely>> to occur, we can target those areas for action.
+Sentiment {13} Serialized Representation: V2|0|2|32|37|1|g27|30|1|g
+Sentiment {13} Signals: 5NuVRPTC, r1gn0cKq, _oynYHJC
+Sentiment {14} Tags: Swaziland and Zimbabwe, Swaziland Zimbabwe
+Sentiment {14} Dominant Valence: negative
+Sentiment {14} Total Sentiment Score: 20.0
+Sentiment {14} Annotated Text: Every time someone is diagnosed with malaria in {{Swaziland and Zimbabwe}}, a team goes to the village where the <<infection>> occurred and collects a GPS point with the precise <<infection>> location.
+Sentiment {14} Serialized Representation: V2|2|Swaziland and Zimbabwe|48|69|1|eSwaziland Zimbabwe|48|69|1|e2|170|178|1|n109|117|1|n
+Sentiment {14} Signals: jWvowOgG, jWvowOgG
+Sentiment {15} Tags: 
+Sentiment {15} Dominant Valence: positive
+Sentiment {15} Total Sentiment Score: 10.0
+Sentiment {15} Annotated Text: Just looking at these points won't allow you to <<accurately>> determine the risk of malaria, though.
+Sentiment {15} Serialized Representation: V2|0|1|48|57|1|p
+Sentiment {15} Signals: NE3gI0Z2
+Sentiment {16} Tags: 
+Sentiment {16} Dominant Valence: negative
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: You also need satellite imagery of conditions like rainfall, temperature, slope and elevation, which affect mosquito breeding and <<parasite>> development.
+Sentiment {16} Serialized Representation: V2|0|1|130|137|1|n
+Sentiment {16} Signals: G1OVNo3i
+Sentiment {17} Tags: DiSARM
+Sentiment {17} Dominant Valence: negative
+Sentiment {17} Total Sentiment Score: 10.0
+Sentiment {17} Annotated Text: To determine the risk of malaria, {{DiSARM}} combines the precise location of the malaria <<infection>>, with satellite data of conditions like rainfall, temperature, vegetation, elevation, which affect mosquito breeding.
+Sentiment {17} Serialized Representation: V2|1|DiSARM|34|39|1|e1|86|94|1|n
+Sentiment {17} Signals: jWvowOgG
+Sentiment {18} Tags: intervention, DiSARM, malaria program
+Sentiment {18} Dominant Valence: negative
+Sentiment {18} Total Sentiment Score: 10.0
+Sentiment {18} Annotated Text: {{DiSARM}}'s mobile app can be used by the {{malaria programs}} and field teams to target <{interventions}>.
+Sentiment {18} Serialized Representation: V2|3|intervention|82|94|1|eDiSARM|0|5|1|emalaria program|39|54|1|e1|82|94|1|n
+Sentiment {18} Signals: LmtFdjpC
+Sentiment {19} Tags: Google Earth Engine
+Sentiment {19} Dominant Valence: positive
+Sentiment {19} Total Sentiment Score: 10.0
+Sentiment {19} Annotated Text: {{Google Earth Engine}} collects and organizes the public satellite imagery data we need. In the past we had to <<obtain>> those images from a range of sources: NASA, USGS and different universities around the world.
+Sentiment {19} Serialized Representation: V2|1|Google Earth Engine|0|18|1|e1|108|113|1|p
+Sentiment {19} Signals: SysrcnTB
+Sentiment {20} Tags: Google Earth Engine
+Sentiment {20} Dominant Valence: zero
+Sentiment {20} Total Sentiment Score: 0.0
+Sentiment {20} Annotated Text: But with {{Google Earth Engine}}, it's all in one place and can be processed using Google computers.
+Sentiment {20} Serialized Representation: V2|1|Google Earth Engine|9|27|1|e0|
+Sentiment {20} Signals: 
+Sentiment {21} Tags: malaria control program, Google Earth Engine
+Sentiment {21} Dominant Valence: positive
+Sentiment {21} Total Sentiment Score: 14.0
+Sentiment {21} Annotated Text: We combine satellite imagery data from {{Google Earth Engine}} with the locations of malaria cases collected by a country's national {{malaria control program}}, and create models that let us generate maps identifying areas at <<greatest>> risk.
+Sentiment {21} Serialized Representation: V2|2|malaria control program|129|151|1|eGoogle Earth Engine|39|57|1|e1|219|226|1|p
+Sentiment {21} Signals: ALEH90QQ, rjp03N1r
+Sentiment {22} Tags: DiSARM, malaria program
+Sentiment {22} Dominant Valence: zero
+Sentiment {22} Total Sentiment Score: 0.0
+Sentiment {22} Annotated Text: The {{DiSARM}} interface gives {{malaria programs}} a near real-time view of malaria and predicts risk at specific locations, such as health facility service areas, villages and schools.
+Sentiment {22} Serialized Representation: V2|2|DiSARM|4|9|1|emalaria program|27|42|1|e0|
+Sentiment {22} Signals: 
+Sentiment {23} Tags: malaria control program, intervention
+Sentiment {23} Dominant Valence: negative
+Sentiment {23} Total Sentiment Score: 50.0
+Sentiment {23} Annotated Text: Overlaying data allows {{malaria control programs}} to identify <<high-risk>> areas that have <<insufficient>> levels of <<protection>> and <<better>> distribute their <{interventions}>.
+Sentiment {23} Serialized Representation: V2|2|malaria control program|23|46|1|eintervention|148|160|1|e5|60|68|1|n148|160|1|n124|129|1|p86|97|1|n109|118|1|p
+Sentiment {23} Signals: EA2xvBtm, 8fULekyX, NvCHirVC, UHldHcUi, LmtFdjpC
+Sentiment {24} Tags: Swaziland and Zimbabwe, malaria control program, Swaziland Zimbabwe
+Sentiment {24} Dominant Valence: positive
+Sentiment {24} Total Sentiment Score: 10.0
+Sentiment {24} Annotated Text: The {{Swaziland and Zimbabwe}} national {{malaria control programs}} use risk maps to help track <<progress>> and make decisions about how best to use their resources—for example, where to spray insecticides and where to conduct health promotion campaigns.
+Sentiment {24} Serialized Representation: V2|3|Swaziland and Zimbabwe|4|25|1|emalaria control program|36|59|1|eSwaziland Zimbabwe|4|25|1|e1|89|96|1|p
+Sentiment {24} Signals: 3D5OtewK
+Sentiment {25} Tags: intervention, malaria program
+Sentiment {25} Dominant Valence: ambiguous
+Sentiment {25} Total Sentiment Score: 30.0
+Sentiment {25} Annotated Text: They can <<drill>> <<down>> and direct their spray teams to go to the individual houses most at risk. This technique <<improves>> the targeting of <{interventions}>, saving money and time for the {{malaria programs}}.
+Sentiment {25} Serialized Representation: V2|2|intervention|135|147|1|emalaria program|180|195|1|e4|9|13|1|g15|18|1|g109|116|1|p135|147|1|n
+Sentiment {25} Signals: qsiS2uGZ, iTgJNQmc, LmtFdjpC
+Sentiment {26} Tags: intervention
+Sentiment {26} Dominant Valence: negative
+Sentiment {26} Total Sentiment Score: 10.0
+Sentiment {26} Annotated Text: DiSARM's targeting module uses the risk map to prioritize areas for <{interventions}> such as indoor residual spraying (IRS), insecticide treated nets (ITNs) and mass drug administration (MDA).
+Sentiment {26} Serialized Representation: V2|1|intervention|68|80|1|e1|68|80|1|n
+Sentiment {26} Signals: LmtFdjpC
+Sentiment {27} Tags: DiSARM
+Sentiment {27} Dominant Valence: zero
+Sentiment {27} Total Sentiment Score: 0.0
+Sentiment {27} Annotated Text: What's next for {{DiSARM}}?
+Sentiment {27} Serialized Representation: V2|1|DiSARM|16|21|1|e0|
+Sentiment {27} Signals: 
+Sentiment {28} Tags: Swaziland and Zimbabwe, Swaziland Zimbabwe
+Sentiment {28} Dominant Valence: positive
+Sentiment {28} Total Sentiment Score: 30.0
+Sentiment {28} Annotated Text: We believe {{Swaziland and Zimbabwe}} can <<eliminate>> malaria and we <<hope>> this tool can get them—and other countries—closer to <<achieving>> that goal.
+Sentiment {28} Serialized Representation: V2|2|Swaziland and Zimbabwe|11|32|1|eSwaziland Zimbabwe|11|32|1|e3|38|46|1|n63|66|1|t121|129|1|p
+Sentiment {28} Signals: e1qWH0Si, rJODpYJA, kXt7fg-0, SBzOUtnr
+
+LINKS Begin:
+https://blog.google/products/maps/how-maps-and-machine-learning-are-helping-eliminate-malaria/
+
+FULL ANNOTATED TEXT Begin:
+Title=How maps and machine learning are helping to [n]<<eliminate>> malaria. 
+Author=Allie Lieber. 
+PubTime=2017-04-25 13:00:00. 
+https://blog.google/products/maps/how-maps-and-machine-learning-are-helping-eliminate-malaria/ ria/ 
+Language=EN. 
+Today is World Malaria Day, a moment [p]<<dedicated>> to raising awareness and [p]<<improving>> access to tools to prevent malaria. The World Health Organization says nearly half of the world's population is at risk for malaria, and estimates that in 2015 there were 212 million malaria cases resulting in 429,000 deaths. In places with high transmission rates, children under five account for 70 percent of malaria deaths. 
+[e]{{DiSARM}} [n]<<(Disease>> Surveillance and Risk Monitoring), a project led by the Malaria Elimination Initiative and [p]<<supported>> by the Bill and Melinda Gates Foundation and Clinton Health Access Initiative, is [a]<<fighting>> the spread of malaria by mapping the places where malaria could occur. With the help of [e]{{Google Earth Engine}}, [e]{{DiSARM}} creates high resolution "risk maps" that help malaria control programs identify the areas where they should direct resources for prevention and treatment. 
+We sat down with Hugh Sturrock, who leads the [e]{{DiSARM}} project and is an Assistant Professor of Epidemiology and Biostatistics in the University of California, San Francisco's Global Health Group, to learn more about [e]{{DiSARM}}'s [a]<<fight>> against malaria, and how Google fits in. 
+As an epidemiologist, why did you choose to focus your efforts on malaria? 
+I first became interested in 2005, during my undergraduate days at the University of Edinburgh when I worked on a project examining the fungal control of mosquitoes with Professor Andrew Read. I [u]<<suddenly>> realized that my research could have a [p]<<positive>> impact on people's lives and from that point on I was hooked. While malaria deaths have decreased dramatically since then, it's still a [g]<<huge>> public health [n]<<problem>>. 
+Which regions is [e]{{DiSARM}} targeting first? 
+We're piloting [e]{{DiSARM}} in [e,e]{{Swaziland and Zimbabwe}}, two regions that are on the cusp of malaria elimination. Between 2000–2014, reported malaria cases in Swaziland decreased by 99 percent, and in 2015, Swaziland reported fewer than 400 local cases. Meanwhile, Zimbabwe [p]<<achieved>> a 74 percent decline in reported cases from 2005–2015. 
+When a small number of cases in a region remain, precise [e,n]<{intervention}> is required to [n]<<fully>> [n]<<eliminate>> malaria, and [e]{{DiSARM}} can help fully close the gap. By focusing our resources [g]<<more>> [g]<<strategically>>, we can [s]<<shrink>> the malaria map and [n]<<eliminate>> the [n]<<disease>> entirely in these countries. 
+How does [e]{{DiSARM}} use [e]{{Google Earth Engine}} to help [m]<<fight>> malaria? 
+If we map where malaria is [g]<<most>> [g]<<likely>> to occur, we can target those areas for action. Every time someone is diagnosed with malaria in [e,e]{{Swaziland and Zimbabwe}}, a team goes to the village where the [n]<<infection>> occurred and collects a GPS point with the precise [n]<<infection>> location. Just looking at these points won't allow you to [p]<<accurately>> determine the risk of malaria, though. You also need satellite imagery of conditions like rainfall, temperature, slope and elevation, which affect mosquito breeding and [n]<<parasite>> development. 
+GeoForGood_Disarm_800px_V2.gif. 
+To determine the risk of malaria, [e]{{DiSARM}} combines the precise location of the malaria [n]<<infection>>, with satellite data of conditions like rainfall, temperature, vegetation, elevation, which affect mosquito breeding. [e]{{DiSARM}}'s mobile app can be used by the [e]{{malaria programs}} and field teams to target [e,n]<{interventions}>. 
+[e]{{Google Earth Engine}} collects and organizes the public satellite imagery data we need. In the past we had to [p]<<obtain>> those images from a range of sources: NASA, USGS and different universities around the world. But with [e]{{Google Earth Engine}}, it's all in one place and can be processed using Google computers. We combine satellite imagery data from [e]{{Google Earth Engine}} with the locations of malaria cases collected by a country's national [e]{{malaria control program}}, and create models that let us generate maps identifying areas at [p]<<greatest>> risk. 
+The [e]{{DiSARM}} interface gives [e]{{malaria programs}} a near real-time view of malaria and predicts risk at specific locations, such as health facility service areas, villages and schools. Overlaying data allows [e]{{malaria control programs}} to identify [n]<<high-risk>> areas that have [n]<<insufficient>> levels of [p]<<protection>> and [p]<<better>> distribute their [e,n]<{interventions}>. 
+How are the risk maps used? 
+The [e,e]{{Swaziland and Zimbabwe}} national [e]{{malaria control programs}} use risk maps to help track [p]<<progress>> and make decisions about how best to use their resources—for example, where to spray insecticides and where to conduct health promotion campaigns. With this data, they can make these decisions in a matter of minutes, rather than days or weeks. And they have much more precise information about where to target their efforts. They can [g]<<drill>> [g]<<down>> and direct their spray teams to go to the individual houses most at risk. This technique [p]<<improves>> the targeting of [e,n]<{interventions}>, saving money and time for the [e]{{malaria programs}}. 
+DiSARM's targeting module uses the risk map to prioritize areas for [e,n]<{interventions}> such as indoor residual spraying (IRS), insecticide treated nets (ITNs) and mass drug administration (MDA). 
+We've also developed a mobile app with instructions for field teams and the locations of buildings they need to target on an offline map. They can also use the app to collect data even if they don't have connectivity while they're in remote locations. 
+What's next for [e]{{DiSARM}}? 
+Over the next year, we're planning to expand the platform to show not just the current malaria risk, but a forecast for the future. We believe [e,e]{{Swaziland and Zimbabwe}} can [n]<<eliminate>> malaria and we [t]<<hope>> this tool can get them—and other countries—closer to [p]<<achieving>> that goal. To learn more, visit disarm .io. 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=How maps and machine learning are helping to eliminate malaria
+Author=Allie Lieber
+PubTime=2017-04-25 13:00:00
+Url=https://blog.google/products/maps/how-maps-and-machine-learning-are-helping-eliminate-malaria/
+Language=EN
+
+
+Today is World Malaria Day, a moment dedicated to raising awareness and improving access to tools to prevent malaria. The World Health Organization says nearly half of the world’s population is at risk for malaria, and estimates that in 2015 there were 212 million malaria cases resulting in 429,000 deaths. In places with high transmission rates, children under five account for 70 percent of malaria deaths.
+
+DiSARM (Disease Surveillance and Risk Monitoring), a project led by the Malaria Elimination Initiative and supported by the Bill and Melinda Gates Foundation and Clinton Health Access Initiative, is fighting the spread of malaria by mapping the places where malaria could occur. With the help of Google Earth Engine, DiSARM creates high resolution “risk maps” that help malaria control programs identify the areas where they should direct resources for prevention and treatment.
+
+We sat down with Hugh Sturrock, who leads the DiSARM project and is an Assistant Professor of Epidemiology and Biostatistics in the University of California, San Francisco’s Global Health Group, to learn more about DiSARM’s fight against malaria, and how Google fits in.
+
+As an epidemiologist, why did you choose to focus your efforts on malaria?
+
+I first became interested in 2005, during my undergraduate days at the University of Edinburgh when I worked on a project examining the fungal control of mosquitoes with Professor Andrew Read. I suddenly realized that my research could have a positive impact on people’s lives and from that point on I was hooked. While malaria deaths have decreased dramatically since then, it’s still a huge public health problem.
+
+Which regions is DiSARM targeting first?
+
+We’re piloting DiSARM in Swaziland and Zimbabwe, two regions that are on the cusp of malaria elimination. Between 2000–2014, reported malaria cases in Swaziland decreased by 99 percent, and in 2015, Swaziland reported fewer than 400 local cases. Meanwhile, Zimbabwe achieved a 74 percent decline in reported cases from 2005–2015.
+
+When a small number of cases in a region remain, precise intervention is required to fully eliminate malaria, and DiSARM can help fully close the gap. By focusing our resources more strategically, we can shrink the malaria map and eliminate the disease entirely in these countries.
+
+How does DiSARM use Google Earth Engine to help fight malaria?
+
+If we map where malaria is most likely to occur, we can target those areas for action. Every time someone is diagnosed with malaria in Swaziland and Zimbabwe, a team goes to the village where the infection occurred and collects a GPS point with the precise infection location. Just looking at these points won’t allow you to accurately determine the risk of malaria, though. You also need satellite imagery of conditions like rainfall, temperature, slope and elevation, which affect mosquito breeding and parasite development.
+GeoForGood_Disarm_800px_V2.gif
+To determine the risk of malaria, DiSARM combines the precise location of the malaria infection,  with satellite data of conditions like rainfall, temperature, vegetation, elevation, which affect mosquito breeding. DiSARM’s mobile app can be used by the malaria programs and field teams to target interventions.
+
+Google Earth Engine collects and organizes the public satellite imagery data we need. In the past we had to obtain those images from a range of sources: NASA, USGS and different universities around the world. But with Google Earth Engine, it’s all in one place and can be processed using Google computers. We combine satellite imagery data from Google Earth Engine with the locations of malaria cases collected by a country’s national malaria control program, and create models that let us generate maps identifying areas at greatest risk.
+
+The DiSARM interface gives malaria programs a near real-time view of malaria and predicts risk at specific locations, such as health facility service areas, villages and schools. Overlaying data allows malaria control programs to identify high-risk areas that have insufficient levels of protection and better distribute their interventions.
+How are the risk maps used?
+
+The Swaziland and Zimbabwe national malaria control programs use risk maps to help track progress and make decisions about how best to use their resources—for example, where to spray insecticides and where to conduct health promotion campaigns. With this data, they can make these decisions in a matter of minutes, rather than days or weeks. And they have much more precise information about where to target their efforts. They can drill down and direct their spray teams to go to the individual houses most at risk. This technique improves the targeting of interventions, saving money and time for the malaria programs.
+
+DiSARM’s targeting module uses the risk map to prioritize areas for interventions such as indoor residual spraying (IRS), insecticide treated nets (ITNs) and mass drug administration (MDA).
+We’ve also developed a mobile app with instructions for field teams and the locations of buildings they need to target on an offline map. They can also use the app to collect data even if they don’t have connectivity while they’re in remote locations.
+
+What’s next for DiSARM?
+
+Over the next year, we’re planning to expand the platform to show not just the current malaria risk, but a forecast for the future. We believe Swaziland and Zimbabwe can eliminate malaria and we hope this tool can get them—and other countries—closer to achieving that goal. To learn more, visit disarm.io.

@@ -1,0 +1,404 @@
+----------- TASK [1] --------------
+TEXT STATS Length [9451] Paragraphs [41] Unique Entities [262] Index [1921] ms Chunk [1788] ms 
+URL Begin:
+PublicationTime Begin:
+Title Begin:
+Author Begin:
+DocumentCollectionId Begin:
+CollectionItemId Begin:
+ParentUrl Begin:
+ParentPubTime Begin:
+
+TAGS Begin:
+17.8 "Mr. Putin" [Good Topic]
+13.7 "Russia" [Good Topic]
+10.3 "Russian" [Good Topic]
+9.6 "Mr. Putin popularity" [Good Topic]
+8.9 "Moscow" [Good Topic]
+7.6 "president" [Undetermined Topic]
+7.4 "United States" [Good Topic]
+
+TOP SENTIMENTS Begin:
+Sentiment {0} Tags: Russia
+Sentiment {0} Dominant Valence: positive
+Sentiment {0} Total Sentiment Score: 20.0
+Sentiment {0} Annotated Text: MOSCOW— Tiger shooter, bare-chested horseman and architect of {{Russia}}'s revival as a muscular global power, President Vladimir V. Putin, dressed in a somber suit and tie, sat for over an hour this past week sipping tea from a delicate porcelain cup and offering <<earnest>> advice on how to <<improve>> housing, medical care and other services in a provincial town south of here.
+Sentiment {0} Serialized Representation: V2|1|Russia|62|67|1|e2|261|267|1|p286|292|1|p
+Sentiment {0} Signals: iVBp-lSk, iTgJNQmc
+Sentiment {1} Tags: Mr. Putin, Russian
+Sentiment {1} Dominant Valence: positive
+Sentiment {1} Total Sentiment Score: 10.0
+Sentiment {1} Annotated Text: State television broadcast the entire encounter, in between reports of {{Russian}} airstrikes in Syria ordered by {{Mr. Putin}} and <<gleeful>> accounts of how, thanks to a stunt by a pro-Putin athlete, the {{Russian}} flag appeared during the opening ceremony of the Paralympic Games in Rio de Janeiro despite a ban on the {{Russian}} squad because of a doping scandal.
+Sentiment {1} Serialized Representation: V2|4|Mr. Putin|110|118|1|eRussian|71|77|1|eRussian|195|201|1|eRussian|308|314|1|e1|124|130|1|j
+Sentiment {1} Signals: 4Ufzz4vr
+Sentiment {2} Tags: Mr. Putin, Russia
+Sentiment {2} Dominant Valence: ambiguous
+Sentiment {2} Total Sentiment Score: 30.0
+Sentiment {2} Annotated Text: It was, in the span of just a few hours, a dizzying display of the political mastery that {{Mr. Putin}} has over his country and his own image— a tough, can-do warrior; <<caring>> father of his people; and guarantor that <<no>> <<slight>> to {{Russia}}'s <<pride>> will go unanswered.
+Sentiment {2} Serialized Representation: V2|2|Mr. Putin|90|98|1|eRussia|226|231|1|e4|213|214|1|m216|221|1|m235|239|1|j165|170|1|f
+Sentiment {2} Signals: Q1Zskg9h, crWkoiBc, dOfljDsW, 7Sl7SSyH
+Sentiment {3} Tags: Mr. Putin
+Sentiment {3} Dominant Valence: positive
+Sentiment {3} Total Sentiment Score: 10.0
+Sentiment {3} Annotated Text: {{Mr. Putin}}, 63, has shown an <<extraordinary>> ability to project an image of towering strength no matter what the circumstances.
+Sentiment {3} Serialized Representation: V2|1|Mr. Putin|0|8|1|e1|28|40|1|p
+Sentiment {3} Signals: pq_SfB5n
+Sentiment {4} Tags: Russia, Moscow
+Sentiment {4} Dominant Valence: negative
+Sentiment {4} Total Sentiment Score: 10.0
+Sentiment {4} Annotated Text: He has many <<critics>>, many of them now in exile outside {{Russia}} or voiceless outside the coffee shops and wine bars of cosmopolitan cities like {{Moscow}}.
+Sentiment {4} Serialized Representation: V2|2|Russia|55|60|1|eMoscow|142|147|1|e1|12|18|1|n
+Sentiment {4} Signals: sCXbiUeG
+Sentiment {5} Tags: Mr. Putin, Russia
+Sentiment {5} Dominant Valence: positive
+Sentiment {5} Total Sentiment Score: 10.0
+Sentiment {5} Annotated Text: But as Donald J. Trump said with <<admiration:>> {{Mr. Putin}} has "very strong control" over {{Russia}}.
+Sentiment {5} Serialized Representation: V2|2|Mr. Putin|45|53|1|eRussia|86|91|1|e1|33|43|1|j
+Sentiment {5} Signals: JJHdi5gr
+Sentiment {6} Tags: 
+Sentiment {6} Dominant Valence: general
+Sentiment {6} Total Sentiment Score: 11.999999
+Sentiment {6} Annotated Text: According to Mr. Trump, the Republican Party's presidential nominee, "He has been a leader <<far>> <<more>> than our leader. "
+Sentiment {6} Serialized Representation: V2|0|2|91|93|1|g95|98|1|g
+Sentiment {6} Signals: gEPY7p8V, e0ofDjtK
+Sentiment {7} Tags: 
+Sentiment {7} Dominant Valence: ambiguous
+Sentiment {7} Total Sentiment Score: 44.0
+Sentiment {7} Annotated Text: The <<beauty>> of that is largely in the <<eye>> <<of>> <<the>> <<beholder>>, and is <<certainly>> lost on Mr. Putin's Russian <<opponents>>.
+Sentiment {7} Serialized Representation: V2|0|7|4|9|1|p44|46|1|g37|39|1|g48|55|1|g65|73|1|g41|42|1|g103|111|1|n
+Sentiment {7} Signals: vnzwzjWb, 9-XsLG7K, m2iRb3j5, WPdVQgR0
+Sentiment {8} Tags: Russian, president
+Sentiment {8} Dominant Valence: ambiguous
+Sentiment {8} Total Sentiment Score: 20.0
+Sentiment {8} Annotated Text: "Vladimir Putin is a strong leader in the same way that arsenic is a strong drink, " Garry Kasparov, the former world chess champion and a <<fierce>> <<critic>> of the {{Russian}} {{president}}, said in a Facebook post.
+Sentiment {8} Serialized Representation: V2|2|Russian|160|166|1|epresident|168|176|1|e2|146|151|1|m139|144|1|m
+Sentiment {8} Signals: yWVnGWwT, sCXbiUeG
+Sentiment {9} Tags: president
+Sentiment {9} Dominant Valence: negative
+Sentiment {9} Total Sentiment Score: 50.0
+Sentiment {9} Annotated Text: <<"Praising>> a <<brutal>> K.G.B. dictator, especially as preferable to a democratically elected U.S. {{president}}, whether you like Obama or <<hate>> him, is <<despicable>> and <<dangerous>>. "
+Sentiment {9} Serialized Representation: V2|1|president|94|102|1|e5|144|153|1|n131|134|1|a0|8|1|p159|167|1|f12|17|1|a
+Sentiment {9} Signals: aFWF7QsH, wRfnZSNL, obl0eTxS, 1Ev-6eO9, n59tSH06
+Sentiment {10} Tags: Mr. Putin, Russian
+Sentiment {10} Dominant Valence: ambiguous
+Sentiment {10} Total Sentiment Score: 10.0
+Sentiment {10} Annotated Text: But what, aside from his undeniable skill at rallying the support of the {{Russian}} public, has made {{Mr. Putin}} such a <<potent>> figure, giving him a growing band of admirers like Mr. Trump and any number of right-wing populist leaders scattered across Europe?
+Sentiment {10} Serialized Representation: V2|2|Mr. Putin|98|106|1|eRussian|73|79|1|e1|115|120|1|m
+Sentiment {10} Signals: DjM1ZXJ1
+Sentiment {11} Tags: Mr. Putin, Russian, Moscow
+Sentiment {11} Dominant Valence: ambiguous
+Sentiment {11} Total Sentiment Score: 20.0
+Sentiment {11} Annotated Text: {{Mr. Putin}} has annexed Crimea, stirred up and armed a pro-Russian <<rebellion>> in eastern Ukraine, turned a once vibrant {{Russian}} news media into an echo chamber, and <<restored>> {{Moscow}} as an indispensable player on the world stage, by turns a peacemaker and troublemaker.
+Sentiment {11} Serialized Representation: V2|3|Mr. Putin|0|8|1|eRussian|117|123|1|eMoscow|171|176|1|e2|65|73|1|n162|169|1|p
+Sentiment {11} Signals: 9K2FWGCF, 0olMLE4t
+Sentiment {12} Tags: Russia, Moscow, United States
+Sentiment {12} Dominant Valence: positive
+Sentiment {12} Total Sentiment Score: 50.0
+Sentiment {12} Annotated Text: His peacemaking was at the fore early on Saturday when {{Russia}} and the {{United States}} <<agreed>> in Geneva to a new plan to curb <<violence>> in the Syrian <<conflict>>, in which Washington and {{Moscow}} back opposite sides but share a <<desire>> to <<destroy>> the Islamic State.
+Sentiment {12} Serialized Representation: V2|3|Russia|55|60|1|eMoscow|180|185|1|eUnited States|70|82|1|e5|84|89|1|j219|224|1|j146|153|1|c229|235|1|n123|130|1|a
+Sentiment {12} Signals: PIQSTjCM, 6Kn8aWu5, Iev013iJ, vZNwU2ww, 5znxMoxl
+Sentiment {13} Tags: Mr. Putin
+Sentiment {13} Dominant Valence: negative
+Sentiment {13} Total Sentiment Score: 11.0
+Sentiment {13} Annotated Text: Judged by many of the yardsticks of success he set before his first presidential race in March 2000, however, {{Mr. Putin}} has <<often>> <<faltered>>.
+Sentiment {13} Serialized Representation: V2|1|Mr. Putin|110|118|1|e2|124|128|1|n130|137|1|n
+Sentiment {13} Signals: -fNNO51Q, 9BxpOXmj
+Sentiment {14} Tags: 
+Sentiment {14} Dominant Valence: negative
+Sentiment {14} Total Sentiment Score: 10.0
+Sentiment {14} Annotated Text: He has cut down to size or driven into exile some of the so-called oligarchs who made billions in <<murky>> deals under President Boris N. Yeltsin in the 1990s.
+Sentiment {14} Serialized Representation: V2|0|1|98|102|1|n
+Sentiment {14} Signals: Gxrifgv9
+Sentiment {15} Tags: 
+Sentiment {15} Dominant Valence: ambiguous
+Sentiment {15} Total Sentiment Score: 30.0
+Sentiment {15} Annotated Text: But far from <<eliminating>> "oligarchs as a class" as he promised, he has created a new class of business moguls who still <<enjoy>> sweet insider deals and whose only real difference with those who thrived under Mr. Yeltsin is that they do <<not>> dare <<challenge>> the Kremlin.
+Sentiment {15} Serialized Representation: V2|0|4|120|124|1|j243|251|1|m13|23|1|n234|236|1|m
+Sentiment {15} Signals: e1qWH0Si, yYMf4_7G, tbFFv2GF, H8PBWptY
+Sentiment {16} Tags: Mr. Putin, Russia, president
+Sentiment {16} Dominant Valence: negative
+Sentiment {16} Total Sentiment Score: 10.0
+Sentiment {16} Annotated Text: {{Mr. Putin}}'s economic record has also been mixed to <<poor>>. The economy grew rapidly during his first two terms as {{president}}, from 2000 to 2008— about 8 percent annually, on average, thanks largely to soaring prices for energy, of which {{Russia}} is a major exporter.
+Sentiment {16} Serialized Representation: V2|3|Mr. Putin|0|8|1|eRussia|234|239|1|epresident|112|120|1|e1|51|54|1|n
+Sentiment {16} Signals: kPXRGC1w
+Sentiment {17} Tags: Mr. Putin
+Sentiment {17} Dominant Valence: ambiguous
+Sentiment {17} Total Sentiment Score: 31.0
+Sentiment {17} Annotated Text: But it developed none of the diversity beyond oil and gas or <<freedom>> from <<corruption>> that {{Mr. Putin}} <<repeatedly>> promised.
+Sentiment {17} Serialized Representation: V2|1|Mr. Putin|90|98|1|e3|100|109|1|g61|67|1|j74|83|1|n
+Sentiment {17} Signals: AmvhqltV, exvEvGIQ, rw96Gqnr, e0ofDjtK
+Sentiment {18} Tags: 
+Sentiment {18} Dominant Valence: negative
+Sentiment {18} Total Sentiment Score: 10.0
+Sentiment {18} Annotated Text: And with oil prices now below $50 a barrel, half what they were in 2014 and far off their peak of $145 in 2008, the economy is in the <<doldrums>>.
+Sentiment {18} Serialized Representation: V2|0|1|134|141|1|s
+Sentiment {18} Signals: BXjCHE6y
+Sentiment {19} Tags: 
+Sentiment {19} Dominant Valence: negative
+Sentiment {19} Total Sentiment Score: 10.0
+Sentiment {19} Annotated Text: It perked up slightly in June but has <<declined>> over all by nearly 1 percent since the start of the year.
+Sentiment {19} Serialized Representation: V2|0|1|38|45|1|n
+Sentiment {19} Signals: g2XInH52
+Sentiment {20} Tags: Mr. Putin
+Sentiment {20} Dominant Valence: positive
+Sentiment {20} Total Sentiment Score: 32.0
+Sentiment {20} Annotated Text: That is <<better>> than the decline of 3.7 percent last year but still a <<threat>> to what had been {{Mr. Putin}}'s contract with his people: rising <<prosperity>> in return for obedience.
+Sentiment {20} Serialized Representation: V2|1|Mr. Putin|93|101|1|e3|69|74|1|n138|147|1|p8|13|1|p
+Sentiment {20} Signals: cCC_5MIh, gEPY7p8V, xE7czvGM, NvN7fjvm
+Sentiment {21} Tags: Mr. Putin, Mr. Putin popularity
+Sentiment {21} Dominant Valence: positive
+Sentiment {21} Total Sentiment Score: 43.0
+Sentiment {21} Annotated Text: With the economy <<on>> <<the>> <<ropes>>, the Kremlin has turned <<increasingly>> to foreign affairs to keep {{Mr. Putin}}'s <<popularity}> at levels that would <<delight>> any Western leader.
+Sentiment {21} Serialized Representation: V2|2|Mr. Putin|94|102|1|eMr. Putin popularity|94|115|1|e6|17|18|1|g138|144|1|j20|22|1|g24|28|1|g106|115|1|p54|65|1|g
+Sentiment {21} Signals: 1-AyxMZL, Md25_ldW, Uew-fv9R, 6tooYhrU
+Sentiment {22} Tags: Russia, United States
+Sentiment {22} Dominant Valence: positive
+Sentiment {22} Total Sentiment Score: 30.0
+Sentiment {22} Annotated Text: His ratings soared after the annexation of Crimea in 2014, which unleashed a wave of <<patriotic>> <<fervor>> across {{Russia}}— and caused more economic pain as the {{United States}} and the European Union <<imposed>> sanctions.
+Sentiment {22} Serialized Representation: V2|2|Russia|109|114|1|eUnited States|154|166|1|e3|95|100|1|j85|93|1|p191|197|1|n
+Sentiment {22} Signals: WO-2tad4, rE1BjNw9, WoKzE0-_
+Sentiment {23} Tags: Russia
+Sentiment {23} Dominant Valence: ambiguous
+Sentiment {23} Total Sentiment Score: 20.0
+Sentiment {23} Annotated Text: The military <<interventions>> in Syria to prop up President Bashar al-Assad have been accompanied by a drumbeat of reports on state television <<celebrating>> {{Russia}}'s role as a key power without which no military or political knot can be untied.
+Sentiment {23} Serialized Representation: V2|1|Russia|152|157|1|e2|140|150|1|p13|25|1|n
+Sentiment {23} Signals: LmtFdjpC, 6qoTvO-2
+Sentiment {24} Tags: 
+Sentiment {24} Dominant Valence: negative
+Sentiment {24} Total Sentiment Score: 10.0
+Sentiment {24} Annotated Text: This has reinforced his status at home, but also a deep <<wariness>> of his intentions among mainstream political leaders abroad.
+Sentiment {24} Serialized Representation: V2|0|1|56|63|1|f
+Sentiment {24} Signals: ZbOOneli
+Sentiment {25} Tags: Russia, Russian, Moscow
+Sentiment {25} Dominant Valence: positive
+Sentiment {25} Total Sentiment Score: 13.0
+Sentiment {25} Annotated Text: He has inserted {{Russia}} not only into Syria but also into the even <<more>> intractable Israeli-Palestinian <<conflict>>, with {{Russian}} diplomats working frantically to organize a meeting in {{Moscow}} between Prime Minister Benjamin Netanyahu and the leader of the Palestinian Authority, Mahmoud Abbas.
+Sentiment {25} Serialized Representation: V2|3|Russia|16|21|1|eRussian|118|124|1|eMoscow|181|186|1|e2|66|69|1|c103|110|1|c
+Sentiment {25} Signals: OCj0X5fN, Iev013iJ
+Sentiment {26} Tags: Russia, Russian
+Sentiment {26} Dominant Valence: positive
+Sentiment {26} Total Sentiment Score: 20.0
+Sentiment {26} Annotated Text: "It is <<important>> for Putin to <<drive>> <<home>> the message, especially to the U.S., that {{Russia}} is a global power, " said Dmitri Trenin, the director of the Moscow Carnegie Center, a research group, and an expert on {{Russian}} foreign policy.
+Sentiment {26} Serialized Representation: V2|2|Russia|83|88|1|eRussian|210|216|1|e3|7|15|1|p36|39|1|g30|34|1|g
+Sentiment {26} Signals: dXd5F_tR, EG-MhoRY
+Sentiment {27} Tags: Mr. Putin, Russia
+Sentiment {27} Dominant Valence: negative
+Sentiment {27} Total Sentiment Score: 20.0
+Sentiment {27} Annotated Text: {{Mr. Putin}}, he said, was <<"incensed">> in 2014 when President Obama <<dismissed>> {{Russia}} as a "regional power. "
+Sentiment {27} Serialized Representation: V2|2|Mr. Putin|0|8|1|eRussia|74|79|1|e2|64|72|1|s24|33|1|a
+Sentiment {27} Signals: l2wwUf3W, MBFz6fkS
+Sentiment {28} Tags: Mr. Putin, Russia, Moscow
+Sentiment {28} Dominant Valence: positive
+Sentiment {28} Total Sentiment Score: 10.0
+Sentiment {28} Annotated Text: <<Eager>> to show that Mr. Obama underestimated {{Russia}}'s reach, {{Mr. Putin}} has since embarked on a whirlwind of diplomatic activity across the Middle East and in Asia, asserting {{Moscow}}'s role far beyond the narrow confines of the former Soviet Union.
+Sentiment {28} Serialized Representation: V2|3|Mr. Putin|60|68|1|eRussia|44|49|1|eMoscow|173|178|1|e1|0|4|1|t
+Sentiment {28} Signals: -S_9XTar
+Sentiment {29} Tags: Russia
+Sentiment {29} Dominant Valence: negative
+Sentiment {29} Total Sentiment Score: 30.0
+Sentiment {29} Annotated Text: "You can <<criticize>> {{Russia}} for anything, but if you <<belittle>> {{Russia}}, that is a <<crime>>, " Mr. Trenin said.
+Sentiment {29} Serialized Representation: V2|2|Russia|19|24|1|eRussia|60|65|1|e3|9|17|1|n78|82|1|n51|58|1|n
+Sentiment {29} Signals: D1LRZxpz, 8meq-rR6, MLgBc5XU
+Sentiment {30} Tags: Russia
+Sentiment {30} Dominant Valence: zero
+Sentiment {30} Total Sentiment Score: 0.0
+Sentiment {30} Annotated Text: That {{Russia}} is now a power to be reckoned with is a message drummed home relentlessly on television.
+Sentiment {30} Serialized Representation: V2|1|Russia|5|10|1|e0|
+Sentiment {30} Signals: 
+Sentiment {31} Tags: Mr. Putin, Russian
+Sentiment {31} Dominant Valence: positive
+Sentiment {31} Total Sentiment Score: 10.0
+Sentiment {31} Annotated Text: "We interpret <<freedom>> of expression in different ways, " {{Mr. Putin}} told three {{Russian}} journalists who were writing a book to burnish his image before the 2000 presidential election, when he was a little-known former K.G.B. officer.
+Sentiment {31} Serialized Representation: V2|2|Mr. Putin|57|65|1|eRussian|78|84|1|e1|14|20|1|j
+Sentiment {31} Signals: AmvhqltV
+Sentiment {32} Tags: Moscow
+Sentiment {32} Dominant Valence: negative
+Sentiment {32} Total Sentiment Score: 20.0
+Sentiment {32} Annotated Text: One of those journalists, Nataliya Gevorkyan, has since been <<beaten>> up twice by unidentified <<assailants>> in {{Moscow}}, and her old and once freewheeling newspaper, Kommersant, was taken over by a pro-Kremlin businessman.
+Sentiment {32} Serialized Representation: V2|1|Moscow|107|112|1|e2|61|66|1|n93|102|1|n
+Sentiment {32} Signals: X4TgVqZf, at4O3dM6
+Sentiment {33} Tags: Russia
+Sentiment {33} Dominant Valence: negative
+Sentiment {33} Total Sentiment Score: 10.0
+Sentiment {33} Annotated Text: Effectively <<barred>> from publishing in {{Russia}}, she lives mostly in France.
+Sentiment {33} Serialized Representation: V2|1|Russia|38|43|1|e1|12|17|1|n
+Sentiment {33} Signals: rcsz0inx
+Sentiment {34} Tags: Mr. Putin, Russian, Moscow, president
+Sentiment {34} Dominant Valence: ambiguous
+Sentiment {34} Total Sentiment Score: 10.0
+Sentiment {34} Annotated Text: While <<never>> a <<fan>> of {{Mr. Putin}}— "I was sure a guy who served in the K.G.B. should never be president"— Ms. Gevorkyan granted the {{Russian}} {{president}} one indisputable asset, one that appalls {{Moscow}} intellectuals but enthralls admirers like Mr. Trump: "People elected him. "
+Sentiment {34} Serialized Representation: V2|4|Mr. Putin|21|29|1|eRussian|129|135|1|eMoscow|188|193|1|epresident|137|145|1|e2|14|16|1|m6|10|1|m
+Sentiment {34} Signals: YQ7MJYTg, MYy0ZKIZ
+Sentiment {35} Tags: 
+Sentiment {35} Dominant Valence: positive
+Sentiment {35} Total Sentiment Score: 26.8
+Sentiment {35} Annotated Text: "He is <<popular>>. Maybe not 86 percent, but <<definitely>> <<more>> than 50 percent, " she continued.
+Sentiment {35} Serialized Representation: V2|0|3|7|13|1|p42|51|1|g53|56|1|g
+Sentiment {35} Signals: uhTu3Enc, WhbCD-3C, gEPY7p8V, e0ofDjtK
+Sentiment {36} Tags: Mr. Putin
+Sentiment {36} Dominant Valence: positive
+Sentiment {36} Total Sentiment Score: 46.0
+Sentiment {36} Annotated Text: {{Mr. Putin}}'s ratings are <<certainly>> <<far>> <<higher>> than those of Mr. Obama, and {{Mr. Putin}} should <<easily>> <<win>> the next presidential election in 2018 if he runs.
+Sentiment {36} Serialized Representation: V2|2|Mr. Putin|0|8|1|eMr. Putin|74|82|1|e5|91|96|1|p24|32|1|g98|100|1|j34|36|1|g38|43|1|g
+Sentiment {36} Signals: 9-XsLG7K, gEPY7p8V, e0ofDjtK, 8fKMS_TS, nqCxvbf_
+Sentiment {37} Tags: 
+Sentiment {37} Dominant Valence: positive
+Sentiment {37} Total Sentiment Score: 38.0
+Sentiment {37} Annotated Text: In the latest strike in a sustained campaign to shut down or at least tame alternative sources of information, Russia's Justice Ministry recently announced that it would place the Levada Center, an <<independent>> and <<highly>> respected national pollster, on its official register of organizations "operating as foreign agents, " a listing that the center said would <<cripple>> its work.
+Sentiment {37} Serialized Representation: V2|0|3|361|367|1|m198|208|1|p214|219|1|p
+Sentiment {37} Signals: 7gAdI4Tj, mtmGvjh1, MwyA2FyY
+Sentiment {38} Tags: 
+Sentiment {38} Dominant Valence: positive
+Sentiment {38} Total Sentiment Score: 24.0
+Sentiment {38} Annotated Text: The decision to brand the country's <<most>> <<reliable>> polling organization as an alien force followed the release of an opinion survey that showed <<declining>> support for Mr. Putin's United Russia Party ahead of elections for Parliament on Sept. 18.
+Sentiment {38} Serialized Representation: V2|0|3|41|48|1|p36|39|1|p143|151|1|n
+Sentiment {38} Signals: 5NuVRPTC, EsG4Gac-, e0ofDjtK, g2XInH52
+Sentiment {39} Tags: Mr. Putin, Mr. Putin popularity
+Sentiment {39} Dominant Valence: positive
+Sentiment {39} Total Sentiment Score: 33.0
+Sentiment {39} Annotated Text: {{Mr. Putin}}'s <<popularity}>, said Peter Kreko of the Political Capital Institute, a research group in Budapest, has made him a seductive figure for Western politicians and electors, who often pine for decisive action and a <<more>> <<secure>> world, free from the uncertainties created by immigration, <<insecurity>> and economic globalization.
+Sentiment {39} Serialized Representation: V2|2|Mr. Putin|0|8|1|eMr. Putin popularity|0|21|1|e4|12|21|1|p218|221|1|p223|228|1|p289|298|1|f
+Sentiment {39} Signals: Md25_ldW, kHRLQJVY, _oynYHJC, OCj0X5fN, z_Ev003R, u9dgZ5EP
+Sentiment {40} Tags: 
+Sentiment {40} Dominant Valence: positive
+Sentiment {40} Total Sentiment Score: 10.0
+Sentiment {40} Annotated Text: "All Western politicians that define themselves as out of the mainstream tend to have <<positive>> views of Russia and Putin, " he said.
+Sentiment {40} Serialized Representation: V2|0|1|86|93|1|p
+Sentiment {40} Signals: 84EuTz3s
+Sentiment {41} Tags: 
+Sentiment {41} Dominant Valence: negative
+Sentiment {41} Total Sentiment Score: 34.0
+Sentiment {41} Annotated Text: "They regard the Putin regime as <<hyper-efficient>>, contrary to the hesitant democratic and sometimes <<incompetent>> and <<paralyzed>> systems in their own countries. "
+Sentiment {41} Serialized Representation: V2|0|3|33|47|1|p100|110|1|n116|124|1|n
+Sentiment {41} Signals: zg9LDlw-, keI14_gW, Qgj5vmq8, AtH09k44
+Sentiment {42} Tags: Russia
+Sentiment {42} Dominant Valence: positive
+Sentiment {42} Total Sentiment Score: 10.0
+Sentiment {42} Annotated Text: This <<efficiency>>, Mr. Kreko added, is mostly a myth but is widely believed. "We used to think that because of pluralist media, checks and balances, and globalization that people could not be brainwashed, " he said, "but what we see in {{Russia}} and also Hungary is that people can be brainwashed. "
+Sentiment {42} Serialized Representation: V2|1|Russia|234|239|1|e1|5|14|1|p
+Sentiment {42} Signals: 6KqEqRXS
+
+LINKS Begin:
+http://www.nytimes.com/2016/09/11/world/europe/putin-admired-by-donald-trump-emphasizes-strength-as-virtue.html
+
+FULL ANNOTATED TEXT Begin:
+Title=Putin, Admired by Donald Trump, Emphasizes Strength as Virtue. 
+Author=ANDREW HIGGINS. 
+PubTime=2016-09-10 16:17:00. 
+http://www.nytimes.com/2016/09/11/world/europe/putin-admired-by-donald-trump-emphasizes-strength-as-virtue.html html. 
+Language=EN. 
+PageID=1080121. 
+MOSCOW— Tiger shooter, bare-chested horseman and architect of [e]{{Russia}}'s revival as a muscular global power, President Vladimir V. Putin, dressed in a somber suit and tie, sat for over an hour this past week sipping tea from a delicate porcelain cup and offering [p]<<earnest>> advice on how to [p]<<improve>> housing, medical care and other services in a provincial town south of here. 
+State television broadcast the entire encounter, in between reports of [e]{{Russian}} airstrikes in Syria ordered by [e]{{Mr. Putin}} and [j]<<gleeful>> accounts of how, thanks to a stunt by a pro-Putin athlete, the [e]{{Russian}} flag appeared during the opening ceremony of the Paralympic Games in Rio de Janeiro despite a ban on the [e]{{Russian}} squad because of a doping scandal. 
+It was, in the span of just a few hours, a dizzying display of the political mastery that [e]{{Mr. Putin}} has over his country and his own image— a tough, can-do warrior; [f]<<caring>> father of his people; and guarantor that [m]<<no>> [m]<<slight>> to [e]{{Russia}}'s [j]<<pride>> will go unanswered. 
+[e]{{Mr. Putin}}, 63, has shown an [p]<<extraordinary>> ability to project an image of towering strength no matter what the circumstances. When he first took power, an old schoolteacher of his in St. Petersburg, Vera Malishkina, remembered her former pupil, who is below average height, as a superb basketball player because he was "very tall. " 
+He has many [n]<<critics>>, many of them now in exile outside [e]{{Russia}} or voiceless outside the coffee shops and wine bars of cosmopolitan cities like [e]{{Moscow}}. But as Donald J. Trump said with [j]<<admiration:>> [e]{{Mr. Putin}} has "very strong control" over [e]{{Russia}}. 
+According to Mr. Trump, the Republican Party's presidential nominee, "He has been a leader [g]<<far>> [g]<<more>> than our leader. " 
+The [p]<<beauty>> of that is largely in the [g]<<eye>> [g]<<of>> [g]<<the>> [g]<<beholder>>, and is [g]<<certainly>> lost on Mr. Putin's Russian [n]<<opponents>>. 
+"Vladimir Putin is a strong leader in the same way that arsenic is a strong drink, " Garry Kasparov, the former world chess champion and a [m]<<fierce>> [m]<<critic>> of the [e]{{Russian}} [e]{{president}}, said in a Facebook post. [p]<<"Praising>> a [a]<<brutal>> K.G.B. dictator, especially as preferable to a democratically elected U.S. [e]{{president}}, whether you like Obama or [a]<<hate>> him, is [n]<<despicable>> and [f]<<dangerous>>. " 
+But what, aside from his undeniable skill at rallying the support of the [e]{{Russian}} public, has made [e]{{Mr. Putin}} such a [m]<<potent>> figure, giving him a growing band of admirers like Mr. Trump and any number of right-wing populist leaders scattered across Europe? 
+[e]{{Mr. Putin}} has annexed Crimea, stirred up and armed a pro-Russian [n]<<rebellion>> in eastern Ukraine, turned a once vibrant [e]{{Russian}} news media into an echo chamber, and [p]<<restored>> [e]{{Moscow}} as an indispensable player on the world stage, by turns a peacemaker and troublemaker. His peacemaking was at the fore early on Saturday when [e]{{Russia}} and the [e]{{United States}} [j]<<agreed>> in Geneva to a new plan to curb [a]<<violence>> in the Syrian [c]<<conflict>>, in which Washington and [e]{{Moscow}} back opposite sides but share a [j]<<desire>> to [n]<<destroy>> the Islamic State. 
+Judged by many of the yardsticks of success he set before his first presidential race in March 2000, however, [e]{{Mr. Putin}} has [n]<<often>> [n]<<faltered>>. 
+Out With Oligarchs, in With Cronies. 
+He has cut down to size or driven into exile some of the so-called oligarchs who made billions in [n]<<murky>> deals under President Boris N. Yeltsin in the 1990s. But far from [n]<<eliminating>> "oligarchs as a class" as he promised, he has created a new class of business moguls who still [j]<<enjoy>> sweet insider deals and whose only real difference with those who thrived under Mr. Yeltsin is that they do [m]<<not>> dare [m]<<challenge>> the Kremlin. 
+An Economy Running on Fumes. 
+[e]{{Mr. Putin}}'s economic record has also been mixed to [n]<<poor>>. The economy grew rapidly during his first two terms as [e]{{president}}, from 2000 to 2008— about 8 percent annually, on average, thanks largely to soaring prices for energy, of which [e]{{Russia}} is a major exporter. But it developed none of the diversity beyond oil and gas or [j]<<freedom>> from [n]<<corruption>> that [e]{{Mr. Putin}} [g]<<repeatedly>> promised. 
+And with oil prices now below $50 a barrel, half what they were in 2014 and far off their peak of $145 in 2008, the economy is in the [s]<<doldrums>>. It perked up slightly in June but has [n]<<declined>> over all by nearly 1 percent since the start of the year. That is [p]<<better>> than the decline of 3.7 percent last year but still a [n]<<threat>> to what had been [e]{{Mr. Putin}}'s contract with his people: rising [p]<<prosperity>> in return for obedience. 
+Winning Russian Hearts Abroad. 
+With the economy [g]<<on>> [g]<<the>> [g]<<ropes>>, the Kremlin has turned [g]<<increasingly>> to foreign affairs to keep [e,e]{{Mr. Putin}}'s [p]<<popularity}> at levels that would [j]<<delight>> any Western leader. His ratings soared after the annexation of Crimea in 2014, which unleashed a wave of [p]<<patriotic>> [j]<<fervor>> across [e]{{Russia}}— and caused more economic pain as the [e]{{United States}} and the European Union [n]<<imposed>> sanctions. 
+The military [n]<<interventions>> in Syria to prop up President Bashar al-Assad have been accompanied by a drumbeat of reports on state television [p]<<celebrating>> [e]{{Russia}}'s role as a key power without which no military or political knot can be untied. This has reinforced his status at home, but also a deep [f]<<wariness>> of his intentions among mainstream political leaders abroad. 
+He has inserted [e]{{Russia}} not only into Syria but also into the even [c]<<more>> intractable Israeli-Palestinian [c]<<conflict>>, with [e]{{Russian}} diplomats working frantically to organize a meeting in [e]{{Moscow}} between Prime Minister Benjamin Netanyahu and the leader of the Palestinian Authority, Mahmoud Abbas. 
+"It is [p]<<important>> for Putin to [g]<<drive>> [g]<<home>> the message, especially to the U.S., that [e]{{Russia}} is a global power, " said Dmitri Trenin, the director of the Moscow Carnegie Center, a research group, and an expert on [e]{{Russian}} foreign policy. 
+[e]{{Mr. Putin}}, he said, was [a]<<"incensed">> in 2014 when President Obama [s]<<dismissed>> [e]{{Russia}} as a "regional power. " [t]<<Eager>> to show that Mr. Obama underestimated [e]{{Russia}}'s reach, [e]{{Mr. Putin}} has since embarked on a whirlwind of diplomatic activity across the Middle East and in Asia, asserting [e]{{Moscow}}'s role far beyond the narrow confines of the former Soviet Union. 
+"You can [n]<<criticize>> [e]{{Russia}} for anything, but if you [n]<<belittle>> [e]{{Russia}}, that is a [n]<<crime>>, " Mr. Trenin said. 
+A Muffled News Media. 
+That [e]{{Russia}} is now a power to be reckoned with is a message drummed home relentlessly on television. Under President Yeltsin, television had a wide array of state and private channels offering a cacophony of views, but now it is largely state-controlled and entirely on message with the Kremlin. 
+"We interpret [j]<<freedom>> of expression in different ways, " [e]{{Mr. Putin}} told three [e]{{Russian}} journalists who were writing a book to burnish his image before the 2000 presidential election, when he was a little-known former K.G.B. officer. 
+One of those journalists, Nataliya Gevorkyan, has since been [n]<<beaten>> up twice by unidentified [n]<<assailants>> in [e]{{Moscow}}, and her old and once freewheeling newspaper, Kommersant, was taken over by a pro-Kremlin businessman. Effectively [n]<<barred>> from publishing in [e]{{Russia}}, she lives mostly in France. 
+But He Has a Seductive Popularity. 
+While [m]<<never>> a [m]<<fan>> of [e]{{Mr. Putin}}— "I was sure a guy who served in the K.G.B. should never be president"— Ms. Gevorkyan granted the [e]{{Russian}} [e]{{president}} one indisputable asset, one that appalls [e]{{Moscow}} intellectuals but enthralls admirers like Mr. Trump: "People elected him. " 
+"He is [p]<<popular>>. Maybe not 86 percent, but [g]<<definitely>> [g]<<more>> than 50 percent, " she continued. "That is democracy. I really don't know about democracy anymore. " 
+[e]{{Mr. Putin}}'s ratings are [g]<<certainly>> [g]<<far>> [g]<<higher>> than those of Mr. Obama, and [e]{{Mr. Putin}} should [p]<<easily>> [j]<<win>> the next presidential election in 2018 if he runs. But the authorities are taking no chances. In the latest strike in a sustained campaign to shut down or at least tame alternative sources of information, Russia's Justice Ministry recently announced that it would place the Levada Center, an [p]<<independent>> and [p]<<highly>> respected national pollster, on its official register of organizations "operating as foreign agents, " a listing that the center said would [m]<<cripple>> its work. 
+The decision to brand the country's [p]<<most>> [p]<<reliable>> polling organization as an alien force followed the release of an opinion survey that showed [n]<<declining>> support for Mr. Putin's United Russia Party ahead of elections for Parliament on Sept. 18. 
+[e,e]{{Mr. Putin}}'s [p]<<popularity}>, said Peter Kreko of the Political Capital Institute, a research group in Budapest, has made him a seductive figure for Western politicians and electors, who often pine for decisive action and a [p]<<more>> [p]<<secure>> world, free from the uncertainties created by immigration, [f]<<insecurity>> and economic globalization. 
+"All Western politicians that define themselves as out of the mainstream tend to have [p]<<positive>> views of Russia and Putin, " he said. "They regard the Putin regime as [p]<<hyper-efficient>>, contrary to the hesitant democratic and sometimes [n]<<incompetent>> and [n]<<paralyzed>> systems in their own countries. " 
+This [p]<<efficiency>>, Mr. Kreko added, is mostly a myth but is widely believed. "We used to think that because of pluralist media, checks and balances, and globalization that people could not be brainwashed, " he said, "but what we see in [e]{{Russia}} and also Hungary is that people can be brainwashed. " 
+
+
+FULL ORIGINAL TEXT Begin:
+Title=Putin, Admired by Donald Trump, Emphasizes Strength as Virtue
+Author=ANDREW HIGGINS
+PubTime=2016-09-10 16:17:00
+Url=http://www.nytimes.com/2016/09/11/world/europe/putin-admired-by-donald-trump-emphasizes-strength-as-virtue.html
+Language=EN
+PageID=1080121
+
+MOSCOW — Tiger shooter, bare-chested horseman and architect of Russia’s revival as a muscular global power, President Vladimir V. Putin, dressed in a somber suit and tie, sat for over an hour this past week sipping tea from a delicate porcelain cup and offering earnest advice on how to improve housing, medical care and other services in a provincial town south of here.
+
+State television broadcast the entire encounter, in between reports of Russian airstrikes in Syria ordered by Mr. Putin and gleeful accounts of how, thanks to a stunt by a pro-Putin athlete, the Russian flag appeared during the opening ceremony of the Paralympic Games in Rio de Janeiro despite a ban on the Russian squad because of a doping scandal.
+
+It was, in the span of just a few hours, a dizzying display of the political mastery that Mr. Putin has over his country and his own image — a tough, can-do warrior; caring father of his people; and guarantor that no slight to Russia’s pride will go unanswered.
+
+Mr. Putin, 63, has shown an extraordinary ability to project an image of towering strength no matter what the circumstances. When he first took power, an old schoolteacher of his in St. Petersburg, Vera Malishkina, remembered her former pupil, who is below average height, as a superb basketball player because he was “very tall.”
+
+He has many critics, many of them now in exile outside Russia or voiceless outside the coffee shops and wine bars of cosmopolitan cities like Moscow. But as Donald J. Trump said with admiration: Mr. Putin has “very strong control” over Russia.
+
+According to Mr. Trump, the Republican Party’s presidential nominee, “He has been a leader far more than our leader.”
+
+The beauty of that is largely in the eye of the beholder, and is certainly lost on Mr. Putin’s Russian opponents.
+
+“Vladimir Putin is a strong leader in the same way that arsenic is a strong drink,” Garry Kasparov, the former world chess champion and a fierce critic of the Russian president, said in a Facebook post. “Praising a brutal K.G.B. dictator, especially as preferable to a democratically elected U.S. president, whether you like Obama or hate him, is despicable and dangerous.”
+
+But what, aside from his undeniable skill at rallying the support of the Russian public, has made Mr. Putin such a potent figure, giving him a growing band of admirers like Mr. Trump and any number of right-wing populist leaders scattered across Europe?
+
+Mr. Putin has annexed Crimea, stirred up and armed a pro-Russian rebellion in eastern Ukraine, turned a once vibrant Russian news media into an echo chamber, and restored Moscow as an indispensable player on the world stage, by turns a peacemaker and troublemaker. His peacemaking was at the fore early on Saturday when Russia and the United States agreed in Geneva to a new plan to curb violence in the Syrian conflict, in which Washington and Moscow back opposite sides but share a desire to destroy the Islamic State.
+
+Judged by many of the yardsticks of success he set before his first presidential race in March 2000, however, Mr. Putin has often faltered.
+
+Out With Oligarchs, in With Cronies
+
+He has cut down to size or driven into exile some of the so-called oligarchs who made billions in murky deals under President Boris N. Yeltsin in the 1990s. But far from eliminating “oligarchs as a class” as he promised, he has created a new class of business moguls who still enjoy sweet insider deals and whose only real difference with those who thrived under Mr. Yeltsin is that they do not dare challenge the Kremlin.
+
+An Economy Running on Fumes
+
+Mr. Putin’s economic record has also been mixed to poor. The economy grew rapidly during his first two terms as president, from 2000 to 2008 — about 8 percent annually, on average, thanks largely to soaring prices for energy, of which Russia is a major exporter. But it developed none of the diversity beyond oil and gas or freedom from corruption that Mr. Putin repeatedly promised.
+
+And with oil prices now below $50 a barrel, half what they were in 2014 and far off their peak of $145 in 2008, the economy is in the doldrums. It perked up slightly in June but has declined over all by nearly 1 percent since the start of the year. That is better than the decline of 3.7 percent last year but still a threat to what had been Mr. Putin’s contract with his people: rising prosperity in return for obedience.
+
+Winning Russian Hearts Abroad
+
+With the economy on the ropes, the Kremlin has turned increasingly to foreign affairs to keep Mr. Putin’s popularity at levels that would delight any Western leader. His ratings soared after the annexation of Crimea in 2014, which unleashed a wave of patriotic fervor across Russia — and caused more economic pain as the United States and the European Union imposed sanctions.
+
+The military interventions in Syria to prop up President Bashar al-Assad have been accompanied by a drumbeat of reports on state television celebrating Russia’s role as a key power without which no military or political knot can be untied. This has reinforced his status at home, but also a deep wariness of his intentions among mainstream political leaders abroad.
+
+He has inserted Russia not only into Syria but also into the even more intractable Israeli-Palestinian conflict, with Russian diplomats working frantically to organize a meeting in Moscow between Prime Minister Benjamin Netanyahu and the leader of the Palestinian Authority, Mahmoud Abbas.
+
+“It is important for Putin to drive home the message, especially to the U.S., that Russia is a global power,” said Dmitri Trenin, the director of the Moscow Carnegie Center, a research group, and an expert on Russian foreign policy.
+
+Mr. Putin, he said, was “incensed” in 2014 when President Obama dismissed Russia as a “regional power.” Eager to show that Mr. Obama underestimated Russia’s reach, Mr. Putin has since embarked on a whirlwind of diplomatic activity across the Middle East and in Asia, asserting Moscow’s role far beyond the narrow confines of the former Soviet Union.
+
+“You can criticize Russia for anything, but if you belittle Russia, that is a crime,” Mr. Trenin said.
+
+A Muffled News Media
+
+That Russia is now a power to be reckoned with is a message drummed home relentlessly on television. Under President Yeltsin, television had a wide array of state and private channels offering a cacophony of views, but now it is largely state-controlled and entirely on message with the Kremlin.
+
+“We interpret freedom of expression in different ways,” Mr. Putin told three Russian journalists who were writing a book to burnish his image before the 2000 presidential election, when he was a little-known former K.G.B. officer.
+
+One of those journalists, Nataliya Gevorkyan, has since been beaten up twice by unidentified assailants in Moscow, and her old and once freewheeling newspaper, Kommersant, was taken over by a pro-Kremlin businessman. Effectively barred from publishing in Russia, she lives mostly in France.
+
+But He Has a Seductive Popularity
+
+While never a fan of Mr. Putin — “I was sure a guy who served in the K.G.B. should never be president” — Ms. Gevorkyan granted the Russian president one indisputable asset, one that appalls Moscow intellectuals but enthralls admirers like Mr. Trump: “People elected him.”
+
+“He is popular. Maybe not 86 percent, but definitely more than 50 percent,” she continued. “That is democracy. I really don’t know about democracy anymore.”
+
+Mr. Putin’s ratings are certainly far higher than those of Mr. Obama, and Mr. Putin should easily win the next presidential election in 2018 if he runs. But the authorities are taking no chances. In the latest strike in a sustained campaign to shut down or at least tame alternative sources of information, Russia’s Justice Ministry recently announced that it would place the Levada Center, an independent and highly respected national pollster, on its official register of organizations “operating as foreign agents,” a listing that the center said would cripple its work.
+
+The decision to brand the country’s most reliable polling organization as an alien force followed the release of an opinion survey that showed declining support for Mr. Putin’s United Russia Party ahead of elections for Parliament on Sept. 18.
+
+Mr. Putin’s popularity, said Peter Kreko of the Political Capital Institute, a research group in Budapest, has made him a seductive figure for Western politicians and electors, who often pine for decisive action and a more secure world, free from the uncertainties created by immigration, insecurity and economic globalization.
+
+“All Western politicians that define themselves as out of the mainstream tend to have positive views of Russia and Putin,” he said. “They regard the Putin regime as hyper-efficient, contrary to the hesitant democratic and sometimes incompetent and paralyzed systems in their own countries.”
+
+This efficiency, Mr. Kreko added, is mostly a myth but is widely believed. “We used to think that because of pluralist media, checks and balances, and globalization that people could not be brainwashed,” he said, “but what we see in Russia and also Hungary is that people can be brainwashed.”
